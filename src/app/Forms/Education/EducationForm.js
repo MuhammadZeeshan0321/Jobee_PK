@@ -266,8 +266,7 @@ function EducationForm(props) {
             gradingSystem: eduFormData.gradingSystem,
             gradeValue: eduFormData.gradeValue
         };
-        console.log("education in saveUpdateUserEducation------------------ ", education)
-        props.saveUpdateSingleObject('UserEducation', eduFormData.Id, education, props.action);
+      props.saveUpdateSingleObject('UserEducation', eduFormData.Id, education, props.action);
         props.closeModal();
     };
 
