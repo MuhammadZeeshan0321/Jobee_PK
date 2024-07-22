@@ -1,5 +1,5 @@
 
-import { StyleSheet, View, Alert, Text, TouchableOpacity, Platform } from "react-native";
+import { StyleSheet, View, Text, TouchableOpacity, Platform } from "react-native";
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 import Header from "../CommonComponent/Header";
@@ -9,7 +9,6 @@ import DataHeader from "../CommonComponent/DataHeader";
 
 function UserEducation(props) {
     const userEducationHandler = () => {
-        //Alert.alert("This is user education button clicked");
         props.ButtonEvent();
     }
 

@@ -475,34 +475,9 @@ const styles = StyleSheet.create({
     textcontainer: {
         paddingHorizontal: 20
     },
-    headingText: {
-        textAlign: 'center',
-        fontSize: 30,
-        marginBottom: 10,
-        fontFamily: fonts.regular,
-        color: '#00bac9'
-    },
     confirmButtons: {
         justifyContent: 'space-around',
         marginTop: 20,
         marginLeft: '-10%'
-    },
-    buttonStyle: {
-        flexDirection: 'row',
-        paddingVertical: 10,
-        paddingHorizontal: 20
-    },
-    buttonTextStyle: {
-        fontSize: 18,
-        paddingHorizontal: 20,
-        paddingVertical: 5,
-        fontFamily: fonts.regular,
-    },
-    deleteButtonContainer: {
-        flexDirection: 'row',
-        justifyContent: 'space-around',
-        backgroundColor: '#fff',
-        borderTopWidth: 1,
-        borderTopColor: 'silver'
     },
 });

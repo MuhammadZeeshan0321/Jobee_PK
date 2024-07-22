@@ -32,6 +32,7 @@ import SkillsForm from "../../Forms/Skills/SkillsForm";
 import UserEducation from "../../components/UserEducation/UserEducation";
 import EducationForm from "../../Forms/Education/EducationForm";
 import EditProfile from "./EditModal/EditProfile";
+import WorkExperience from "../../components/UserProfile/WorkExperience/WorkExperience";
 
 function MyProfileScreen({ navigation }) {
 
@@ -1141,6 +1142,20 @@ function MyProfileScreen({ navigation }) {
         setFormVal('Add Education');
     };
 
+    const addWorkHistoryButtonHandler = () => {
+        setIsVisiblePopUp(true);
+        setFormVal('Add Work History');
+        // let workHistory = { Id: -1 };
+        // this.addAndEditButtonHandler(
+        //   'Jobee.WorkHistoryFormScreen',
+        //   'Add Work History',
+        //   workHistory,
+        //   null,
+        //   null,
+        //   this.addEditSingleObjectInState
+        // );
+      };
+
     const moreButtonHandler = (callfrom, dataObject) => {
         setProfileData((prevState) => ({
             ...prevState,
@@ -1351,8 +1366,8 @@ function MyProfileScreen({ navigation }) {
                                         <ProfileSummary isEmptyState={profileData.ProfileSummary === '' ? true : false} ProfileSummary={profileData.ProfileSummary} isDisable={profileData.isdisable} ButtonEvent={addSummaryButtonHandler} EditButtonEvent={editSummaryButtonHandler} />
                                         <Skills isEmptyState={profileData.UserSkills.length === 0 ? true : false} ButtonEvent={addSkillButtonHandler} UserSkills={profileData.UserSkills} EditButtonEvent={editSkillButtonHandler} moreButtonEvent={moreButtonHandler} />
                                         <UserEducation isEmptyState={profileData.UserEducation.length === 0 ? true : false} UserEducation={profileData.UserEducation} ButtonEvent={addUserEducationButtonHandler} moreButtonEvent={moreButtonHandler} />
-                                        {/* <WorkExperience isEmptyState={this.state.WorkHistory.length === 0 ? true : false} WorkHistory={this.state.WorkHistory} ButtonEvent={this.addWorkHistoryButtonHandler} moreButtonEvent={this.moreButtonHandler} />
-                                    <Projects isEmptyState={this.state.ProjectsList.length === 0 ? true : false} ProjectsList={this.state.ProjectsList} ButtonEvent={this.addProjectsButtonHandler} moreButtonEvent={this.moreButtonHandler} />
+                                        <WorkExperience isEmptyState={profileData.WorkHistory.length === 0 ? true : false} WorkHistory={profileData.WorkHistory} ButtonEvent={addWorkHistoryButtonHandler} moreButtonEvent={moreButtonHandler} />
+                                    {/* <Projects isEmptyState={this.state.ProjectsList.length === 0 ? true : false} ProjectsList={this.state.ProjectsList} ButtonEvent={this.addProjectsButtonHandler} moreButtonEvent={this.moreButtonHandler} />
                                     <FuncationalArea isEmptyState={this.state.FunctionalArea.length === 0 ? true : false} ButtonEvent={this.addFuncAreaButtonHandler} FunctionalArea={this.state.FunctionalArea} EditButtonEvent={this.editFuncAreaButtonHandler} />
                                     <Industry isEmptyState={this.state.IndustryList.length === 0 ? true : false} ButtonEvent={this.addIndustoryButtonHandler} IndustryList={this.state.IndustryList} EditButtonEvent={this.editIndustoryButtonHandler} />
                                     <Languages isEmptyState={this.state.LanguagesList.length === 0 ? true : false} ButtonEvent={this.addLanguagesButtonHandler} LanguagesList={this.state.LanguagesList} EditButtonEvent={this.editLanguagesButtonHandler} />
