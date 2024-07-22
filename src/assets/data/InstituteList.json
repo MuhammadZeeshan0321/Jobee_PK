@@ -1,0 +1,718 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Abbottabad International Medical College"
+	},
+	{
+		"ID": "2",
+		"Text": "ACCA Pakistan"
+	},
+	{
+		"ID": "3",
+		"Text": "Aga Khan University"
+	},
+	{
+		"ID": "4",
+		"Text": "Air University"
+	},
+	{
+		"ID": "5",
+		"Text": "Akhtar Saeed Medical and Dental College"
+	},
+	{
+		"ID": "6",
+		"Text": "Al-Khair University"
+	},
+	{
+		"ID": "7",
+		"Text": "Allama Iqbal Medical College"
+	},
+	{
+		"ID": "8",
+		"Text": "Allama Iqbal Open Univeristy"
+	},
+	{
+		"ID": "9",
+		"Text": "Amina Inayat Medical College"
+	},
+	{
+		"ID": "10",
+		"Text": "Army Medical College"
+	},
+	{
+		"ID": "11",
+		"Text": "Avicenna Medical College"
+	},
+	{
+		"ID": "12",
+		"Text": "Ayub Medical College"
+	},
+	{
+		"ID": "13",
+		"Text": "Bahauddin Zakariya University"
+	},
+	{
+		"ID": "14",
+		"Text": "Bahria University"
+	},
+	{
+		"ID": "15",
+		"Text": "Bahria University Medical and Dental College"
+	},
+	{
+		"ID": "16",
+		"Text": "Balochistan University of Engineering and Technology"
+	},
+	{
+		"ID": "17",
+		"Text": "Balochistan University of Information Technology and Management Sciences"
+	},
+	{
+		"ID": "18",
+		"Text": "Baqai Medical University"
+	},
+	{
+		"ID": "19",
+		"Text": "Beaconhouse National University"
+	},
+	{
+		"ID": "20",
+		"Text": "Bolan Medical College"
+	},
+	{
+		"ID": "21",
+		"Text": "Central Park Medical College"
+	},
+	{
+		"ID": "22",
+		"Text": "Chandka Medical College"
+	},
+	{
+		"ID": "23",
+		"Text": "City University of Science & Information Technology"
+	},
+	{
+		"ID": "24",
+		"Text": "CMH Lahore Medical College"
+	},
+	{
+		"ID": "25",
+		"Text": "College Of Digital Science"
+	},
+	{
+		"ID": "26",
+		"Text": "COMSATS Institute of Information Technology"
+	},
+	{
+		"ID": "27",
+		"Text": "Continental Medical College"
+	},
+	{
+		"ID": "28",
+		"Text": "Dadabhoy Institute of Higher Education"
+	},
+	{
+		"ID": "29",
+		"Text": "Dow International Medical College"
+	},
+	{
+		"ID": "30",
+		"Text": "Dow Medical College"
+	},
+	{
+		"ID": "31",
+		"Text": "Fatima Jinnah Medical College"
+	},
+	{
+		"ID": "32",
+		"Text": "Fatima Jinnah Women University"
+	},
+	{
+		"ID": "33",
+		"Text": "Federal Urdu University of Arts"
+	},
+	{
+		"ID": "34",
+		"Text": "FMH College of Medicine and Dentistry"
+	},
+	{
+		"ID": "35",
+		"Text": "Forman Christian College"
+	},
+	{
+		"ID": "36",
+		"Text": "Foundation University"
+	},
+	{
+		"ID": "37",
+		"Text": "Foundation University Medical College"
+	},
+	{
+		"ID": "38",
+		"Text": "Frontier Medical College"
+	},
+	{
+		"ID": "39",
+		"Text": "Frontier Women University"
+	},
+	{
+		"ID": "40",
+		"Text": "Gandhara University"
+	},
+	{
+		"ID": "41",
+		"Text": "Ghulam Ishaq Khan Institute of Engineering Sciences & Technology"
+	},
+	{
+		"ID": "42",
+		"Text": "Ghulam Muhammad Mahar Medical College"
+	},
+	{
+		"ID": "43",
+		"Text": "GIFT University"
+	},
+	{
+		"ID": "44",
+		"Text": "Gomal Medical College"
+	},
+	{
+		"ID": "45",
+		"Text": "Gomal University"
+	},
+	{
+		"ID": "46",
+		"Text": "Government College University"
+	},
+	{
+		"ID": "47",
+		"Text": "Government College University Faisalabad"
+	},
+	{
+		"ID": "48",
+		"Text": "Greenwich University"
+	},
+	{
+		"ID": "49",
+		"Text": "Hajvery University"
+	},
+	{
+		"ID": "50",
+		"Text": "Hamdard College of Medicine and Dentistry"
+	},
+	{
+		"ID": "51",
+		"Text": "Hamdard University"
+	},
+	{
+		"ID": "52",
+		"Text": "Hazara University"
+	},
+	{
+		"ID": "53",
+		"Text": "Imperial College of Business Studies"
+	},
+	{
+		"ID": "54",
+		"Text": "Independent Medical College"
+	},
+	{
+		"ID": "55",
+		"Text": "Indus Institute of Higher Education"
+	},
+	{
+		"ID": "56",
+		"Text": "Indus Valley School of Art and Architecture"
+	},
+	{
+		"ID": "57",
+		"Text": "Institute of Business Administration (IBA)"
+	},
+	{
+		"ID": "58",
+		"Text": "Institute of Business Management (IoBM)"
+	},
+	{
+		"ID": "59",
+		"Text": "Institute of Chartered Accountants of Pakistan"
+	},
+	{
+		"ID": "60",
+		"Text": "Institute of Cost & Management Accountancy of Pakistan (ICMAP)"
+	},
+	{
+		"ID": "61",
+		"Text": "Institute of Management Sciences"
+	},
+	{
+		"ID": "62",
+		"Text": "Institute of Space Technology"
+	},
+	{
+		"ID": "63",
+		"Text": "International Islamic University"
+	},
+	{
+		"ID": "64",
+		"Text": "Iqra University"
+	},
+	{
+		"ID": "65",
+		"Text": "Islamabad Medical and Dental College"
+	},
+	{
+		"ID": "66",
+		"Text": "Islamia University"
+	},
+	{
+		"ID": "67",
+		"Text": "Islamic International Medical College"
+	},
+	{
+		"ID": "68",
+		"Text": "Isra University"
+	},
+	{
+		"ID": "69",
+		"Text": "Isra University (Faculty of Medicine and Allied Medical Sciences)"
+	},
+	{
+		"ID": "70",
+		"Text": "Jinnah Medical and Dental College"
+	},
+	{
+		"ID": "71",
+		"Text": "Kabir Medical College"
+	},
+	{
+		"ID": "72",
+		"Text": "Karachi Medical and Dental College"
+	},
+	{
+		"ID": "73",
+		"Text": "Karachi School for Business & Leadership (KSBL)"
+	},
+	{
+		"ID": "74",
+		"Text": "Karakurum International University"
+	},
+	{
+		"ID": "75",
+		"Text": "Khadim Ali Shah Bukhari Institute of Technology"
+	},
+	{
+		"ID": "76",
+		"Text": "Khyber Girls Medical College"
+	},
+	{
+		"ID": "77",
+		"Text": "Khyber Medical College"
+	},
+	{
+		"ID": "78",
+		"Text": "Khyber Medical University"
+	},
+	{
+		"ID": "79",
+		"Text": "King Edward Medical University"
+	},
+	{
+		"ID": "80",
+		"Text": "Kinnaird College for Women"
+	},
+	{
+		"ID": "81",
+		"Text": "Kohat University of Science & Technology"
+	},
+	{
+		"ID": "82",
+		"Text": "KUST Institute of Medical Sciences"
+	},
+	{
+		"ID": "83",
+		"Text": "Lahore College for Women University"
+	},
+	{
+		"ID": "84",
+		"Text": "Lahore Medical and Dental College"
+	},
+	{
+		"ID": "85",
+		"Text": "Lahore School of Economics"
+	},
+	{
+		"ID": "86",
+		"Text": "Lahore University of Management Sciences (LUMS)"
+	},
+	{
+		"ID": "87",
+		"Text": "Liaquat College of Medicine and Dentistry"
+	},
+	{
+		"ID": "88",
+		"Text": "Liaquat National Medical College"
+	},
+	{
+		"ID": "89",
+		"Text": "Liaquat University of Medical and Health Sciences"
+	},
+	{
+		"ID": "90",
+		"Text": "LOGIX College"
+	},
+	{
+		"ID": "91",
+		"Text": "Mehran University of Engineering & Technology"
+	},
+	{
+		"ID": "92",
+		"Text": "Minhaj University"
+	},
+	{
+		"ID": "93",
+		"Text": "Mirpur University of Science & Technology (MUST)"
+	},
+	{
+		"ID": "94",
+		"Text": "Mohammad Ali Jinnah University"
+	},
+	{
+		"ID": "95",
+		"Text": "Mohi-ud-Din Islamic University"
+	},
+	{
+		"ID": "96",
+		"Text": "Mohiuddin Islamic Medical College"
+	},
+	{
+		"ID": "97",
+		"Text": "Muhammad Medical College"
+	},
+	{
+		"ID": "98",
+		"Text": "Multan Medical and Dental College"
+	},
+	{
+		"ID": "99",
+		"Text": "National College of Arts"
+	},
+	{
+		"ID": "100",
+		"Text": "National Textile University"
+	},
+	{
+		"ID": "101",
+		"Text": "National University of Modern Language (NUML)"
+	},
+	{
+		"ID": "102",
+		"Text": "National University of Computer and Emerging Sciences"
+	},
+	{
+		"ID": "103",
+		"Text": "National University of Modern Languages"
+	},
+	{
+		"ID": "104",
+		"Text": "National University of Science and Technology"
+	},
+	{
+		"ID": "105",
+		"Text": "Nawaz Sharif Medical College"
+	},
+	{
+		"ID": "106",
+		"Text": "NED University of Engineering & Technology"
+	},
+	{
+		"ID": "107",
+		"Text": "Netsol Technology Institute"
+	},
+	{
+		"ID": "108",
+		"Text": "Newport Institute of Communication and Economics"
+	},
+	{
+		"ID": "109",
+		"Text": "Nishtar Medical College"
+	},
+	{
+		"ID": "110",
+		"Text": "Northern University"
+	},
+	{
+		"ID": "111",
+		"Text": "NUST Business School"
+	},
+	{
+		"ID": "112",
+		"Text": "NWFP Agricultural University"
+	},
+	{
+		"ID": "113",
+		"Text": "NWFP University of Engineering & Technology"
+	},
+	{
+		"ID": "114",
+		"Text": "PAF Karachi Institute of Economics & Technology (PAF-KIET)"
+	},
+	{
+		"ID": "115",
+		"Text": "Pakistan Military Academy 5609 Pakistan Naval Academy"
+	},
+	{
+		"ID": "116",
+		"Text": "Peoples Medical College"
+	},
+	{
+		"ID": "117",
+		"Text": "Peshawar Medical College"
+	},
+	{
+		"ID": "118",
+		"Text": "Preston Institute of Management Sciences and Technology"
+	},
+	{
+		"ID": "119",
+		"Text": "Preston University"
+	},
+	{
+		"ID": "120",
+		"Text": "Punjab Medical College"
+	},
+	{
+		"ID": "121",
+		"Text": "Quaid-e-Awam University of Engineering"
+	},
+	{
+		"ID": "122",
+		"Text": "Quaid-e-Azam Medical College"
+	},
+	{
+		"ID": "123",
+		"Text": "Quaid-i-Azam University"
+	},
+	{
+		"ID": "124",
+		"Text": "Qurtaba University of Science and Information Technology"
+	},
+	{
+		"ID": "125",
+		"Text": "Rashid Latif Medical College"
+	},
+	{
+		"ID": "126",
+		"Text": "Rawalpindi Medical College"
+	},
+	{
+		"ID": "127",
+		"Text": "Riphah International University"
+	},
+	{
+		"ID": "128",
+		"Text": "Saidu Medical College"
+	},
+	{
+		"ID": "129",
+		"Text": "Sardar Bahadur Khan Women University"
+	},
+	{
+		"ID": "130",
+		"Text": "Sargodha Medical College"
+	},
+	{
+		"ID": "131",
+		"Text": "Sarhad University of Science & Information Technology"
+	},
+	{
+		"ID": "132",
+		"Text": "SEECS"
+	},
+	{
+		"ID": "133",
+		"Text": "Services Institute of Medical Sciences"
+	},
+	{
+		"ID": "134",
+		"Text": "Shah Abdul Latif University"
+	},
+	{
+		"ID": "135",
+		"Text": "Shaheed Zulfikar Ali Bhutto Institute of Science & Technology (SZABIST)"
+	},
+	{
+		"ID": "136",
+		"Text": "Shaikh Khalifa Bin Zayed Al-Nahyan Medical and Dental College"
+	},
+	{
+		"ID": "137",
+		"Text": "Shaikh Zayed Medical College"
+	},
+	{
+		"ID": "138",
+		"Text": "Shalamar Medical and Dental College"
+	},
+	{
+		"ID": "139",
+		"Text": "Sharif Medical and Dental College"
+	},
+	{
+		"ID": "140",
+		"Text": "Shifa College of Medicine"
+	},
+	{
+		"ID": "141",
+		"Text": "Sindh Agriculture University"
+	},
+	{
+		"ID": "142",
+		"Text": "Sindh Medical College"
+	},
+	{
+		"ID": "143",
+		"Text": "Sir Syed College of Medical Sciences"
+	},
+	{
+		"ID": "144",
+		"Text": "Sir Syed University Of Engg. & Technology Karachi."
+	},
+	{
+		"ID": "145",
+		"Text": "Sukkur Institute of Business Administration"
+	},
+	{
+		"ID": "146",
+		"Text": "Textile Institute of Pakistan"
+	},
+	{
+		"ID": "147",
+		"Text": "The Superior College"
+	},
+	{
+		"ID": "148",
+		"Text": "University College of Medicine and Dentistry"
+	},
+	{
+		"ID": "149",
+		"Text": "University Medical and Dental College"
+	},
+	{
+		"ID": "150",
+		"Text": "University of Agriculture"
+	},
+	{
+		"ID": "151",
+		"Text": "University of Arid Agriculture"
+	},
+	{
+		"ID": "152",
+		"Text": "University of Azad Jammu and Kashmir (AJK)"
+	},
+	{
+		"ID": "153",
+		"Text": "University of Balochistan"
+	},
+	{
+		"ID": "154",
+		"Text": "University of Central Punjab (UCP)"
+	},
+	{
+		"ID": "155",
+		"Text": "University of East"
+	},
+	{
+		"ID": "156",
+		"Text": "University of Education"
+	},
+	{
+		"ID": "157",
+		"Text": "University of Engineering & Technology"
+	},
+	{
+		"ID": "158",
+		"Text": "University Of Engineering & Technology"
+	},
+	{
+		"ID": "159",
+		"Text": "University of Faisalabad"
+	},
+	{
+		"ID": "160",
+		"Text": "University of Gujrat"
+	},
+	{
+		"ID": "161",
+		"Text": "University of Health Sciences"
+	},
+	{
+		"ID": "162",
+		"Text": "University of Karachi"
+	},
+	{
+		"ID": "163",
+		"Text": "University of Lahore"
+	},
+	{
+		"ID": "164",
+		"Text": "University of Malakand"
+	},
+	{
+		"ID": "165",
+		"Text": "University of Management & Technology (UMT)"
+	},
+	{
+		"ID": "166",
+		"Text": "University of Peshawar"
+	},
+	{
+		"ID": "167",
+		"Text": "University of Sargodha"
+	},
+	{
+		"ID": "168",
+		"Text": "University of Science & Technology Bannu"
+	},
+	{
+		"ID": "169",
+		"Text": "University of Sindh"
+	},
+	{
+		"ID": "170",
+		"Text": "University of South Asia"
+	},
+	{
+		"ID": "171",
+		"Text": "University of the Punjab"
+	},
+	{
+		"ID": "172",
+		"Text": "University of Veterinary and Animal Sciences"
+	},
+	{
+		"ID": "173",
+		"Text": "Usman Institute of Technology (UIT)"
+	},
+	{
+		"ID": "174",
+		"Text": "Virtual University of Pakistan"
+	},
+	{
+		"ID": "175",
+		"Text": "Wah Medical College"
+	},
+	{
+		"ID": "176",
+		"Text": "Women Medical College"
+	},
+	{
+		"ID": "177",
+		"Text": "Yusra Medical and Dental College"
+	},
+	{
+		"ID": "178",
+		"Text": "Ziauddin Medical University"
+	},
+	{
+		"ID": "179",
+		"Text": "Other"
+	}
+]

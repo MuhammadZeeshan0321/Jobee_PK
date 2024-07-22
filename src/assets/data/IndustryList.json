@@ -1,0 +1,238 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Accounting/Taxation"
+	},
+	{
+		"ID": "2",
+		"Text": "Advertising/PR"
+	},
+	{
+		"ID": "3",
+		"Text": "Agriculture/Fertilizer/Pesticide"
+	},
+	{
+		"ID": "4",
+		"Text": "Apparel/Clothing"
+	},
+	{
+		"ID": "5",
+		"Text": "Architecture/Interior Design"
+	},
+	{
+		"ID": "6",
+		"Text": "Arts / Entertainment"
+	},
+	{
+		"ID": "7",
+		"Text": "AutoMobile"
+	},
+	{
+		"ID": "8",
+		"Text": "Banking/Financial Services"
+	},
+	{
+		"ID": "9",
+		"Text": "BPO"
+	},
+	{
+		"ID": "10",
+		"Text": "Broadcasting"
+	},
+	{
+		"ID": "11",
+		"Text": "Business Development"
+	},
+	{
+		"ID": "12",
+		"Text": "Call Center"
+	},
+	{
+		"ID": "13",
+		"Text": "Chemicals"
+	},
+	{
+		"ID": "14",
+		"Text": "Construction/Cement/Metals"
+	},
+	{
+		"ID": "15",
+		"Text": "Consultants"
+	},
+	{
+		"ID": "16",
+		"Text": "Courier/Logistics"
+	},
+	{
+		"ID": "17",
+		"Text": "Distribution and Logistics"
+	},
+	{
+		"ID": "18",
+		"Text": "Education/Training"
+	},
+	{
+		"ID": "19",
+		"Text": "Electronics"
+	},
+	{
+		"ID": "20",
+		"Text": "Engineering"
+	},
+	{
+		"ID": "21",
+		"Text": "Event Management"
+	},
+	{
+		"ID": "22",
+		"Text": "Fashion"
+	},
+	{
+		"ID": "23",
+		"Text": "Fast Moving Consumer Goods (FMCG)"
+	},
+	{
+		"ID": "24",
+		"Text": "Food & Beverages"
+	},
+	{
+		"ID": "25",
+		"Text": "Gems & Jewelery"
+	},
+	{
+		"ID": "26",
+		"Text": "Government"
+	},
+	{
+		"ID": "27",
+		"Text": "Health & Fitness"
+	},
+	{
+		"ID": "28",
+		"Text": "Healthcare/Hospital/Medical"
+	},
+	{
+		"ID": "29",
+		"Text": "Hospitality"
+	},
+	{
+		"ID": "30",
+		"Text": "Hotel Management / Restaurants"
+	},
+	{
+		"ID": "31",
+		"Text": "Importers/ Distributors/Exporters"
+	},
+	{
+		"ID": "32",
+		"Text": "Information Technology"
+	},
+	{
+		"ID": "33",
+		"Text": "Insurance / Takaful"
+	},
+	{
+		"ID": "34",
+		"Text": "Investments"
+	},
+	{
+		"ID": "35",
+		"Text": "Law Firms/Legal"
+	},
+	{
+		"ID": "36",
+		"Text": "Manufacturing"
+	},
+	{
+		"ID": "37",
+		"Text": "Media/Communications"
+	},
+	{
+		"ID": "38",
+		"Text": "Mining/Oil & Gas/Petroleum"
+	},
+	{
+		"ID": "39",
+		"Text": "N.G.O./Social Services"
+	},
+	{
+		"ID": "40",
+		"Text": "Packaging"
+	},
+	{
+		"ID": "41",
+		"Text": "Personal Care and Services"
+	},
+	{
+		"ID": "42",
+		"Text": "Pharmaceuticals/Clinical Research"
+	},
+	{
+		"ID": "43",
+		"Text": "Power/Energy"
+	},
+	{
+		"ID": "44",
+		"Text": "Project Management"
+	},
+	{
+		"ID": "45",
+		"Text": "Publishing/Printing"
+	},
+	{
+		"ID": "46",
+		"Text": "Real Estate/Property"
+	},
+	{
+		"ID": "47",
+		"Text": "Recruitment/Employment Firms"
+	},
+	{
+		"ID": "48",
+		"Text": "Retail"
+	},
+	{
+		"ID": "49",
+		"Text": "Security/Law Enforcement"
+	},
+	{
+		"ID": "50",
+		"Text": "Services"
+	},
+	{
+		"ID": "51",
+		"Text": "Shipping/Marine"
+	},
+	{
+		"ID": "52",
+		"Text": "Telecommunication/ISP"
+	},
+	{
+		"ID": "53",
+		"Text": "Textiles/Garments"
+	},
+	{
+		"ID": "54",
+		"Text": "Tiles & Ceramics"
+	},
+	{
+		"ID": "55",
+		"Text": "Travel/Tourism/Transportation"
+	},
+	{
+		"ID": "56",
+		"Text": "Warehousing"
+	},
+	{
+		"ID": "57",
+		"Text": "Livestock Feeds Production"
+	},
+	{
+		"ID": "58",
+		"Text": "Cosmetic"
+	},
+	{
+		"ID": "59",
+		"Text": "Ecommerce"
+	}
+]

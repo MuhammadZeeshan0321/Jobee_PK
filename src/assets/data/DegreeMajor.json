@@ -1,0 +1,1354 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Accounting"
+	},
+	{
+		"ID": "2",
+		"Text": "Aerospace Engineering"
+	},
+	{
+		"ID": "3",
+		"Text": "Agribusiness Economics"
+	},
+	{
+		"ID": "4",
+		"Text": "Agricultural Economics"
+	},
+	{
+		"ID": "5",
+		"Text": "Agricultural Extension"
+	},
+	{
+		"ID": "6",
+		"Text": "Agriculture"
+	},
+	{
+		"ID": "7",
+		"Text": "Animal Science"
+	},
+	{
+		"ID": "8",
+		"Text": "Animal Science & Pre-Veterinary"
+	},
+	{
+		"ID": "9",
+		"Text": "Animal Science-Equine Science"
+	},
+	{
+		"ID": "10",
+		"Text": "Animal Science-Production"
+	},
+	{
+		"ID": "11",
+		"Text": "Anthropology"
+	},
+	{
+		"ID": "12",
+		"Text": "Applied Anthropology"
+	},
+	{
+		"ID": "13",
+		"Text": "Applied Science & Arts"
+	},
+	{
+		"ID": "14",
+		"Text": "Architectural Engineering"
+	},
+	{
+		"ID": "15",
+		"Text": "Architectural Studies"
+	},
+	{
+		"ID": "16",
+		"Text": "Architecture"
+	},
+	{
+		"ID": "17",
+		"Text": "Art Education"
+	},
+	{
+		"ID": "18",
+		"Text": "Art Therapy"
+	},
+	{
+		"ID": "19",
+		"Text": "Art-Art History"
+	},
+	{
+		"ID": "20",
+		"Text": "Art-Ceramics"
+	},
+	{
+		"ID": "21",
+		"Text": "Art-Communication Design"
+	},
+	{
+		"ID": "22",
+		"Text": "Art-Drawing"
+	},
+	{
+		"ID": "23",
+		"Text": "Art-General Studio"
+	},
+	{
+		"ID": "24",
+		"Text": "Art-Glass"
+	},
+	{
+		"ID": "25",
+		"Text": "Artificial Intelligence"
+	},
+	{
+		"ID": "26",
+		"Text": "Art-Industrial Design"
+	},
+	{
+		"ID": "27",
+		"Text": "Art-Metalsmithing"
+	},
+	{
+		"ID": "28",
+		"Text": "Art-Painting"
+	},
+	{
+		"ID": "29",
+		"Text": "Art-Printmaking"
+	},
+	{
+		"ID": "30",
+		"Text": "Arts"
+	},
+	{
+		"ID": "31",
+		"Text": "Arts Administration"
+	},
+	{
+		"ID": "32",
+		"Text": "Arts/Science in Counseling Psychology"
+	},
+	{
+		"ID": "33",
+		"Text": "Arts/Science in Education"
+	},
+	{
+		"ID": "34",
+		"Text": "Arts/Science in Teaching"
+	},
+	{
+		"ID": "35",
+		"Text": "Art-Sculpture"
+	},
+	{
+		"ID": "36",
+		"Text": "Automotive Technology"
+	},
+	{
+		"ID": "37",
+		"Text": "Aviation Flight"
+	},
+	{
+		"ID": "38",
+		"Text": "Aviation Management"
+	},
+	{
+		"ID": "39",
+		"Text": "Aviation Technologies"
+	},
+	{
+		"ID": "40",
+		"Text": "Aviation Technologies-Aircraft Maintenance"
+	},
+	{
+		"ID": "41",
+		"Text": "Aviation Technologies-Aviation Electronics"
+	},
+	{
+		"ID": "42",
+		"Text": "Aviation Technologies-Helicopter Maintenance"
+	},
+	{
+		"ID": "43",
+		"Text": "Behavior Analysis and Therapy"
+	},
+	{
+		"ID": "44",
+		"Text": "Behavioral Science"
+	},
+	{
+		"ID": "45",
+		"Text": "Bioinformatics"
+	},
+	{
+		"ID": "46",
+		"Text": "Biological Sciences "
+	},
+	{
+		"ID": "47",
+		"Text": "Biological Sciences (Education and Human Services)"
+	},
+	{
+		"ID": "48",
+		"Text": "Biological Sciences-Biomedical Science"
+	},
+	{
+		"ID": "49",
+		"Text": "Biological Sciences-Ecology"
+	},
+	{
+		"ID": "50",
+		"Text": "Biomedical Engineering"
+	},
+	{
+		"ID": "51",
+		"Text": "Business"
+	},
+	{
+		"ID": "52",
+		"Text": "Business Administration"
+	},
+	{
+		"ID": "53",
+		"Text": "Business Economics"
+	},
+	{
+		"ID": "54",
+		"Text": "Ceramic Engineering"
+	},
+	{
+		"ID": "55",
+		"Text": "Chemical Engineering"
+	},
+	{
+		"ID": "56",
+		"Text": "Chemistry"
+	},
+	{
+		"ID": "57",
+		"Text": "Chemistry-American Chemical Society Certification"
+	},
+	{
+		"ID": "58",
+		"Text": "Chemistry-Biochemistry"
+	},
+	{
+		"ID": "59",
+		"Text": "Chemistry-Business"
+	},
+	{
+		"ID": "60",
+		"Text": "Chemistry-Comprehensive Chemistry"
+	},
+	{
+		"ID": "61",
+		"Text": "Chemistry-Environmental Chemistry"
+	},
+	{
+		"ID": "62",
+		"Text": "Chemistry-Forensic Chemistry"
+	},
+	{
+		"ID": "63",
+		"Text": "Chiropractic-Pre"
+	},
+	{
+		"ID": "64",
+		"Text": "Cinema & Photography"
+	},
+	{
+		"ID": "65",
+		"Text": "Cinema & Photography-Cinema"
+	},
+	{
+		"ID": "66",
+		"Text": "City and Regional Planning"
+	},
+	{
+		"ID": "67",
+		"Text": "City Planning"
+	},
+	{
+		"ID": "68",
+		"Text": "Civil Engineering"
+	},
+	{
+		"ID": "69",
+		"Text": "Civil Engineering-Environmental Engineering"
+	},
+	{
+		"ID": "70",
+		"Text": "Classics"
+	},
+	{
+		"ID": "71",
+		"Text": "Clinical Medical Science"
+	},
+	{
+		"ID": "72",
+		"Text": "College of Education and Human Services Undeclared"
+	},
+	{
+		"ID": "73",
+		"Text": "College Teaching"
+	},
+	{
+		"ID": "74",
+		"Text": "Communication Disorders"
+	},
+	{
+		"ID": "75",
+		"Text": "Communication Studies"
+	},
+	{
+		"ID": "76",
+		"Text": "Communication Studies-Intercultural Communication"
+	},
+	{
+		"ID": "77",
+		"Text": "Communication Studies-Interpersonal Communication"
+	},
+	{
+		"ID": "78",
+		"Text": "Communication Studies-Organizational Communication"
+	},
+	{
+		"ID": "79",
+		"Text": "Communication Studies-Performance Studies"
+	},
+	{
+		"ID": "80",
+		"Text": "Communication Studies-Persuasive Communication"
+	},
+	{
+		"ID": "81",
+		"Text": "Communication Studies-Public Relations"
+	},
+	{
+		"ID": "82",
+		"Text": "Communications"
+	},
+	{
+		"ID": "83",
+		"Text": "Community Health"
+	},
+	{
+		"ID": "84",
+		"Text": "Community Psychology"
+	},
+	{
+		"ID": "85",
+		"Text": "Computer Engineering"
+	},
+	{
+		"ID": "86",
+		"Text": "Computer Science"
+	},
+	{
+		"ID": "87",
+		"Text": "Criminal Justice "
+	},
+	{
+		"ID": "88",
+		"Text": "Criminology and Criminal Justice"
+	},
+	{
+		"ID": "89",
+		"Text": "Crop"
+	},
+	{
+		"ID": "90",
+		"Text": "Crop"
+	},
+	{
+		"ID": "91",
+		"Text": "Crop"
+	},
+	{
+		"ID": "92",
+		"Text": "Cross-Cultural Studies"
+	},
+	{
+		"ID": "93",
+		"Text": "Dental Hygiene"
+	},
+	{
+		"ID": "94",
+		"Text": "Dentistry"
+	},
+	{
+		"ID": "95",
+		"Text": "Design"
+	},
+	{
+		"ID": "96",
+		"Text": "Design-General Design"
+	},
+	{
+		"ID": "97",
+		"Text": "Divinity"
+	},
+	{
+		"ID": "98",
+		"Text": "Early Childhood"
+	},
+	{
+		"ID": "99",
+		"Text": "Early Childhood-Child and Family Services"
+	},
+	{
+		"ID": "100",
+		"Text": "Early Childhood-Preschool/Primary"
+	},
+	{
+		"ID": "101",
+		"Text": "Economics"
+	},
+	{
+		"ID": "102",
+		"Text": "Economics-Financial Economics"
+	},
+	{
+		"ID": "103",
+		"Text": "Economics-General Economics"
+	},
+	{
+		"ID": "104",
+		"Text": "Economics-International Economics"
+	},
+	{
+		"ID": "105",
+		"Text": "Economics-Law and Economics"
+	},
+	{
+		"ID": "106",
+		"Text": "Education"
+	},
+	{
+		"ID": "107",
+		"Text": "Electrical and Computer Engineering"
+	},
+	{
+		"ID": "108",
+		"Text": "Electrical Engineering"
+	},
+	{
+		"ID": "109",
+		"Text": "Electronic Systems Technologies"
+	},
+	{
+		"ID": "110",
+		"Text": "Elementary Education"
+	},
+	{
+		"ID": "111",
+		"Text": "Engineering"
+	},
+	{
+		"ID": "112",
+		"Text": "Engineering Management"
+	},
+	{
+		"ID": "113",
+		"Text": "Engineering Science"
+	},
+	{
+		"ID": "114",
+		"Text": "Engineering Technology"
+	},
+	{
+		"ID": "115",
+		"Text": "English (Education and Human Services)"
+	},
+	{
+		"ID": "116",
+		"Text": "English-Creative Writing"
+	},
+	{
+		"ID": "117",
+		"Text": "English-General"
+	},
+	{
+		"ID": "118",
+		"Text": "English-Preprofessional"
+	},
+	{
+		"ID": "119",
+		"Text": "English-Teacher Education"
+	},
+	{
+		"ID": "120",
+		"Text": "Environmental Design"
+	},
+	{
+		"ID": "121",
+		"Text": "Environmental Engineering"
+	},
+	{
+		"ID": "122",
+		"Text": "Environmental Planning"
+	},
+	{
+		"ID": "123",
+		"Text": "Environmental Science"
+	},
+	{
+		"ID": "124",
+		"Text": "Exercise and Sport Studies"
+	},
+	{
+		"ID": "125",
+		"Text": "Exercise Science"
+	},
+	{
+		"ID": "126",
+		"Text": "Exploratory (Undecided)"
+	},
+	{
+		"ID": "127",
+		"Text": "Family Counseling"
+	},
+	{
+		"ID": "128",
+		"Text": "Family Therapy"
+	},
+	{
+		"ID": "129",
+		"Text": "Fashion Design and Merchandising"
+	},
+	{
+		"ID": "130",
+		"Text": "Fashion Design and Merchandising-Fashion Stylist"
+	},
+	{
+		"ID": "131",
+		"Text": "Fashion Design Merchandising-Fashion Design"
+	},
+	{
+		"ID": "132",
+		"Text": "Fermentation Science"
+	},
+	{
+		"ID": "133",
+		"Text": "Finance"
+	},
+	{
+		"ID": "134",
+		"Text": "Finance-Financial Institutions"
+	},
+	{
+		"ID": "135",
+		"Text": "Finance-Financial Management"
+	},
+	{
+		"ID": "136",
+		"Text": "Finance-Investments"
+	},
+	{
+		"ID": "137",
+		"Text": "Fine Arts"
+	},
+	{
+		"ID": "138",
+		"Text": "Foreign Languages and Literatures"
+	},
+	{
+		"ID": "139",
+		"Text": "Forensic Science"
+	},
+	{
+		"ID": "140",
+		"Text": "Forestry"
+	},
+	{
+		"ID": "141",
+		"Text": "Forestry-Forest Hydrology"
+	},
+	{
+		"ID": "142",
+		"Text": "Forestry-Forest Recreation and Park Management"
+	},
+	{
+		"ID": "143",
+		"Text": "Forestry-Forest Resources Management"
+	},
+	{
+		"ID": "144",
+		"Text": "Forestry-Urban Forest Management"
+	},
+	{
+		"ID": "145",
+		"Text": "Forestry-Wildlife Habitat Management and Conservation"
+	},
+	{
+		"ID": "146",
+		"Text": "French (Education and Human Services)"
+	},
+	{
+		"ID": "147",
+		"Text": "Genetic Counseling"
+	},
+	{
+		"ID": "148",
+		"Text": "Geography & Environmental Resources"
+	},
+	{
+		"ID": "149",
+		"Text": "Geological Engineering"
+	},
+	{
+		"ID": "150",
+		"Text": "Geology"
+	},
+	{
+		"ID": "151",
+		"Text": "Geology-Environmental Geology"
+	},
+	{
+		"ID": "152",
+		"Text": "Geology-Geophysics"
+	},
+	{
+		"ID": "153",
+		"Text": "Geology-Resource Geology"
+	},
+	{
+		"ID": "154",
+		"Text": "German Studies(Education and Human Services)"
+	},
+	{
+		"ID": "155",
+		"Text": "Gerontology"
+	},
+	{
+		"ID": "156",
+		"Text": "Health Administration"
+	},
+	{
+		"ID": "157",
+		"Text": "Health Care Administration"
+	},
+	{
+		"ID": "158",
+		"Text": "Health Care Management"
+	},
+	{
+		"ID": "159",
+		"Text": "Heritage/Historical Preservation"
+	},
+	{
+		"ID": "160",
+		"Text": "History"
+	},
+	{
+		"ID": "161",
+		"Text": "History (Education and Human Services)"
+	},
+	{
+		"ID": "162",
+		"Text": "History-History Honors"
+	},
+	{
+		"ID": "163",
+		"Text": "Home Economics"
+	},
+	{
+		"ID": "164",
+		"Text": "Horticulture"
+	},
+	{
+		"ID": "165",
+		"Text": "Horticulture-Landscape Horticulture"
+	},
+	{
+		"ID": "166",
+		"Text": "Horticulture-Production Horticulture"
+	},
+	{
+		"ID": "167",
+		"Text": "Horticulture-Turfgrass Management"
+	},
+	{
+		"ID": "168",
+		"Text": "Hospitality & Tourism Administration"
+	},
+	{
+		"ID": "169",
+		"Text": "Hospitality Management"
+	},
+	{
+		"ID": "170",
+		"Text": "Human Nutrition & Dietetics"
+	},
+	{
+		"ID": "171",
+		"Text": "Human Resource Development"
+	},
+	{
+		"ID": "172",
+		"Text": "Human Resources"
+	},
+	{
+		"ID": "173",
+		"Text": "Individualized/Interdisciplinary Studies"
+	},
+	{
+		"ID": "174",
+		"Text": "Industrial Design"
+	},
+	{
+		"ID": "175",
+		"Text": "Industrial Engineering"
+	},
+	{
+		"ID": "176",
+		"Text": "Industrial Management and Applied Engineering-Qualtiy Management"
+	},
+	{
+		"ID": "177",
+		"Text": "Information Resources Management"
+	},
+	{
+		"ID": "178",
+		"Text": "Information Science"
+	},
+	{
+		"ID": "179",
+		"Text": "Information Systems Technologies"
+	},
+	{
+		"ID": "180",
+		"Text": "Information Technology"
+	},
+	{
+		"ID": "181",
+		"Text": "Interior Design"
+	},
+	{
+		"ID": "182",
+		"Text": "International Affairs"
+	},
+	{
+		"ID": "183",
+		"Text": "International Studies"
+	},
+	{
+		"ID": "184",
+		"Text": "Journalism"
+	},
+	{
+		"ID": "185",
+		"Text": "Journalism-Advertising"
+	},
+	{
+		"ID": "186",
+		"Text": "Journalism-New Media News Production"
+	},
+	{
+		"ID": "187",
+		"Text": "Journalism-News-Editorial"
+	},
+	{
+		"ID": "188",
+		"Text": "Journalism-Photojournalism"
+	},
+	{
+		"ID": "189",
+		"Text": "Journalism-Sports Media"
+	},
+	{
+		"ID": "190",
+		"Text": "Justice Administration"
+	},
+	{
+		"ID": "191",
+		"Text": "Landscape Architecture"
+	},
+	{
+		"ID": "192",
+		"Text": "Languages"
+	},
+	{
+		"ID": "193",
+		"Text": "Law Librarianship"
+	},
+	{
+		"ID": "194",
+		"Text": "Law-Pre"
+	},
+	{
+		"ID": "195",
+		"Text": "Laws"
+	},
+	{
+		"ID": "196",
+		"Text": "Liberal Arts"
+	},
+	{
+		"ID": "197",
+		"Text": "Liberal Studies"
+	},
+	{
+		"ID": "198",
+		"Text": "Library Science"
+	},
+	{
+		"ID": "199",
+		"Text": "Linguistics"
+	},
+	{
+		"ID": "200",
+		"Text": "Linguistics-English as a New Language"
+	},
+	{
+		"ID": "201",
+		"Text": "M.B.B.S."
+	},
+	{
+		"ID": "202",
+		"Text": "Management"
+	},
+	{
+		"ID": "203",
+		"Text": "Management-Entrepreneurship"
+	},
+	{
+		"ID": "204",
+		"Text": "Management-Global E-Business"
+	},
+	{
+		"ID": "205",
+		"Text": "Management-Management of Health Care Enterprises"
+	},
+	{
+		"ID": "206",
+		"Text": "Management-Personnel Management"
+	},
+	{
+		"ID": "207",
+		"Text": "Management-Supply Chain Management"
+	},
+	{
+		"ID": "208",
+		"Text": "Manufacturing Engineering"
+	},
+	{
+		"ID": "209",
+		"Text": "Manufacturing Management"
+	},
+	{
+		"ID": "210",
+		"Text": "Marine Affairs"
+	},
+	{
+		"ID": "211",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "212",
+		"Text": "Mass Communication and Media Arts"
+	},
+	{
+		"ID": "214",
+		"Text": "Materials Science"
+	},
+	{
+		"ID": "215",
+		"Text": "Mathematics"
+	},
+	{
+		"ID": "216",
+		"Text": "Mathematics (Education and Human Services)"
+	},
+	{
+		"ID": "217",
+		"Text": "Mathematics (Liberal Arts)"
+	},
+	{
+		"ID": "218",
+		"Text": "Mechanical Engineering"
+	},
+	{
+		"ID": "219",
+		"Text": "Medical Education Preparation"
+	},
+	{
+		"ID": "220",
+		"Text": "Medical Illustration"
+	},
+	{
+		"ID": "221",
+		"Text": "Medical Technology"
+	},
+	{
+		"ID": "222",
+		"Text": "Medicine-Pre"
+	},
+	{
+		"ID": "223",
+		"Text": "Metallurgical Engineering"
+	},
+	{
+		"ID": "224",
+		"Text": "Microbiology"
+	},
+	{
+		"ID": "225",
+		"Text": "Mining Engineering"
+	},
+	{
+		"ID": "226",
+		"Text": "Molecular"
+	},
+	{
+		"ID": "227",
+		"Text": "Mortuary Science & Funeral Service"
+	},
+	{
+		"ID": "228",
+		"Text": "Music"
+	},
+	{
+		"ID": "229",
+		"Text": "Music Education"
+	},
+	{
+		"ID": "230",
+		"Text": "Music Therapy"
+	},
+	{
+		"ID": "231",
+		"Text": "Natural Science"
+	},
+	{
+		"ID": "232",
+		"Text": "Nuclear Engineering"
+	},
+	{
+		"ID": "233",
+		"Text": "Nurse Anesthesia"
+	},
+	{
+		"ID": "234",
+		"Text": "Nursing"
+	},
+	{
+		"ID": "235",
+		"Text": "Nursing Administration"
+	},
+	{
+		"ID": "236",
+		"Text": "Nursing-Pre"
+	},
+	{
+		"ID": "237",
+		"Text": "Occupational Therapy"
+	},
+	{
+		"ID": "238",
+		"Text": "Optometry-Pre"
+	},
+	{
+		"ID": "239",
+		"Text": "Orthodontics"
+	},
+	{
+		"ID": "240",
+		"Text": "Paralegal Studies"
+	},
+	{
+		"ID": "241",
+		"Text": "Paralegal Studies-Pre-Law"
+	},
+	{
+		"ID": "242",
+		"Text": "Petroleum Engineering"
+	},
+	{
+		"ID": "243",
+		"Text": "Pharmaceutical Sciences"
+	},
+	{
+		"ID": "244",
+		"Text": "Pharmacy"
+	},
+	{
+		"ID": "245",
+		"Text": "Philosophy"
+	},
+	{
+		"ID": "246",
+		"Text": "Philosophy-Pre Law"
+	},
+	{
+		"ID": "247",
+		"Text": "Photography (Cinema & Photography)"
+	},
+	{
+		"ID": "248",
+		"Text": "Physical Education"
+	},
+	{
+		"ID": "249",
+		"Text": "Physical Education Teacher Education"
+	},
+	{
+		"ID": "250",
+		"Text": "Physical Therapist Assistant"
+	},
+	{
+		"ID": "251",
+		"Text": "Physical Therapy"
+	},
+	{
+		"ID": "252",
+		"Text": "Physician Assistant-Pre"
+	},
+	{
+		"ID": "253",
+		"Text": "Physics"
+	},
+	{
+		"ID": "254",
+		"Text": "Physics-Biomedical Physics"
+	},
+	{
+		"ID": "255",
+		"Text": "Physics-Computational Physics"
+	},
+	{
+		"ID": "256",
+		"Text": "Physics-Materials and Nanophysics"
+	},
+	{
+		"ID": "257",
+		"Text": "Physiology"
+	},
+	{
+		"ID": "258",
+		"Text": "Planning"
+	},
+	{
+		"ID": "259",
+		"Text": "Plant Biology"
+	},
+	{
+		"ID": "260",
+		"Text": "Plant Biology-Molecular and Biochemical Physiology"
+	},
+	{
+		"ID": "261",
+		"Text": "Plant Biology-Systematics and Biodiversity"
+	},
+	{
+		"ID": "262",
+		"Text": "Podiatry-Pre"
+	},
+	{
+		"ID": "263",
+		"Text": "Political Science"
+	},
+	{
+		"ID": "264",
+		"Text": "Political Science-International Affairs"
+	},
+	{
+		"ID": "265",
+		"Text": "Political Science-Public Service"
+	},
+	{
+		"ID": "266",
+		"Text": "Professional Accounting"
+	},
+	{
+		"ID": "267",
+		"Text": "Psycholgy-Parent Training"
+	},
+	{
+		"ID": "268",
+		"Text": "Psychology"
+	},
+	{
+		"ID": "269",
+		"Text": "Public Administration"
+	},
+	{
+		"ID": "270",
+		"Text": "Public and International Affairs"
+	},
+	{
+		"ID": "271",
+		"Text": "Public Health"
+	},
+	{
+		"ID": "272",
+		"Text": "Public Health Education"
+	},
+	{
+		"ID": "273",
+		"Text": "Public Management"
+	},
+	{
+		"ID": "274",
+		"Text": "Public Policy"
+	},
+	{
+		"ID": "275",
+		"Text": "Public Safety Management"
+	},
+	{
+		"ID": "276",
+		"Text": "Radio Television and Digital Media-Electronic Sports Media"
+	},
+	{
+		"ID": "277",
+		"Text": "Radio"
+	},
+	{
+		"ID": "278",
+		"Text": "Radiologic Sciences"
+	},
+	{
+		"ID": "279",
+		"Text": "Radiologic Sciences-Diagnostic Medical Ultrasound"
+	},
+	{
+		"ID": "280",
+		"Text": "Radiologic Sciences-Magnetic Resonance Imaging/Computed"
+	},
+	{
+		"ID": "281",
+		"Text": "Radiologic Sciences-Magnetic Resonance Imaging/Computed Tomography"
+	},
+	{
+		"ID": "282",
+		"Text": "Radiologic Sciences-Radiation Therapy Technology"
+	},
+	{
+		"ID": "283",
+		"Text": "Radiologic Sciences-Radiology Education and Management"
+	},
+	{
+		"ID": "284",
+		"Text": "Real Estate Development"
+	},
+	{
+		"ID": "285",
+		"Text": "Recreation"
+	},
+	{
+		"ID": "286",
+		"Text": "Recreation Administration"
+	},
+	{
+		"ID": "287",
+		"Text": "Recreation and Parks Administration"
+	},
+	{
+		"ID": "288",
+		"Text": "Recreation-Leisure Services Management"
+	},
+	{
+		"ID": "289",
+		"Text": "Recreation-Outdoor Recreation Leadership and Management"
+	},
+	{
+		"ID": "290",
+		"Text": "Recreation-Therapeutic Recreation"
+	},
+	{
+		"ID": "291",
+		"Text": "Regional Planning"
+	},
+	{
+		"ID": "292",
+		"Text": "Rehabilitation Counseling"
+	},
+	{
+		"ID": "293",
+		"Text": "Rehabilitation Medicine"
+	},
+	{
+		"ID": "294",
+		"Text": "Rehabilitation Services"
+	},
+	{
+		"ID": "295",
+		"Text": "Religious Education"
+	},
+	{
+		"ID": "296",
+		"Text": "Science"
+	},
+	{
+		"ID": "297",
+		"Text": "Services Administration"
+	},
+	{
+		"ID": "298",
+		"Text": "Social Work"
+	},
+	{
+		"ID": "299",
+		"Text": "Sociology"
+	},
+	{
+		"ID": "300",
+		"Text": "Special Education"
+	},
+	{
+		"ID": "301",
+		"Text": "Sport Administration"
+	},
+	{
+		"ID": "302",
+		"Text": "Taxation"
+	},
+	{
+		"ID": "303",
+		"Text": "Technical Resource Management"
+	},
+	{
+		"ID": "304",
+		"Text": "Technical Resource Management-Health and Safety Management"
+	},
+	{
+		"ID": "305",
+		"Text": "Technical Resource Management-Organizational Development"
+	},
+	{
+		"ID": "306",
+		"Text": "Technology"
+	},
+	{
+		"ID": "307",
+		"Text": "Textiles"
+	},
+	{
+		"ID": "308",
+		"Text": "The Humanities"
+	},
+	{
+		"ID": "309",
+		"Text": "Theater"
+	},
+	{
+		"ID": "310",
+		"Text": "Theology"
+	},
+	{
+		"ID": "311",
+		"Text": "Tourism Management"
+	},
+	{
+		"ID": "312",
+		"Text": "University Studies"
+	},
+	{
+		"ID": "313",
+		"Text": "Urban Planning"
+	},
+	{
+		"ID": "314",
+		"Text": "Urban Studies"
+	},
+	{
+		"ID": "315",
+		"Text": "Veterinary Medicine-Pre"
+	},
+	{
+		"ID": "316",
+		"Text": "Veterinary Science"
+	},
+	{
+		"ID": "317",
+		"Text": "Women’s Studies"
+	},
+	{
+		"ID": "318",
+		"Text": "Workforce Education & Development"
+	},
+	{
+		"ID": "319",
+		"Text": "Zoology"
+	},
+	{
+		"ID": "320",
+		"Text": "Zoology-Animal Biology"
+	},
+	{
+		"ID": "321",
+		"Text": "Zoology-Environmental Biology"
+	},
+	{
+		"ID": "322",
+		"Text": "Zoology-Fisheries Biology"
+	},
+	{
+		"ID": "323",
+		"Text": "Zoology-Pre-Veterinary Medicine"
+	},
+	{
+		"ID": "324",
+		"Text": "Zoology-Wildlife Biology"
+	},
+	{
+		"ID": "325",
+		"Text": "Software Engineering"
+	},
+	{
+		"ID": "326",
+		"Text": "Computer Networking"
+	},
+	{
+		"ID": "327",
+		"Text": "Commerce"
+	},
+	{
+		"ID": "328",
+		"Text": "Pathology"
+	},
+	{
+		"ID": "329",
+		"Text": "Electronics"
+	},
+	{
+		"ID": "330",
+		"Text": "Project Management"
+	},
+	{
+		"ID": "332",
+		"Text": "Machine Learning"
+	},
+	{
+		"ID": "333",
+		"Text": "Data Sciences"
+	},
+	{
+		"ID": "334",
+		"Text": "Any"
+	},
+	{
+		"ID": "335",
+		"Text": "Does not matter"
+	},
+	{
+		"ID": "336",
+		"Text": "Actuarial Sciences"
+	},
+	{
+		"ID": "337",
+		"Text": "Occupational Safety and Health"
+	},
+	{
+		"ID": "338",
+		"Text": "Mathematics & Statistics"
+	},
+	{
+		"ID": "339",
+		"Text": "Mass Communication"
+	},
+	{
+		"ID": "340",
+		"Text": "Arts/Humanities"
+	}
+]

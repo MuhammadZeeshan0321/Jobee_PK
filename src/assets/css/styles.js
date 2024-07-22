@@ -14,34 +14,53 @@ export const styles = {
         marginBottom: 3
     },
     mainPageContainer: {
-        backgroundColor: "#fff",        
+        backgroundColor: "#fff",
         height: 590,
         marginBottom: 3
-    },    
+    },
+    headerImage: {
+        width: '55%', // Adjust the width as needed
+        height: 35, // Adjust the height as needed
+    },
     lightText: {
-        fontSize: 14,        
-        color: "#606060",
-        paddingVertical: 2,        
+        fontSize: 14,
+        color: "#676565",
+        paddingVertical: 2
+    },
+    dropdown: {
+        height: 50,
+        paddingHorizontal: 8,
+    },
+    dropDownLabel: {
+        color: "#00bac9",
+    },
+    inputError: {
+        fontSize: 13,
+        color: "#da3737",
+        paddingVertical: 2
+    },
+    inputField: {
+        backgroundColor: '#ffffff'
     },
     whiteLightText: {
-        fontSize: 14,        
+        fontSize: 14,
         color: "#fff",
-        paddingVertical: 2,        
+        paddingVertical: 2,
     },
     grayLightText: {
-        fontSize: 14,    
+        fontSize: 14,
         paddingVertical: 2,
-        color: 'gray',        
-    },    
+        color: 'gray',
+    },
     regularText: {
         fontSize: 16,
         paddingVertical: 2,
-        color: "#606060",        
+        color: "#606060",
     },
     whiteRegularText: {
         fontSize: 16,
         paddingVertical: 2,
-        color: "#fff",        
+        color: "#fff",
     },
     headingText: {
         fontSize: 18,
@@ -60,95 +79,95 @@ export const styles = {
     leftText: {
         textAlign: 'left',
     },
-    rightText: {       
-        textAlign: 'right',        
+    rightText: {
+        textAlign: 'right',
     },
-    centerText: {       
-        textAlign: 'center',        
+    centerText: {
+        textAlign: 'center',
     },
     centerAlign: {
         alignItems: 'center'
     },
-    moreButtonContainer: {       
+    moreButtonContainer: {
         paddingVertical: 10,
-        marginLeft: 20 
+        marginLeft: 20
     },
     singleValContainer: {
         paddingVertical: 5,
-        marginHorizontal: 20 
+        marginHorizontal: 20
     },
     singleValChildContainer: {
         flex: 1,
         justifyContent: 'center',
-        backgroundColor: '#eee',    
+        backgroundColor: '#eee',
         height: '100%',
         padding: 10,
     },
-    heading:{        
-        fontSize: 20,    
-        color: "#606060",        
+    heading: {
+        fontSize: 20,
+        color: "#606060",
         paddingVertical: 5,
     },
-    heading1: {        
-        fontSize: 16,    
-        color: "#606060",        
-        paddingVertical: 5,        
+    heading1: {
+        fontSize: 16,
+        color: "#606060",
+        paddingVertical: 5,
     },
-    heading2: {        
-        fontSize: 14,    
-        color: "#606060",        
-        paddingVertical: 5,        
+    heading2: {
+        fontSize: 14,
+        color: "#606060",
+        paddingVertical: 5,
     },
     headingShadow: {
-        backgroundColor: '#F2F2F2',        
+        backgroundColor: '#F2F2F2',
         shadowColor: '#F2F2F2',
-        shadowOffset: {width:0, height: 1},
+        shadowOffset: { width: 0, height: 1 },
         shadowOpacity: 0.7,
         shadowRadius: 1.5,
         elevation: 1,
     },
-    backgroundImage: {        
+    backgroundImage: {
         width: '100%',
-        position: 'absolute',    
-        resizeMode:'stretch',
-        height: '99%'     
+        position: 'absolute',
+        resizeMode: 'stretch',
+        height: '99%'
     },
-    cvtemplates: {    
-        width: '100%',    
+    cvtemplates: {
+        width: '100%',
         resizeMode: 'contain',
-        height: 300     
+        height: 300
     },
     logoContainer: {
         width: 70,
         height: 70,
         borderColor: 'rgba(0,0,0,0.2)',
         borderWidth: 0
-      },
-      logo: {
+    },
+    logo: {
         flex: 1,
         width: null,
-        alignSelf: 'stretch',        
+        alignSelf: 'stretch',
         borderColor: '#fff'
-      },
-    jobsearchContainer:{     
+    },
+    jobsearchContainer: {
         marginVertical: 30,
         marginHorizontal: 20,
         borderBottomWidth: 1,
-        borderBottomColor: '#fff',                
+        borderBottomColor: '#fff',
     },
-    searchBarContainer:{      
+    searchBarContainer: {
         paddingHorizontal: 20,
         width: '100%'
     },
-    row:{
+    row: {
         flexDirection: 'row',
         justifyContent: 'flex-start',
-        alignItems: 'flex-start',    
+        alignItems: 'flex-start',
     },
-    centerRow:{
+    centerRow: {
         flexDirection: 'row',
         justifyContent: 'center',
-        alignItems: 'center',    
+        alignItems: 'center',
     },
     spacebetweenRow: {
         flexDirection: 'row',
@@ -158,26 +177,26 @@ export const styles = {
     spacebetweenCenterRow: {
         flexDirection: 'row',
         justifyContent: 'space-between',
-        alignItems: 'center',       
+        alignItems: 'center',
     },
     flexendRow: {
         flexDirection: 'row',
         justifyContent: 'flex-end',
-        alignItems: 'center',       
+        alignItems: 'center',
     },
     spacearoundRow: {
         flexDirection: 'row',
         justifyContent: 'space-around',
-        alignItems: 'flex-start',       
+        alignItems: 'flex-start',
     },
-    regularbtnOuter:{
+    regularbtnOuter: {
         width: '90%',
         marginVertical: 30,
         marginHorizontal: 20,
         paddingVertical: 8,
         //backgroundColor:'#00bac9',
         backgroundColor: '#00bac9',
-        borderRadius:8,
+        borderRadius: 8,
         borderWidth: 2,
         //borderColor: '#00bac9',
         borderColor: '#00bac9',
@@ -192,11 +211,11 @@ export const styles = {
         borderColor: '#00bac9'
     },
     linkbtnOuter: {
-        marginVertical: 5,   
+        marginVertical: 5,
         borderBottomWidth: 1,
         borderBottomColor: '#FCFAAB',
     },
-    flatListItems: {        
+    flatListItems: {
         paddingVertical: 10,
         borderBottomWidth: 1,
         borderBottomColor: 'silver',

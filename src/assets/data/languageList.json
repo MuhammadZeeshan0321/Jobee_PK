@@ -1,0 +1,402 @@
+﻿[
+	{
+		"id": "1",
+		"name": "Akan"
+	},
+	{
+		"id": "2",
+		"name": "Amharic"
+	},
+	{
+		"id": "3",
+		"name": "Arabic"
+	},
+	{
+		"id": "4",
+		"name": "Assamese"
+	},
+	{
+		"id": "5",
+		"name": "Awadhi"
+	},
+	{
+		"id": "6",
+		"name": "Azerbaijani"
+	},
+	{
+		"id": "7",
+		"name": "Balochi"
+	},
+	{
+		"id": "8",
+		"name": "Belarusian"
+	},
+	{
+		"id": "9",
+		"name": "Bengali"
+	},
+	{
+		"id": "10",
+		"name": "Bhojpuri"
+	},
+	{
+		"id": "11",
+		"name": "Burmese"
+	},
+	{
+		"id": "12",
+		"name": "Cebuano"
+	},
+	{
+		"id": "13",
+		"name": "Chewa"
+	},
+	{
+		"id": "14",
+		"name": "Chhattisgarhi"
+	},
+	{
+		"id": "15",
+		"name": "Chittagonian"
+	},
+	{
+		"id": "16",
+		"name": "Czech"
+	},
+	{
+		"id": "17",
+		"name": "Deccan"
+	},
+	{
+		"id": "18",
+		"name": "Dhundhari"
+	},
+	{
+		"id": "19",
+		"name": "Dutch"
+	},
+	{
+		"id": "20",
+		"name": "Eastern Min"
+	},
+	{
+		"id": "21",
+		"name": "English"
+	},
+	{
+		"id": "22",
+		"name": "French"
+	},
+	{
+		"id": "23",
+		"name": "Fula"
+	},
+	{
+		"id": "24",
+		"name": "Gan Chinese"
+	},
+	{
+		"id": "25",
+		"name": "German"
+	},
+	{
+		"id": "26",
+		"name": "Greek"
+	},
+	{
+		"id": "27",
+		"name": "Gujarati"
+	},
+	{
+		"id": "28",
+		"name": "Haitian Creole"
+	},
+	{
+		"id": "29",
+		"name": "Hakka"
+	},
+	{
+		"id": "30",
+		"name": "Haryanvi"
+	},
+	{
+		"id": "31",
+		"name": "Hausa"
+	},
+	{
+		"id": "32",
+		"name": "Hiligaynon"
+	},
+	{
+		"id": "33",
+		"name": "Hindi"
+	},
+	{
+		"id": "34",
+		"name": "Hmong"
+	},
+	{
+		"id": "35",
+		"name": "Hungarian"
+	},
+	{
+		"id": "36",
+		"name": "Igbo"
+	},
+	{
+		"id": "37",
+		"name": "Ilocano"
+	},
+	{
+		"id": "38",
+		"name": "Italian"
+	},
+	{
+		"id": "39",
+		"name": "Japanese"
+	},
+	{
+		"id": "40",
+		"name": "Javanese"
+	},
+	{
+		"id": "41",
+		"name": "Jin"
+	},
+	{
+		"id": "42",
+		"name": "Kannada"
+	},
+	{
+		"id": "43",
+		"name": "Kazakh"
+	},
+	{
+		"id": "44",
+		"name": "Khmer"
+	},
+	{
+		"id": "45",
+		"name": "Kinyarwanda"
+	},
+	{
+		"id": "46",
+		"name": "Kirundi"
+	},
+	{
+		"id": "47",
+		"name": "Konkani"
+	},
+	{
+		"id": "48",
+		"name": "Korean"
+	},
+	{
+		"id": "49",
+		"name": "Kurdish"
+	},
+	{
+		"id": "50",
+		"name": "Madurese"
+	},
+	{
+		"id": "51",
+		"name": "Magahi"
+	},
+	{
+		"id": "52",
+		"name": "Maithili"
+	},
+	{
+		"id": "53",
+		"name": "Malagasy"
+	},
+	{
+		"id": "54",
+		"name": "Malay/Indonesian"
+	},
+	{
+		"id": "55",
+		"name": "Malayalam"
+	},
+	{
+		"id": "56",
+		"name": "Mandarin"
+	},
+	{
+		"id": "57",
+		"name": "Marathi"
+	},
+	{
+		"id": "58",
+		"name": "Marwari"
+	},
+	{
+		"id": "59",
+		"name": "Mossi"
+	},
+	{
+		"id": "60",
+		"name": "Nepali"
+	},
+	{
+		"id": "61",
+		"name": "Northern Min"
+	},
+	{
+		"id": "62",
+		"name": "Odia (Oriya)"
+	},
+	{
+		"id": "63",
+		"name": "Oromo"
+	},
+	{
+		"id": "64",
+		"name": "Pashto"
+	},
+	{
+		"id": "65",
+		"name": "Persian"
+	},
+	{
+		"id": "66",
+		"name": "Polish"
+	},
+	{
+		"id": "67",
+		"name": "Portuguese"
+	},
+	{
+		"id": "68",
+		"name": "Punjabi"
+	},
+	{
+		"id": "69",
+		"name": "Quechua"
+	},
+	{
+		"id": "70",
+		"name": "Romanian"
+	},
+	{
+		"id": "71",
+		"name": "Russian"
+	},
+	{
+		"id": "72",
+		"name": "Saraiki"
+	},
+	{
+		"id": "73",
+		"name": "Serbo-Croatian"
+	},
+	{
+		"id": "74",
+		"name": "Shona"
+	},
+	{
+		"id": "75",
+		"name": "Sindhi"
+	},
+	{
+		"id": "76",
+		"name": "Sinhalese"
+	},
+	{
+		"id": "77",
+		"name": "Somali"
+	},
+	{
+		"id": "78",
+		"name": "Southern Min"
+	},
+	{
+		"id": "79",
+		"name": "Spanish"
+	},
+	{
+		"id": "80",
+		"name": "Sundanese"
+	},
+	{
+		"id": "81",
+		"name": "Swedish"
+	},
+	{
+		"id": "82",
+		"name": "Sylheti"
+	},
+	{
+		"id": "83",
+		"name": "Tagalog"
+	},
+	{
+		"id": "84",
+		"name": "Tamil"
+	},
+	{
+		"id": "85",
+		"name": "Telugu"
+	},
+	{
+		"id": "86",
+		"name": "Thai"
+	},
+	{
+		"id": "87",
+		"name": "Turkish"
+	},
+	{
+		"id": "88",
+		"name": "Turkmen"
+	},
+	{
+		"id": "89",
+		"name": "Ukrainian"
+	},
+	{
+		"id": "90",
+		"name": "Urdu"
+	},
+	{
+		"id": "91",
+		"name": "Uyghur"
+	},
+	{
+		"id": "92",
+		"name": "zbek"
+	},
+	{
+		"id": "93",
+		"name": "Vietnamese"
+	},
+	{
+		"id": "94",
+		"name": "Wu (Shanghainese)"
+	},
+	{
+		"id": "95",
+		"name": "Xhosa"
+	},
+	{
+		"id": "96",
+		"name": "Xiang (Hunnanese)"
+	},
+	{
+		"id": "97",
+		"name": "Yoruba"
+	},
+	{
+		"id": "98",
+		"name": "Yue (Cantonese)"
+	},
+	{
+		"id": "99",
+		"name": "Zhuang"
+	},
+	{
+		"id": "100",
+		"name": "Zulu"
+	}
+]

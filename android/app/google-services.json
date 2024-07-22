@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066204561955",
+    "firebase_url": "https://react-native-course-27f42-default-rtdb.firebaseio.com",
+    "project_id": "react-native-course-27f42",
+    "storage_bucket": "react-native-course-27f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066204561955:android:269b2a0b14419c8cb3e796",
+        "android_client_info": {
+          "package_name": "com.jobeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066204561955-kajr3dp8ak6787lbhk4jklk0c7oo3dju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobeeapp",
+            "certificate_hash": "2b2290cf01d9d5177ab7c231bfe063f74d4f6874"
+          }
+        },
+        {
+          "client_id": "1066204561955-0bslpjlcbna52d2mfevu0ktdfa10k3a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7ZYiiWRmBN4Pcd6lPRtnS7nhiG8My3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066204561955-0bslpjlcbna52d2mfevu0ktdfa10k3a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

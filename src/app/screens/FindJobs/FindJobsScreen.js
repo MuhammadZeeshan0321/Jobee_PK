@@ -1,68 +1,78 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { ScrollView, RefreshControl, Platform, Alert, View, ActivityIndicator, Text } from 'react-native';
-import { useNavigation } from "@react-navigation/native";
 import NetInfo from '@react-native-community/netinfo';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+
 
 import { styles } from '../../../assets/css/styles';
 import Screen from '../../Constants/Screen';
 import JobSearch from '../../components/FindJobs/JobSearch';
+import FindJobsModels from '../../models/screenModels/FindJobsModels';
 
-class FindJobsScreen extends Screen {
-    constructor(props) {
-        super(props);
-        this.state = {
-            netStatus: true,
-            refreshing: false,
-            islogin: true,
-            isLoading: false,
-            apploading: false,
-            JobSearch: {
-                titleId: 0,
-                objTitle: 'Job title, skills or company',
-                regionId: 0,
-                objRegion: 'All Regions',
-                isRegularSearch: true,
-                searchFrom: '',
-                searchObject: [],
-            },
-            userRecommendedJobs: [],
-            IndustryJobsList: [],
-            jobListByCity: [],
-            featuredJobsList: []
-        }
+
+function FindJobsScreen({ navigation }) {
+
+    const [findJobsModel] = useState(new FindJobsModels());
+    // constructor(props) {
+    //     super(props);
+    //     this.state = {
+    //         netStatus: true,
+    //         refreshing: false,
+    //         islogin: true,
+    //         isLoading: false,
+    //         apploading: false,
+    //         JobSearch: {
+    //             titleId: 0,
+    //             objTitle: 'Job title, skills or company',
+    //             regionId: 0,
+    //             objRegion: 'All Regions',
+    //             isRegularSearch: true,
+    //             searchFrom: '',
+    //             searchObject: [],
+    //         },
+    //         userRecommendedJobs: [],
+    //         IndustryJobsList: [],
+    //         jobListByCity: [],
+    //         featuredJobsList: []
+    //     }
+    // }
+
+    const navigatorStyle = { tabBarHidden: true };
+
+
+    useEffect(() => {
+        findJobsModel.updateAppLoading(true);
+        toggleTabbar(' hidden ')
+    }, []);
+
+    function toggleTabbar(val) {
+        // navigation.toggleTabs({
+        //     to: val,
+        //     animate: true,
+        // });
+        // this.props.navigator.toggleTabs({
+        //     to: val,
+        //     animate: true,
+        // });
     }
 
-    static navigatorStyle = {
-        tabBarHidden: true,
-    };
-
-    componentWillMount() {
-        this.setState({ apploading: true });
-      //  this.toggleTabbar(' hidden ')
-    }
-
-    toggleTabbar = (val) => {
-        this.props.navigator.toggleTabs({
-            to: val,
-            animate: true,
-        });
-    };
-
-    componentDidMount() {
-        super.googleAnalyticsView('/Find Jobs');
+    useEffect(() => {
+        findJobsModel.googleAnalyticsView();
         // this.setState({ islogin: appLogin });
         // NetInfo.isConnected.addEventListner('connectionChange', this.handleConnectionChange);
         if (Platform.OS === 'ios') {
             // SplashScreen.hide();
         }
+    }, []);
+
+
+
+    const onRefreshControl = () => {
+        // this.setState({ refreshing: true });
+        // this.makeRemoteRequest();
     }
 
-    onRefreshControl = () => {
-        this.setState({ refreshing: true });
-        this.makeRemoteRequest();
-    }
-
-    searchJobtitleEventHandler = () => {
+    const searchJobtitleEventHandler = () => {
         // this.searchCriteriaEventHandler(
         //   'Jobee.SearchCriteriaScreen',
         //   'Job title, skills or company',
@@ -72,7 +82,7 @@ class FindJobsScreen extends Screen {
         // );
     };
 
-    searchAllRegionEventHandler = () => {
+    const searchAllRegionEventHandler = () => {
         // this.searchCriteriaEventHandler(
         //     'Jobee.SearchCriteriaScreen',
         //     'All Region',
@@ -82,16 +92,17 @@ class FindJobsScreen extends Screen {
         // );
     };
 
-    SignupEventHandler = () => {
-        
+    const SignupEventHandler = async () => {
+         navigation.navigate('Signup'); 
         // this.showChildModalEventHandler('Jobee.SignupScreen', 'Sign up', 'findjobs', this.updateObject);
     };
 
-    SigninEventHandler = () => {
+    const SigninEventHandler = () => {
+        navigation.navigate('Signin');
         // this.showChildModalEventHandler('Jobee.SigninScreen', 'Sign in', 'findjobs', this.updateObject);
     };
 
-    findJobsEventHandler = () => {
+    const findJobsEventHandler = () => {
         // let _jobSearch = Object.assign({}, this.state.JobSearch);
         // if (!_jobSearch.isRegularSearch) {
         //   _jobSearch.isRegularSearch = true;
@@ -102,26 +113,32 @@ class FindJobsScreen extends Screen {
         // this.searchCriteriaEventHandler('Jobee.JobSearchResultScreen', 'Jobs Results Found', false, _jobSearch, null);
     };
 
-    render() {
-        // const navigation = useNavigation();
-
-        return (
-            <ScrollView style={styles.container}>
-                <JobSearch
-                    JobSearch={this.state.JobSearch}
-                    JobtitlePressEvent={this.searchJobtitleEventHandler}
-                    AllRegionPressEvent={this.searchAllRegionEventHandler}
-                    signupButtonEvent={this.SignupEventHandler}
-                    signinButtonEvent={this.SigninEventHandler}
-                    FindJobsButtonEvent={this.findJobsEventHandler}
-                // IsLogin={this.state.islogin}
-                // Loading={this.state.isLoading}
-                />
-
-            </ScrollView>
-        );
+    function setJobSearch() {
+        return findJobsModel.state.JobSearch;
     }
 
+    return (
+        <ScrollView style={styles.container}
+        // refreshControl={
+        //     <RefreshControl
+        //         refreshing={this.state.refreshing}
+        //         onRefresh={onRefreshControl}
+        //     />
+        // }
+        >
+            <JobSearch
+                JobSearch={findJobsModel.state.JobSearch}
+                JobtitlePressEvent={searchJobtitleEventHandler}
+                AllRegionPressEvent={searchAllRegionEventHandler}
+                signupButtonEvent={SignupEventHandler}
+                signinButtonEvent={SigninEventHandler}
+                FindJobsButtonEvent={findJobsEventHandler}
+            // IsLogin={findJobsModel.state.islogin}
+            // Loading={findJobsModel.state.isLoading}
+            />
+        </ScrollView>
+    );
 }
+
 
 export default FindJobsScreen;

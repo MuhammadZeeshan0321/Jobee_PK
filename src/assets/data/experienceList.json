@@ -1,0 +1,154 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Fresh"
+	},
+	{
+		"ID": "2",
+		"Text": "Less than 1 Year"
+	},
+	{
+		"ID": "3",
+		"Text": "1 Year"
+	},
+	{
+		"ID": "4",
+		"Text": "2 Years"
+	},
+	{
+		"ID": "5",
+		"Text": "3 Years"
+	},
+	{
+		"ID": "6",
+		"Text": "4 Years"
+	},
+	{
+		"ID": "7",
+		"Text": "5 Years"
+	},
+	{
+		"ID": "8",
+		"Text": "6 Years"
+	},
+	{
+		"ID": "9",
+		"Text": "7 Years"
+	},
+	{
+		"ID": "10",
+		"Text": "8 Years"
+	},
+	{
+		"ID": "11",
+		"Text": "9 Years"
+	},
+	{
+		"ID": "12",
+		"Text": "10 Years"
+	},
+	{
+		"ID": "13",
+		"Text": "11 Years"
+	},
+	{
+		"ID": "14",
+		"Text": "12 Years"
+	},
+	{
+		"ID": "15",
+		"Text": "13 Years"
+	},
+	{
+		"ID": "16",
+		"Text": "14 Years"
+	},
+	{
+		"ID": "17",
+		"Text": "15 Years"
+	},
+	{
+		"ID": "18",
+		"Text": "16 Years"
+	},
+	{
+		"ID": "19",
+		"Text": "17 Years"
+	},
+	{
+		"ID": "20",
+		"Text": "18 Years"
+	},
+	{
+		"ID": "21",
+		"Text": "19 Years"
+	},
+	{
+		"ID": "22",
+		"Text": "20 Years"
+	},
+	{
+		"ID": "23",
+		"Text": "21 Years"
+	},
+	{
+		"ID": "24",
+		"Text": "22 Years"
+	},
+	{
+		"ID": "25",
+		"Text": "23 Years"
+	},
+	{
+		"ID": "26",
+		"Text": "24 Years"
+	},
+	{
+		"ID": "27",
+		"Text": "25 Years"
+	},
+	{
+		"ID": "28",
+		"Text": "26 Years"
+	},
+	{
+		"ID": "29",
+		"Text": "27 Years"
+	},
+	{
+		"ID": "30",
+		"Text": "28 Years"
+	},
+	{
+		"ID": "31",
+		"Text": "29 Years"
+	},
+	{
+		"ID": "32",
+		"Text": "30 Years"
+	},
+	{
+		"ID": "33",
+		"Text": "31 Years"
+	},
+	{
+		"ID": "34",
+		"Text": "32 Years"
+	},
+	{
+		"ID": "35",
+		"Text": "33 Years"
+	},
+	{
+		"ID": "36",
+		"Text": "34 Years"
+	},
+	{
+		"ID": "37",
+		"Text": "35 Years"
+	},
+	{
+		"ID": "38",
+		"Text": "More than 35 Years"
+	}
+]

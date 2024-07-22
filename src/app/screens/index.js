@@ -1,12 +1,21 @@
-import { NavigationContainer } from '@react-navigation/native';
-import { View, Text} from 'react-native';
+
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
+import SignupScreen from './SignUp/SignUp';
+
+const Stack = createNativeStackNavigator();
 
 function RegisterScreens() {
-    return (
-        <View>
-            
-        </View>
-    );
+
+    // return (
+    //     <Stack.Navigator>
+    //         <Stack.Screen name='Signup' component={SignupScreen}
+    //             options={{
+    //                 presentation: 'modal'
+    //             }}
+    //         />
+    //     </Stack.Navigator>
+    // );
 }
 
 export default RegisterScreens;

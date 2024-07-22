@@ -1,0 +1,754 @@
+﻿[
+        {
+            "id": "1",
+            "name": "C#"
+        },
+        {
+            "id": "2",
+            "name": "PHP"
+        },
+        {
+            "id": "3",
+            "name": "Java"
+        },
+        {
+            "id": "4",
+            "name": "HTML 5"
+        },
+        {
+            "id": "5",
+            "name": "CSS 3"
+        },
+        {
+            "id": "6",
+            "name": "Jquery"
+        },
+        {
+            "id": "7",
+            "name": "AngularJs"
+        },
+        {
+            "id": "8",
+            "name": "Bootstrap"
+        },
+        {
+            "id": "9",
+            "name": "Material Design Lite"
+        },
+        {
+            "id": "10",
+            "name": "SQL Server 2008"
+        },
+        {
+            "id": "11",
+            "name": "Mysql"
+        },
+        {
+            "id": "12",
+            "name": "Mysqli"
+        },
+        {
+            "id": "13",
+            "name": ".Net"
+        },
+        {
+            "id": "14",
+            "name": "Entity Framework"
+        },
+        {
+            "id": "15",
+            "name": "ADO.Net"
+        },
+        {
+            "id": "16",
+            "name": "Core PHP"
+        },
+        {
+            "id": "17",
+            "name": "Joomla"
+        },
+        {
+            "id": "18",
+            "name": "Drupal"
+        },
+        {
+            "id": "19",
+            "name": "Magento"
+        },
+        {
+            "id": "20",
+            "name": "CodeIgnitor"
+        },
+        {
+            "id": "21",
+            "name": "Cake PHP"
+        },
+        {
+            "id": "22",
+            "name": "MVC"
+        },
+        {
+            "id": "23",
+            "name": "WebForms"
+        },
+        {
+            "id": "24",
+            "name": "WCF"
+        },
+        {
+            "id": "25",
+            "name": "WebAPI"
+        },
+        {
+            "id": "26",
+            "name": "VSS"
+        },
+        {
+            "id": "27",
+            "name": "SVN"
+        },
+        {
+            "id": "28",
+            "name": "TFS"
+        },
+        {
+            "id": "29",
+            "name": "Source Tree"
+        },
+        {
+            "id": "30",
+            "name": "Strongly Coupled"
+        },
+        {
+            "id": "31",
+            "name": "Loosely Coupled"
+        },
+        {
+            "id": "32",
+            "name": "Agile"
+        },
+        {
+            "id": "33",
+            "name": "AJAX"
+        },
+        {
+            "id": "34",
+            "name": "XML"
+        },
+        {
+            "id": "35",
+            "name": "JSON"
+        },
+        {
+            "id": "36",
+            "name": "MS Office"
+        },
+        {
+            "id": "37",
+            "name": "MS Excel"
+        },
+        {
+            "id": "38",
+            "name": "MS Word"
+        },
+        {
+            "id": "39",
+            "name": "MS PowerPoint"
+        },
+        {
+            "id": "40",
+            "name": "Ruby"
+        },
+        {
+            "id": "41",
+            "name": "Python"
+        },
+        {
+            "id": "42",
+            "name": "Objective C"
+        },
+        {
+            "id": "43",
+            "name": "C"
+        },
+        {
+            "id": "44",
+            "name": "C++"
+        },
+        {
+            "id": "45",
+            "name": "Mongo DB"
+        },
+        {
+            "id": "46",
+            "name": "PostgreSQL"
+        },
+        {
+            "id": "47",
+            "name": "SQLite"
+        },
+        {
+            "id": "48",
+            "name": "Sybase"
+        },
+        {
+            "id": "49",
+            "name": "SQL Server 2012"
+        },
+        {
+            "id": "50",
+            "name": "MS Access"
+        },
+        {
+            "id": "51",
+            "name": "DB2"
+        },
+        {
+            "id": "140",
+            "name": "General Solutions"
+        },
+        {
+            "id": "141",
+            "name": "WORKetc"
+        },
+        {
+            "id": "142",
+            "name": "Zoho"
+        },
+        {
+            "id": "143",
+            "name": "Blue Camroo"
+        },
+        {
+            "id": "144",
+            "name": "Sellsy"
+        },
+        {
+            "id": "145",
+            "name": "Bitrix"
+        },
+        {
+            "id": "146",
+            "name": "ADIOS"
+        },
+        {
+            "id": "147",
+            "name": "1 CRM"
+        },
+        {
+            "id": "148",
+            "name": "ExxpertApps"
+        },
+        {
+            "id": "149",
+            "name": "YourTradeBase"
+        },
+        {
+            "id": "150",
+            "name": "mHelpDesk"
+        },
+        {
+            "id": "151",
+            "name": "Jobber"
+        },
+        {
+            "id": "152",
+            "name": "Wintac"
+        },
+        {
+            "id": "153",
+            "name": "Booker"
+        },
+        {
+            "id": "154",
+            "name": "Gantt chart"
+        },
+        {
+            "id": "155",
+            "name": "Logic Network"
+        },
+        {
+            "id": "156",
+            "name": "PERT chart"
+        },
+        {
+            "id": "157",
+            "name": "Product Breakdown Structure"
+        },
+        {
+            "id": "158",
+            "name": "Work Breakdown Structure"
+        },
+        {
+            "id": "159",
+            "name": "Microsoft OneNote"
+        },
+        {
+            "id": "160",
+            "name": "Asana"
+        },
+        {
+            "id": "161",
+            "name": "SmartSheet"
+        },
+        {
+            "id": "162",
+            "name": "Accounts Services"
+        },
+        {
+            "id": "163",
+            "name": "Financial Services"
+        },
+        {
+            "id": "164",
+            "name": "Financial planning"
+        },
+        {
+            "id": "165",
+            "name": "Investment Banking"
+        },
+        {
+            "id": "166",
+            "name": "Market Trading "
+        },
+        {
+            "id": "167",
+            "name": "Financial Instruments"
+        },
+        {
+            "id": "168",
+            "name": "Global Economy"
+        },
+        {
+            "id": "169",
+            "name": "Stock Market Analysis"
+        },
+        {
+            "id": "170",
+            "name": "Cost Control"
+        },
+        {
+            "id": "171",
+            "name": "Project Recovery"
+        },
+        {
+            "id": "172",
+            "name": "Coaching"
+        },
+        {
+            "id": "173",
+            "name": "Business Case Writing"
+        },
+        {
+            "id": "174",
+            "name": "Resource allocation"
+        },
+        {
+            "id": "175",
+            "name": "Budgeting"
+        },
+        {
+            "id": "176",
+            "name": "Risk Management"
+        },
+        {
+            "id": "177",
+            "name": "Contract Management"
+        },
+        {
+            "id": "178",
+            "name": "Portfolio Management"
+        },
+        {
+            "id": "179",
+            "name": "Task Management"
+        },
+        {
+            "id": "180",
+            "name": "Quality Management"
+        },
+        {
+            "id": "181",
+            "name": "Meetings Management"
+        },
+        {
+            "id": "182",
+            "name": "Change Management"
+        },
+        {
+            "id": "183",
+            "name": "Performance Management"
+        },
+        {
+            "id": "184",
+            "name": "Time Management"
+        },
+        {
+            "id": "185",
+            "name": "Team-Builder "
+        },
+        {
+            "id": "186",
+            "name": "Team player"
+        },
+        {
+            "id": "187",
+            "name": "Team facilitator"
+        },
+        {
+            "id": "188",
+            "name": "Problem Solving"
+        },
+        {
+            "id": "189",
+            "name": "Recruitment & Selection"
+        },
+        {
+            "id": "190",
+            "name": "Compensation & Benefits"
+        },
+        {
+            "id": "191",
+            "name": "Job Analysis"
+        },
+        {
+            "id": "192",
+            "name": "Employee Relations"
+        },
+        {
+            "id": "193",
+            "name": "Interpersonal Skills"
+        },
+        {
+            "id": "194",
+            "name": "Strategic Thinking"
+        },
+        {
+            "id": "195",
+            "name": "Entrepreneurial Skills"
+        },
+        {
+            "id": "196",
+            "name": "Communication Skills"
+        },
+        {
+            "id": "197",
+            "name": "Leadership Skills"
+        },
+        {
+            "id": "198",
+            "name": "Supervisory Skills"
+        },
+        {
+            "id": "199",
+            "name": "Administrative Skills"
+        },
+        {
+            "id": "200",
+            "name": "Negotiation Skills"
+        },
+        {
+            "id": "201",
+            "name": "Decision Making Skills"
+        },
+        {
+            "id": "202",
+            "name": "Analytical Skills "
+        },
+        {
+            "id": "203",
+            "name": "Team-Building Skills"
+        },
+        {
+            "id": "204",
+            "name": "Negotiation Skills."
+        },
+        {
+            "id": "205",
+            "name": "Selling Skills."
+        },
+        {
+            "id": "796",
+            "name": " ActionScript"
+        },
+        {
+            "id": "797",
+            "name": " APL"
+        },
+        {
+            "id": "798",
+            "name": " AutoLISP"
+        },
+        {
+            "id": "799",
+            "name": " BBC BASIC"
+        },
+        {
+            "id": "800",
+            "name": " bc"
+        },
+        {
+            "id": "801",
+            "name": " Bourne shell"
+        },
+        {
+            "id": "802",
+            "name": " C shell"
+        },
+        {
+            "id": "803",
+            "name": " CFML"
+        },
+        {
+            "id": "804",
+            "name": " cg"
+        },
+        {
+            "id": "805",
+            "name": " CL (OS/400)"
+        },
+        {
+            "id": "806",
+            "name": " Clojure"
+        },
+        {
+            "id": "807",
+            "name": " Common Lisp"
+        },
+        {
+            "id": "808",
+            "name": " Crystal"
+        },
+        {
+            "id": "809",
+            "name": " Elixir"
+        },
+        {
+            "id": "810",
+            "name": " Elm"
+        },
+        {
+            "id": "811",
+            "name": " Emacs Lisp"
+        },
+        {
+            "id": "812",
+            "name": " EXEC"
+        },
+        {
+            "id": "813",
+            "name": " Forth"
+        },
+        {
+            "id": "814",
+            "name": " Go"
+        },
+        {
+            "id": "815",
+            "name": " Hack"
+        },
+        {
+            "id": "816",
+            "name": " Icon"
+        },
+        {
+            "id": "817",
+            "name": " IDL"
+        },
+        {
+            "id": "818",
+            "name": " Inform"
+        },
+        {
+            "id": "819",
+            "name": " Io"
+        },
+        {
+            "id": "820",
+            "name": " Ioke"
+        },
+        {
+            "id": "821",
+            "name": " J"
+        },
+        {
+            "id": "822",
+            "name": " Julia"
+        },
+        {
+            "id": "823",
+            "name": " Korn shell"
+        },
+        {
+            "id": "824",
+            "name": " Maple"
+        },
+        {
+            "id": "825",
+            "name": " Mathematica"
+        },
+        {
+            "id": "826",
+            "name": " Mercury"
+        },
+        {
+            "id": "827",
+            "name": " ML"
+        },
+        {
+            "id": "828",
+            "name": " Modula-2"
+        },
+        {
+            "id": "829",
+            "name": " MQL4"
+        },
+        {
+            "id": "830",
+            "name": " MS-DOS batch"
+        },
+        {
+            "id": "831",
+            "name": " NATURAL"
+        },
+        {
+            "id": "832",
+            "name": " NXT-G"
+        },
+        {
+            "id": "833",
+            "name": " OCaml"
+        },
+        {
+            "id": "834",
+            "name": " OpenCL"
+        },
+        {
+            "id": "835",
+            "name": " Oz"
+        },
+        {
+            "id": "836",
+            "name": " Pascal"
+        },
+        {
+            "id": "837",
+            "name": " PL/I"
+        },
+        {
+            "id": "838",
+            "name": " REXX"
+        },
+        {
+            "id": "839",
+            "name": " Smalltalk"
+        },
+        {
+            "id": "840",
+            "name": " SPARK"
+        },
+        {
+            "id": "841",
+            "name": " SPSS"
+        },
+        {
+            "id": "842",
+            "name": " Stata"
+        },
+        {
+            "id": "843",
+            "name": " Verilog"
+        },
+        {
+            "id": "844",
+            "name": "2D/3D Rendering"
+        },
+        {
+            "id": "845",
+            "name": "3Com"
+        },
+        {
+            "id": "846",
+            "name": "3D Animation"
+        },
+        {
+            "id": "847",
+            "name": "3D Graphics"
+        },
+        {
+            "id": "848",
+            "name": "4M Token Ring"
+        },
+        {
+            "id": "849",
+            "name": "4th Dimension"
+        },
+        {
+            "id": "850",
+            "name": "68000 assembly language"
+        },
+        {
+            "id": "851",
+            "name": "a commitment to keeping up to date with the latest developments in IT."
+        },
+        {
+            "id": "852",
+            "name": "A# (Axiom)"
+        },
+        {
+            "id": "853",
+            "name": "A# .NET"
+        },
+        {
+            "id": "854",
+            "name": "A/UX (Apple)"
+        },
+        {
+            "id": "855",
+            "name": "A+"
+        },
+        {
+            "id": "856",
+            "name": "A++"
+        },
+        {
+            "id": "857",
+            "name": "A-0 System"
+        },
+        {
+            "id": "858",
+            "name": "Abacus"
+        },
+        {
+            "id": "859",
+            "name": "ABAP"
+        },
+        {
+            "id": "860",
+            "name": "ABC"
+        },
+        {
+            "id": "861",
+            "name": "ABC ALGOL"
+        },
+        {
+            "id": "862",
+            "name": "Ability to listen."
+        },
+        {
+            "id": "863",
+            "name": "Ability to perform simple mathematics and solve crude engineering problems"
+        },
+        {
+            "id": "864",
+            "name": "Ability to read and understand complex drawings"
+        },
+        {
+            "id": "865",
+            "name": "Ability to review drawings for construct-ability"
+        },
+        {
+            "id": "866",
+            "name": "Ability to revise or create drawings to resolve issues"
+        }
+]

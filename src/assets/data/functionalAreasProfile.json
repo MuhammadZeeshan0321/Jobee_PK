@@ -1,0 +1,230 @@
+﻿[
+	{
+		"id": "1",
+		"name": "Accounts"
+	},
+	{
+		"id": "2",
+		"name": "Administration"
+	},
+	{
+		"id": "3",
+		"name": "Advertising"
+	},
+	{
+		"id": "4",
+		"name": "Architects & Construction"
+	},
+	{
+		"id": "5",
+		"name": "Client Services & Customer Support"
+	},
+	{
+		"id": "6",
+		"name": "Computer Networking"
+	},
+	{
+		"id": "7",
+		"name": "Corporate Affairs"
+	},
+	{
+		"id": "8",
+		"name": "Creative Design"
+	},
+	{
+		"id": "9",
+		"name": "Data Entry"
+	},
+	{
+		"id": "10",
+		"name": "Database Administration (DBA)"
+	},
+	{
+		"id": "11",
+		"name": "Distribution & Logistics"
+	},
+	{
+		"id": "12",
+		"name": "Engineering"
+	},
+	{
+		"id": "13",
+		"name": "Executive Management"
+	},
+	{
+		"id": "14",
+		"name": "Field Operations"
+	},
+	{
+		"id": "15",
+		"name": "Hardware"
+	},
+	{
+		"id": "16",
+		"name": "Health & Medicine"
+	},
+	{
+		"id": "17",
+		"name": "Hotel/Restaurant Management"
+	},
+	{
+		"id": "18",
+		"name": "Human Resources"
+	},
+	{
+		"id": "19",
+		"name": "Import & Export"
+	},
+	{
+		"id": "20",
+		"name": "Industrial Production"
+	},
+	{
+		"id": "21",
+		"name": "Intern 57 Legal Affairs"
+	},
+	{
+		"id": "22",
+		"name": "Maintenance/Repair"
+	},
+	{
+		"id": "23",
+		"name": "Management Consulting"		
+	},
+	{
+		"id": "24",
+		"name": "Management Information System (MIS)"
+	},
+	{
+		"id": "25",
+		"name": "Manufacturing"
+	},
+	{
+		"id": "26",
+		"name": "Maritime & Shipping"
+	},
+	{
+		"id": "27",
+		"name": "Marketing"
+	},
+	{
+		"id": "28",
+		"name": "Media - Print & Electronic"
+	},
+	{
+		"id": "29",
+		"name": "Merchandising"
+	},
+	{
+		"id": "30",
+		"name": "Monitoring & Evaluation (M&E)"
+	},
+	{
+		"id": "31",
+		"name": "Operations"
+	},
+	{
+		"id": "32",
+		"name": "Planning & Development"
+	},
+	{
+		"id": "33",
+		"name": "Procurement"
+	},
+	{
+		"id": "34",
+		"name": "Product Development"
+	},
+	{
+		"id": "35",
+		"name": "Product Management"
+	},
+	{
+		"id": "36",
+		"name": "Project Management"
+	},
+	{
+		"id": "37",
+		"name": "Public Relations"
+	},
+	{
+		"id": "38",
+		"name": "Quality Assurance (QA)"
+	},
+	{
+		"id": "39",
+		"name": "Quality Control"
+	},
+	{
+		"id": "40",
+		"name": "Researcher"
+	},
+	{
+		"id": "41",
+		"name": "Retail"
+	},
+	{
+		"id": "42",
+		"name": "Safety & Environment"
+	},
+	{
+		"id": "43",
+		"name": "Sales & Business Development"
+	},
+	{
+		"id": "44",
+		"name": "Search Engine Optimization (SEO)"
+	},
+	{
+		"id": "45",
+		"name": "Secretarial"
+	},
+	{
+		"id": "46",
+		"name": "Security"
+	},
+	{
+		"id": "47",
+		"name": "Software & Web Development"
+	},
+	{
+		"id": "48",
+		"name": "Supply Chain Management"
+	},
+	{
+		"id": "49",
+		"name": "Systems Analyst"
+	},
+	{
+		"id": "50",
+		"name": "Teachers/Education"
+	},
+	{
+		"id": "51",
+		"name": "Telemarketing"
+	},
+	{
+		"id": "52",
+		"name": "Warehousing"
+	},
+	{
+		"id": "53",
+		"name": "Writer"
+	},
+	{
+		"id": "54",
+		"name": "Database Developer"
+	},
+	{
+		"id": "55",
+		"name": "Health & Beauty"
+	},
+	{
+		"id": "764",
+		"name": "Does not matter"
+	},
+	{
+		"id": "20736",
+		"name": "Import/Export & Procurement"
+	}
+]

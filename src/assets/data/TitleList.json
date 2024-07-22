@@ -1,0 +1,5146 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Customer Service Experts"
+	},
+	{
+		"ID": "3",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "7",
+		"Text": "Sales Representative | Marketer"
+	},
+	{
+		"ID": "9",
+		"Text": "Graphic Designer"
+	},
+	{
+		"ID": "11",
+		"Text": "Call Center Agents Required"
+	},
+	{
+		"ID": "12",
+		"Text": "Software Engineer"
+	},
+	{
+		"ID": "13",
+		"Text": "Education Promotion (Multiple Positions)"
+	},
+	{
+		"ID": "15",
+		"Text": "Management Trainee Officer"
+	},
+	{
+		"ID": "16",
+		"Text": "Sales & Marketing Executives"
+	},
+	{
+		"ID": "17",
+		"Text": "Customer Sales Representative"
+	},
+	{
+		"ID": "18",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "20",
+		"Text": "TSE/ASE"
+	},
+	{
+		"ID": "23",
+		"Text": "SQA Engineer"
+	},
+	{
+		"ID": "24",
+		"Text": "Data Management Executive"
+	},
+	{
+		"ID": "26",
+		"Text": "Junior Marketing Officer Required"
+	},
+	{
+		"ID": "27",
+		"Text": "Customer Services Representative For IT Company (Female)"
+	},
+	{
+		"ID": "28",
+		"Text": ".Net Developer"
+	},
+	{
+		"ID": "29",
+		"Text": "Pre-Press Graphics Designer"
+	},
+	{
+		"ID": "31",
+		"Text": "Jr. Pre-Press Graphics Designer"
+	},
+	{
+		"ID": "32",
+		"Text": "IOS Developer"
+	},
+	{
+		"ID": "33",
+		"Text": "Tele Sales Representative"
+	},
+	{
+		"ID": "34",
+		"Text": "Marketing & Sales"
+	},
+	{
+		"ID": "35",
+		"Text": "Client Services & Customer Support Executive"
+	},
+	{
+		"ID": "36",
+		"Text": "Tutors Required In Karachi"
+	},
+	{
+		"ID": "37",
+		"Text": "ASST. ACCOUNTANT"
+	},
+	{
+		"ID": "38",
+		"Text": "Software Developer(Intern)"
+	},
+	{
+		"ID": "39",
+		"Text": "Teacher"
+	},
+	{
+		"ID": "40",
+		"Text": "Unity 3D Developer"
+	},
+	{
+		"ID": "41",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "43",
+		"Text": "QC Analyst – HPLC"
+	},
+	{
+		"ID": "44",
+		"Text": "Management Officer"
+	},
+	{
+		"ID": "45",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "46",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "48",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "49",
+		"Text": "Professional Graphic Designer"
+	},
+	{
+		"ID": "50",
+		"Text": "Web Design & Developer"
+	},
+	{
+		"ID": "54",
+		"Text": "Freelance Writer"
+	},
+	{
+		"ID": "55",
+		"Text": "Interior Designer"
+	},
+	{
+		"ID": "56",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "57",
+		"Text": "Network Sales & Marketing"
+	},
+	{
+		"ID": "59",
+		"Text": "Office Assistant"
+	},
+	{
+		"ID": "61",
+		"Text": "Design & Sales Engineer"
+	},
+	{
+		"ID": "64",
+		"Text": "Highly Matured Salesman For Selling Pumps"
+	},
+	{
+		"ID": "65",
+		"Text": "Web Developer"
+	},
+	{
+		"ID": "68",
+		"Text": "Female Office Manager Required"
+	},
+	{
+		"ID": "69",
+		"Text": "Male/Female Required for Office and Field"
+	},
+	{
+		"ID": "70",
+		"Text": "Graphic Designer"
+	},
+	{
+		"ID": "71",
+		"Text": "Office Staff"
+	},
+	{
+		"ID": "72",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "73",
+		"Text": ".Net Developer"
+	},
+	{
+		"ID": "75",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "76",
+		"Text": "Financial Consultant"
+	},
+	{
+		"ID": "78",
+		"Text": "Customer Services Executive"
+	},
+	{
+		"ID": "79",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "81",
+		"Text": "Purchaser"
+	},
+	{
+		"ID": "84",
+		"Text": "Computer Operator Internees Required"
+	},
+	{
+		"ID": "85",
+		"Text": "Sales Coordinator"
+	},
+	{
+		"ID": "87",
+		"Text": "Sales & Marketing Manager"
+	},
+	{
+		"ID": "89",
+		"Text": "Marketing Manager"
+	},
+	{
+		"ID": "90",
+		"Text": "School Teacher"
+	},
+	{
+		"ID": "91",
+		"Text": "Computer Operator / Operation Manager / Assistang Manager"
+	},
+	{
+		"ID": "92",
+		"Text": "Customer Service Officer"
+	},
+	{
+		"ID": "93",
+		"Text": "Order Booker"
+	},
+	{
+		"ID": "94",
+		"Text": "Creative Executive"
+	},
+	{
+		"ID": "95",
+		"Text": "Multi-Skilled Administrative Professional Required"
+	},
+	{
+		"ID": "97",
+		"Text": "School Teacher"
+	},
+	{
+		"ID": "100",
+		"Text": "Patient Recruitment Coordinator"
+	},
+	{
+		"ID": "101",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "102",
+		"Text": "Computer Operator"
+	},
+	{
+		"ID": "103",
+		"Text": "Sales & Marketing Executive"
+	},
+	{
+		"ID": "104",
+		"Text": "Telesales Customer Service"
+	},
+	{
+		"ID": "105",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "106",
+		"Text": "Business Development Executive"
+	},
+	{
+		"ID": "107",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "109",
+		"Text": "Telesales Representatives"
+	},
+	{
+		"ID": "111",
+		"Text": "Road Transport Safety Manager"
+	},
+	{
+		"ID": "114",
+		"Text": "Operation Manager"
+	},
+	{
+		"ID": "115",
+		"Text": "Telesales Representative"
+	},
+	{
+		"ID": "116",
+		"Text": "Feedback Supervisor"
+	},
+	{
+		"ID": "119",
+		"Text": "Web Development Marketing"
+	},
+	{
+		"ID": "120",
+		"Text": "Service Engineer"
+	},
+	{
+		"ID": "121",
+		"Text": "Air Audit (Energy Auditor)"
+	},
+	{
+		"ID": "122",
+		"Text": "Office Assistant"
+	},
+	{
+		"ID": "126",
+		"Text": "Sales Officer"
+	},
+	{
+		"ID": "127",
+		"Text": "Sales Man"
+	},
+	{
+		"ID": "128",
+		"Text": "Tour Advisor"
+	},
+	{
+		"ID": "129",
+		"Text": "International Sales Executive"
+	},
+	{
+		"ID": "130",
+		"Text": "Internship"
+	},
+	{
+		"ID": "131",
+		"Text": "Marketing Officer"
+	},
+	{
+		"ID": "132",
+		"Text": "Medical Relationship Officer"
+	},
+	{
+		"ID": "134",
+		"Text": "Home Tutions"
+	},
+	{
+		"ID": "135",
+		"Text": "Software Developer"
+	},
+	{
+		"ID": "136",
+		"Text": "Home Tutor"
+	},
+	{
+		"ID": "137",
+		"Text": "Project & Services Representative (PSR)"
+	},
+	{
+		"ID": "138",
+		"Text": "Finance Executive"
+	},
+	{
+		"ID": "139",
+		"Text": "Service Engineers Elec/Mech"
+	},
+	{
+		"ID": "140",
+		"Text": "Technician CCTV"
+	},
+	{
+		"ID": "141",
+		"Text": "Graphic Designer"
+	},
+	{
+		"ID": "142",
+		"Text": "Smarty PHP Developer"
+	},
+	{
+		"ID": "143",
+		"Text": "Sales & Marketing Executive"
+	},
+	{
+		"ID": "144",
+		"Text": "Accountant Sales & Marketing"
+	},
+	{
+		"ID": "145",
+		"Text": "Associate Buyer"
+	},
+	{
+		"ID": "148",
+		"Text": "Marketing & Sales Executive"
+	},
+	{
+		"ID": "150",
+		"Text": "Production Helper"
+	},
+	{
+		"ID": "151",
+		"Text": "3D Animator"
+	},
+	{
+		"ID": "152",
+		"Text": "Dispatch Manager"
+	},
+	{
+		"ID": "153",
+		"Text": "Assistant Accounts Manager"
+	},
+	{
+		"ID": "154",
+		"Text": "Quality Manager"
+	},
+	{
+		"ID": "155",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "159",
+		"Text": "Marketing Consultant"
+	},
+	{
+		"ID": "160",
+		"Text": "Corporate Sales Executive"
+	},
+	{
+		"ID": "161",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "162",
+		"Text": "Teacher"
+	},
+	{
+		"ID": "164",
+		"Text": "Tutor"
+	},
+	{
+		"ID": "165",
+		"Text": "Female Teachers for Junior Classes Tuition"
+	},
+	{
+		"ID": "166",
+		"Text": "Senior SEO"
+	},
+	{
+		"ID": "167",
+		"Text": "Software Engineer"
+	},
+	{
+		"ID": "168",
+		"Text": "Customer Support Executive Domestic"
+	},
+	{
+		"ID": "169",
+		"Text": "Customer Support Specialist International"
+	},
+	{
+		"ID": "174",
+		"Text": "SEO Expert"
+	},
+	{
+		"ID": "175",
+		"Text": "HR Interns"
+	},
+	{
+		"ID": "176",
+		"Text": "Software Quality Assurance"
+	},
+	{
+		"ID": "177",
+		"Text": "HR EXECUTIVE"
+	},
+	{
+		"ID": "178",
+		"Text": "ASSISTANT MANAGER TALENT ACQUISITION"
+	},
+	{
+		"ID": "179",
+		"Text": "Business Analysts"
+	},
+	{
+		"ID": "180",
+		"Text": "Sr. Software Quality Assurance"
+	},
+	{
+		"ID": "181",
+		"Text": "Database Adminstrator Support"
+	},
+	{
+		"ID": "183",
+		"Text": "Data Entry Operator"
+	},
+	{
+		"ID": "184",
+		"Text": "Operations Manager"
+	},
+	{
+		"ID": "185",
+		"Text": "E-MARKETING"
+	},
+	{
+		"ID": "186",
+		"Text": "Sales Marketing"
+	},
+	{
+		"ID": "190",
+		"Text": "CSR"
+	},
+	{
+		"ID": "192",
+		"Text": "Sales Executives"
+	},
+	{
+		"ID": "193",
+		"Text": "Salesmen Required"
+	},
+	{
+		"ID": "195",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "197",
+		"Text": "Sales Executive (Analytical/Scientific)"
+	},
+	{
+		"ID": "198",
+		"Text": "Sales Executive (Medical)"
+	},
+	{
+		"ID": "199",
+		"Text": "Catalog Manager"
+	},
+	{
+		"ID": "202",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "204",
+		"Text": "PHP Wordpress Developer"
+	},
+	{
+		"ID": "205",
+		"Text": "Teacher of Mobile Repairing Req"
+	},
+	{
+		"ID": "206",
+		"Text": "English Teacher Shorthand"
+	},
+	{
+		"ID": "209",
+		"Text": "Direct Sales"
+	},
+	{
+		"ID": "211",
+		"Text": "Brand Ambassador Sales Promoter"
+	},
+	{
+		"ID": "212",
+		"Text": "Data Entry Operator"
+	},
+	{
+		"ID": "214",
+		"Text": "Business Development Executive"
+	},
+	{
+		"ID": "218",
+		"Text": "WordPress PHP"
+	},
+	{
+		"ID": "221",
+		"Text": "Software Developer"
+	},
+	{
+		"ID": "224",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "226",
+		"Text": "SEO Expert"
+	},
+	{
+		"ID": "227",
+		"Text": "Sales Man"
+	},
+	{
+		"ID": "228",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "229",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "230",
+		"Text": "2D Animator After Effects Expert"
+	},
+	{
+		"ID": "231",
+		"Text": "Office Receptionist & HR"
+	},
+	{
+		"ID": "232",
+		"Text": "Ace Solutions"
+	},
+	{
+		"ID": "233",
+		"Text": "Injury Claim Expert"
+	},
+	{
+		"ID": "235",
+		"Text": "Marketing External Communication"
+	},
+	{
+		"ID": "237",
+		"Text": "SEO Engineer"
+	},
+	{
+		"ID": "238",
+		"Text": "Content Writer"
+	},
+	{
+		"ID": "239",
+		"Text": "E-Commerce Manager"
+	},
+	{
+		"ID": "240",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "243",
+		"Text": "Textile Designer"
+	},
+	{
+		"ID": "244",
+		"Text": "Android Mobile Developer"
+	},
+	{
+		"ID": "245",
+		"Text": "IT Assistant Professional"
+	},
+	{
+		"ID": "247",
+		"Text": "Sales Supervisor SPO"
+	},
+	{
+		"ID": "248",
+		"Text": "Inbound Customer Support Executive"
+	},
+	{
+		"ID": "249",
+		"Text": "Unity 3D Developer"
+	},
+	{
+		"ID": "251",
+		"Text": "Sales Officer "
+	},
+	{
+		"ID": "252",
+		"Text": "Visa Application Case Officer"
+	},
+	{
+		"ID": "253",
+		"Text": "SEO Link Builder"
+	},
+	{
+		"ID": "254",
+		"Text": "Telesales Representative"
+	},
+	{
+		"ID": "258",
+		"Text": "Automation Engineer"
+	},
+	{
+		"ID": "260",
+		"Text": "Social Media Content"
+	},
+	{
+		"ID": "261",
+		"Text": "Sales & Marketing Executive"
+	},
+	{
+		"ID": "262",
+		"Text": "INTERNATIONAL MARKETING DIVISION IMD Executive"
+	},
+	{
+		"ID": "263",
+		"Text": "Management Regulatory"
+	},
+	{
+		"ID": "266",
+		"Text": "Web Developer"
+	},
+	{
+		"ID": "270",
+		"Text": "SEO"
+	},
+	{
+		"ID": "272",
+		"Text": "Data Entry Operator"
+	},
+	{
+		"ID": "273",
+		"Text": "HR Recruitment Executive"
+	},
+	{
+		"ID": "274",
+		"Text": "Sales Officers Required"
+	},
+	{
+		"ID": "277",
+		"Text": "WordPress Developer"
+	},
+	{
+		"ID": "278",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "281",
+		"Text": "Software Engineer Android"
+	},
+	{
+		"ID": "283",
+		"Text": "Sales Engineer"
+	},
+	{
+		"ID": "284",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "286",
+		"Text": "Sales Representative"
+	},
+	{
+		"ID": "287",
+		"Text": "Sales Officer/ Order booker"
+	},
+	{
+		"ID": "288",
+		"Text": "Online Customer Support Representative"
+	},
+	{
+		"ID": "290",
+		"Text": "Sales Representative"
+	},
+	{
+		"ID": "291",
+		"Text": "Assistant Manager-Import & Tender"
+	},
+	{
+		"ID": "292",
+		"Text": "Freelance Bidder"
+	},
+	{
+		"ID": "295",
+		"Text": "Field Technician / Engineer"
+	},
+	{
+		"ID": "296",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "298",
+		"Text": "Business Development Executive"
+	},
+	{
+		"ID": "299",
+		"Text": "Customer Sales Representative"
+	},
+	{
+		"ID": "300",
+		"Text": "Unity 3d Software Developer"
+	},
+	{
+		"ID": "303",
+		"Text": "Loan Analyst / Loan Processor"
+	},
+	{
+		"ID": "304",
+		"Text": "Import Officer Executive"
+	},
+	{
+		"ID": "307",
+		"Text": "Logo Designer"
+	},
+	{
+		"ID": "308",
+		"Text": "Telemarketing Sales Representative"
+	},
+	{
+		"ID": "310",
+		"Text": "STORE KEEPER"
+	},
+	{
+		"ID": "311",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "314",
+		"Text": "Dot NET Internee"
+	},
+	{
+		"ID": "316",
+		"Text": "Primary & Secondary Teacher"
+	},
+	{
+		"ID": "321",
+		"Text": "Video Editor & Animator"
+	},
+	{
+		"ID": "322",
+		"Text": "Receptionist"
+	},
+	{
+		"ID": "323",
+		"Text": "Marketing Executive"
+	},
+	{
+		"ID": "324",
+		"Text": "Telesales Representatives"
+	},
+	{
+		"ID": "325",
+		"Text": "Software developer"
+	},
+	{
+		"ID": "326",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "327",
+		"Text": "Php Developer"
+	},
+	{
+		"ID": "328",
+		"Text": "Senior PHP Developer"
+	},
+	{
+		"ID": "330",
+		"Text": "Office Boy"
+	},
+	{
+		"ID": "332",
+		"Text": "Graphic Designer Logo Specialist"
+	},
+	{
+		"ID": "333",
+		"Text": "MAKEUP ARTIST"
+	},
+	{
+		"ID": "334",
+		"Text": "BEAUTY ADVISOR"
+	},
+	{
+		"ID": "335",
+		"Text": "Sales Assistant"
+	},
+	{
+		"ID": "337",
+		"Text": "Article Content Writer"
+	},
+	{
+		"ID": "338",
+		"Text": "Inquiry Officer"
+	},
+	{
+		"ID": "341",
+		"Text": "Web Development"
+	},
+	{
+		"ID": "342",
+		"Text": "Accounts Assistant"
+	},
+	{
+		"ID": "343",
+		"Text": "Business Development Manager"
+	},
+	{
+		"ID": "344",
+		"Text": "Receptionist"
+	},
+	{
+		"ID": "345",
+		"Text": "Marketing Executive"
+	},
+	{
+		"ID": "346",
+		"Text": "Secretary"
+	},
+	{
+		"ID": "347",
+		"Text": "Senior ASP.Net MVC Developer"
+	},
+	{
+		"ID": "348",
+		"Text": "Online Support Representative"
+	},
+	{
+		"ID": "349",
+		"Text": "Retail Outlet Manager"
+	},
+	{
+		"ID": "351",
+		"Text": "Web Developer"
+	},
+	{
+		"ID": "352",
+		"Text": "Assistant Architect (Female)"
+	},
+	{
+		"ID": "353",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "354",
+		"Text": "Senior Draftsman"
+	},
+	{
+		"ID": "355",
+		"Text": "Customer Support Officer"
+	},
+	{
+		"ID": "356",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "357",
+		"Text": "Animated Video Developer"
+	},
+	{
+		"ID": "358",
+		"Text": "PCB DESIGN ENGINEER"
+	},
+	{
+		"ID": "360",
+		"Text": "Admin Manager"
+	},
+	{
+		"ID": "361",
+		"Text": "Marketing staff"
+	},
+	{
+		"ID": "362",
+		"Text": "Online Marketing & Support"
+	},
+	{
+		"ID": "363",
+		"Text": "HR Intern"
+	},
+	{
+		"ID": "366",
+		"Text": "Administration"
+	},
+	{
+		"ID": "369",
+		"Text": "WordPress developer"
+	},
+	{
+		"ID": "371",
+		"Text": "Sales & Marketing Executive"
+	},
+	{
+		"ID": "372",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "374",
+		"Text": "Customer Support Officer"
+	},
+	{
+		"ID": "375",
+		"Text": "Telesales Executive"
+	},
+	{
+		"ID": "377",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "378",
+		"Text": "Jr Instructor Machinist"
+	},
+	{
+		"ID": "379",
+		"Text": "Jr Instructor Welder"
+	},
+	{
+		"ID": "381",
+		"Text": "Telemarketing Executive / Telesales"
+	},
+	{
+		"ID": "382",
+		"Text": "Sales & Marketing Executives"
+	},
+	{
+		"ID": "387",
+		"Text": "Accounts Officers"
+	},
+	{
+		"ID": "390",
+		"Text": "Android Application Developer"
+	},
+	{
+		"ID": "391",
+		"Text": "Interior Designer"
+	},
+	{
+		"ID": "392",
+		"Text": "3D Modeler Artist"
+	},
+	{
+		"ID": "393",
+		"Text": "Female Swimming Instructor"
+	},
+	{
+		"ID": "397",
+		"Text": "Sales Promotion Officer / Beautician"
+	},
+	{
+		"ID": "399",
+		"Text": "Video Editor"
+	},
+	{
+		"ID": "400",
+		"Text": "B2B communication specialist Negotiation Officer"
+	},
+	{
+		"ID": "401",
+		"Text": "Digital Marketing Manager SEO / SMM / SE"
+	},
+	{
+		"ID": "403",
+		"Text": "SEO Marketing Expert"
+	},
+	{
+		"ID": "406",
+		"Text": "Business Development"
+	},
+	{
+		"ID": "407",
+		"Text": "Marketing for IT Company"
+	},
+	{
+		"ID": "408",
+		"Text": "Customer Sales Representative"
+	},
+	{
+		"ID": "409",
+		"Text": "SIEBEL ADMINISTRATOR"
+	},
+	{
+		"ID": "410",
+		"Text": "Outbound/Inbound Sales Executive"
+	},
+	{
+		"ID": "411",
+		"Text": "Sales and Marketing officers"
+	},
+	{
+		"ID": "413",
+		"Text": "Telemarketing Sales"
+	},
+	{
+		"ID": "414",
+		"Text": "Receptionist"
+	},
+	{
+		"ID": "416",
+		"Text": "Digital Marketing Specialist"
+	},
+	{
+		"ID": "417",
+		"Text": "Customer Representative Officer"
+	},
+	{
+		"ID": "418",
+		"Text": "Books Marketing"
+	},
+	{
+		"ID": "420",
+		"Text": "3D Artist Game Designer"
+	},
+	{
+		"ID": "421",
+		"Text": "Labor / Helper"
+	},
+	{
+		"ID": "423",
+		"Text": "Driver"
+	},
+	{
+		"ID": "424",
+		"Text": "Cook"
+	},
+	{
+		"ID": "425",
+		"Text": "Sales Coordinator"
+	},
+	{
+		"ID": "426",
+		"Text": "Sales"
+	},
+	{
+		"ID": "427",
+		"Text": "Senior PHP Developer"
+	},
+	{
+		"ID": "428",
+		"Text": "Asst. Electrician"
+	},
+	{
+		"ID": "429",
+		"Text": "Electrical / Diploma Associate Engineer"
+	},
+	{
+		"ID": "431",
+		"Text": "Technical Writer"
+	},
+	{
+		"ID": "432",
+		"Text": "Sales & Marketing Officer"
+	},
+	{
+		"ID": "434",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "435",
+		"Text": "WordPress Developer"
+	},
+	{
+		"ID": "436",
+		"Text": "Data Entry Operator"
+	},
+	{
+		"ID": "437",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "438",
+		"Text": "Female Teachers"
+	},
+	{
+		"ID": "439",
+		"Text": "please call me on my number"
+	},
+	{
+		"ID": "440",
+		"Text": "Computer Operator"
+	},
+	{
+		"ID": "443",
+		"Text": "Quality Controller"
+	},
+	{
+		"ID": "444",
+		"Text": "Business Development Manager"
+	},
+	{
+		"ID": "445",
+		"Text": "Call Center Agents/TSR"
+	},
+	{
+		"ID": "446",
+		"Text": "Trainings"
+	},
+	{
+		"ID": "447",
+		"Text": "Teacher for Math Science English"
+	},
+	{
+		"ID": "448",
+		"Text": "Sales & Support Executive"
+	},
+	{
+		"ID": "450",
+		"Text": "Accounts executive"
+	},
+	{
+		"ID": "451",
+		"Text": "Sales/Marketing"
+	},
+	{
+		"ID": "452",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "453",
+		"Text": "Customer Relationship Officer"
+	},
+	{
+		"ID": "454",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "456",
+		"Text": "Area Sales Admin"
+	},
+	{
+		"ID": "458",
+		"Text": "Data Entry Operator"
+	},
+	{
+		"ID": "459",
+		"Text": "Business Ambassador"
+	},
+	{
+		"ID": "460",
+		"Text": "Freelance WEB DESIGNER"
+	},
+	{
+		"ID": "461",
+		"Text": "Female Receptionist"
+	},
+	{
+		"ID": "462",
+		"Text": "Freelance Graphics Designer For Creative Tasks"
+	},
+	{
+		"ID": "463",
+		"Text": "Data Processing"
+	},
+	{
+		"ID": "464",
+		"Text": "Merchandiser (Socks Unit)"
+	},
+	{
+		"ID": "465",
+		"Text": "Accounts Manager"
+	},
+	{
+		"ID": "467",
+		"Text": "Graphic Designer 3d Modler"
+	},
+	{
+		"ID": "468",
+		"Text": "HR Internee"
+	},
+	{
+		"ID": "470",
+		"Text": "Assistant Sales Manager"
+	},
+	{
+		"ID": "471",
+		"Text": "Sales Engineer"
+	},
+	{
+		"ID": "473",
+		"Text": "Executive Human Resources"
+	},
+	{
+		"ID": "474",
+		"Text": "SEO (Data Entry)"
+	},
+	{
+		"ID": "475",
+		"Text": "Training and Service Coordinator"
+	},
+	{
+		"ID": "477",
+		"Text": "MARKETING"
+	},
+	{
+		"ID": "479",
+		"Text": "Sales & Marketing"
+	},
+	{
+		"ID": "480",
+		"Text": "Senior Web Developer"
+	},
+	{
+		"ID": "482",
+		"Text": "Telephone & Data Operator"
+	},
+	{
+		"ID": "487",
+		"Text": "Game designer"
+	},
+	{
+		"ID": "488",
+		"Text": "3D Graphics Designer"
+	},
+	{
+		"ID": "490",
+		"Text": "UniCare Pakistan"
+	},
+	{
+		"ID": "492",
+		"Text": "Senior Category Manager"
+	},
+	{
+		"ID": "495",
+		"Text": "Distributor"
+	},
+	{
+		"ID": "496",
+		"Text": "Graphics Designer / Animator"
+	},
+	{
+		"ID": "497",
+		"Text": "Sales"
+	},
+	{
+		"ID": "498",
+		"Text": "Security Incharge"
+	},
+	{
+		"ID": "499",
+		"Text": "Cost & Budgeting Officer"
+	},
+	{
+		"ID": "500",
+		"Text": "Officer Administration"
+	},
+	{
+		"ID": "503",
+		"Text": "IT Support Officer"
+	},
+	{
+		"ID": "505",
+		"Text": "Research & Data Entry Operators Required"
+	},
+	{
+		"ID": "506",
+		"Text": "CG Artist Required"
+	},
+	{
+		"ID": "507",
+		"Text": "Business Development Officer"
+	},
+	{
+		"ID": "508",
+		"Text": "Financial sales Manager & Financial Consultant"
+	},
+	{
+		"ID": "510",
+		"Text": "Customer Services Executive"
+	},
+	{
+		"ID": "511",
+		"Text": "HR & Administration Specialist"
+	},
+	{
+		"ID": "513",
+		"Text": "Distributor"
+	},
+	{
+		"ID": "515",
+		"Text": "Call Center Representative /TSR?"
+	},
+	{
+		"ID": "519",
+		"Text": "Office sales assistant"
+	},
+	{
+		"ID": "520",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "523",
+		"Text": "HT Motor Winder"
+	},
+	{
+		"ID": "524",
+		"Text": "CSR"
+	},
+	{
+		"ID": "525",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "526",
+		"Text": "Tele marketing"
+	},
+	{
+		"ID": "528",
+		"Text": "Sales Representative"
+	},
+	{
+		"ID": "532",
+		"Text": "Data Entry Operator English Writer"
+	},
+	{
+		"ID": "533",
+		"Text": "Telemarketers"
+	},
+	{
+		"ID": "534",
+		"Text": "Graphic Designer"
+	},
+	{
+		"ID": "536",
+		"Text": "Call Center Agent"
+	},
+	{
+		"ID": "537",
+		"Text": "LIMO CAR USA"
+	},
+	{
+		"ID": "538",
+		"Text": "Junior Architect"
+	},
+	{
+		"ID": "542",
+		"Text": "SEO Experts / Link Builder Required"
+	},
+	{
+		"ID": "544",
+		"Text": "Sales and Marketing Executive {Female}"
+	},
+	{
+		"ID": "545",
+		"Text": "Web Developer Internee"
+	},
+	{
+		"ID": "547",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "549",
+		"Text": "Female Marketing Executive"
+	},
+	{
+		"ID": "550",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "551",
+		"Text": "Call center agent required"
+	},
+	{
+		"ID": "552",
+		"Text": "Accountant"
+	},
+	{
+		"ID": "553",
+		"Text": "Female Marketing Staff"
+	},
+	{
+		"ID": "554",
+		"Text": "Female Accountant"
+	},
+	{
+		"ID": "555",
+		"Text": "Montessori Teacher"
+	},
+	{
+		"ID": "558",
+		"Text": "Web Developer"
+	},
+	{
+		"ID": "559",
+		"Text": "Sales"
+	},
+	{
+		"ID": "561",
+		"Text": "Instructors / crew required part time for tours"
+	},
+	{
+		"ID": "562",
+		"Text": "PHP / Laravel Developer"
+	},
+	{
+		"ID": "563",
+		"Text": "Tele Sales executive / Office executive"
+	},
+	{
+		"ID": "566",
+		"Text": ".Net Developer"
+	},
+	{
+		"ID": "567",
+		"Text": "Call Center Agent Required"
+	},
+	{
+		"ID": "572",
+		"Text": "Sales"
+	},
+	{
+		"ID": "573",
+		"Text": "CRO"
+	},
+	{
+		"ID": "574",
+		"Text": "Sale & Marketing"
+	},
+	{
+		"ID": "575",
+		"Text": "STUDENT VISA / IMMIGRATION COUNCELLING"
+	},
+	{
+		"ID": "578",
+		"Text": "Senior Full Stack Developer"
+	},
+	{
+		"ID": "579",
+		"Text": "Business Development Manager"
+	},
+	{
+		"ID": "580",
+		"Text": "Database Internee"
+	},
+	{
+		"ID": "581",
+		"Text": "Creative Content Writer (WEB)"
+	},
+	{
+		"ID": "582",
+		"Text": "Front Desk officer / Information officer"
+	},
+	{
+		"ID": "586",
+		"Text": "Front-end Developer"
+	},
+	{
+		"ID": "588",
+		"Text": "Tele Sales Executive"
+	},
+	{
+		"ID": "591",
+		"Text": "Pharmacist"
+	},
+	{
+		"ID": "593",
+		"Text": "Personal Secretary"
+	},
+	{
+		"ID": "596",
+		"Text": "Molding Machine Operator"
+	},
+	{
+		"ID": "597",
+		"Text": "PHP Laravel Back end Developer"
+	},
+	{
+		"ID": "598",
+		"Text": "Computer Operater"
+	},
+	{
+		"ID": "599",
+		"Text": "PHP developer required"
+	},
+	{
+		"ID": "600",
+		"Text": "ASP.net Developer"
+	},
+	{
+		"ID": "605",
+		"Text": "Internee - React Native - Mobile Developer"
+	},
+	{
+		"ID": "617",
+		"Text": "INTERIOR DESIGNER"
+	},
+	{
+		"ID": "620",
+		"Text": "Male and Female Staff required"
+	},
+	{
+		"ID": "621",
+		"Text": "Search Engine Optimization (SEO) Specialist"
+	},
+	{
+		"ID": "622",
+		"Text": "Customer Representative Officers / Supervisors"
+	},
+	{
+		"ID": "623",
+		"Text": "Job Seekers in Lahore"
+	},
+	{
+		"ID": "624",
+		"Text": "CALL CENTER - PAK ARAB HOUSING SOCIETY LHR"
+	},
+	{
+		"ID": "625",
+		"Text": "management"
+	},
+	{
+		"ID": "626",
+		"Text": "CSR"
+	},
+	{
+		"ID": "628",
+		"Text": "Executive Assistant"
+	},
+	{
+		"ID": "630",
+		"Text": "Solar Sales Associate"
+	},
+	{
+		"ID": "633",
+		"Text": "Mechanical Site Engineer"
+	},
+	{
+		"ID": "634",
+		"Text": "Home Tutor"
+	},
+	{
+		"ID": "637",
+		"Text": "Sales Executive - Automobile Industry"
+	},
+	{
+		"ID": "638",
+		"Text": "Graphics / Web Designer"
+	},
+	{
+		"ID": "641",
+		"Text": "Sales Agent"
+	},
+	{
+		"ID": "645",
+		"Text": "Assistant Accounts Officer"
+	},
+	{
+		"ID": "646",
+		"Text": "Engineer Solvent Extraction Plant"
+	},
+	{
+		"ID": "648",
+		"Text": "Computer Operator"
+	},
+	{
+		"ID": "653",
+		"Text": "Marketing Assistant / SEO / ASO Specialist"
+	},
+	{
+		"ID": "658",
+		"Text": "Marketing Executive"
+	},
+	{
+		"ID": "659",
+		"Text": "Marketing Man"
+	},
+	{
+		"ID": "660",
+		"Text": "Indoor Sales Executive"
+	},
+	{
+		"ID": "661",
+		"Text": "Personal Assistant"
+	},
+	{
+		"ID": "663",
+		"Text": "Computer Operator"
+	},
+	{
+		"ID": "664",
+		"Text": "Female Sales Consultant"
+	},
+	{
+		"ID": "665",
+		"Text": "Management Trainee Officers"
+	},
+	{
+		"ID": "666",
+		"Text": "Internship"
+	},
+	{
+		"ID": "670",
+		"Text": "Sales Executive and Office assistant"
+	},
+	{
+		"ID": "672",
+		"Text": "Office Cordinator"
+	},
+	{
+		"ID": "673",
+		"Text": "Health and education."
+	},
+	{
+		"ID": "675",
+		"Text": "Officer H.R & Compliance"
+	},
+	{
+		"ID": "676",
+		"Text": "Creative Web Designer"
+	},
+	{
+		"ID": "677",
+		"Text": "Walk-In Interview For Call Center"
+	},
+	{
+		"ID": "679",
+		"Text": "Outbound Call Center - Night Shift"
+	},
+	{
+		"ID": "682",
+		"Text": "Assistant Account"
+	},
+	{
+		"ID": "684",
+		"Text": "Chef - Arabic Food & Cuisine"
+	},
+	{
+		"ID": "685",
+		"Text": "Tutors for Chemistry"
+	},
+	{
+		"ID": "686",
+		"Text": "Office Assistant"
+	},
+	{
+		"ID": "690",
+		"Text": "Assitant Accounts Manager"
+	},
+	{
+		"ID": "694",
+		"Text": "Call Center Agents"
+	},
+	{
+		"ID": "695",
+		"Text": "HR Internee"
+	},
+	{
+		"ID": "697",
+		"Text": "Senior Graphic Designer"
+	},
+	{
+		"ID": "698",
+		"Text": "Senior Software Team Lead"
+	},
+	{
+		"ID": "699",
+		"Text": "Senior Software Technical Writer"
+	},
+	{
+		"ID": "700",
+		"Text": "Sales Promotion Officer"
+	},
+	{
+		"ID": "701",
+		"Text": "Bussines Development Officer"
+	},
+	{
+		"ID": "702",
+		"Text": "Desktop Application Developer"
+	},
+	{
+		"ID": "703",
+		"Text": "Head Corporate Planning"
+	},
+	{
+		"ID": "704",
+		"Text": "Visiting Teacher"
+	},
+	{
+		"ID": "705",
+		"Text": "Proposal Writer"
+	},
+	{
+		"ID": "706",
+		"Text": "Accounts Officer"
+	},
+	{
+		"ID": "708",
+		"Text": "Electronics Technician"
+	},
+	{
+		"ID": "709",
+		"Text": "Software QA Engineer"
+	},
+	{
+		"ID": "713",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "714",
+		"Text": "Manager Internal Audit"
+	},
+	{
+		"ID": "715",
+		"Text": "Photoshop & Website Product Listing Agent"
+	},
+	{
+		"ID": "716",
+		"Text": "B Pharmacy Marketing Internee"
+	},
+	{
+		"ID": "718",
+		"Text": "IOS Developers - Required"
+	},
+	{
+		"ID": "719",
+		"Text": "Technical Project Manager"
+	},
+	{
+		"ID": "721",
+		"Text": "WordPress Developer"
+	},
+	{
+		"ID": "722",
+		"Text": "Accountant"
+	},
+	{
+		"ID": "723",
+		"Text": "Female Data Entry Operator"
+	},
+	{
+		"ID": "724",
+		"Text": "Networking"
+	},
+	{
+		"ID": "725",
+		"Text": "Reservation Call Center Agent"
+	},
+	{
+		"ID": "726",
+		"Text": "Female Receptionist"
+	},
+	{
+		"ID": "727",
+		"Text": "Logo Designer"
+	},
+	{
+		"ID": "728",
+		"Text": "Law Associate"
+	},
+	{
+		"ID": "729",
+		"Text": "Corporate Coordinator (Female)"
+	},
+	{
+		"ID": "730",
+		"Text": "Computer Operator"
+	},
+	{
+		"ID": "731",
+		"Text": "Accounts Assistant"
+	},
+	{
+		"ID": "734",
+		"Text": "Clinic Receptionist"
+	},
+	{
+		"ID": "735",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "736",
+		"Text": "Call Center Agents"
+	},
+	{
+		"ID": "737",
+		"Text": "Bachat Advisor"
+	},
+	{
+		"ID": "739",
+		"Text": "sales manager"
+	},
+	{
+		"ID": "740",
+		"Text": "sales agent"
+	},
+	{
+		"ID": "741",
+		"Text": "Marketing Manager"
+	},
+	{
+		"ID": "742",
+		"Text": "Construction Project Manager"
+	},
+	{
+		"ID": "743",
+		"Text": "Operations executive - courier Industry"
+	},
+	{
+		"ID": "744",
+		"Text": "Customer Support Representative (Intrnee)"
+	},
+	{
+		"ID": "745",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "746",
+		"Text": "Ruby on Rails Developer"
+	},
+	{
+		"ID": "747",
+		"Text": "PHP Wordpress Developer"
+	},
+	{
+		"ID": "748",
+		"Text": "Market Place Assistant (Amazon)"
+	},
+	{
+		"ID": "751",
+		"Text": "TSR (Part Time)"
+	},
+	{
+		"ID": "752",
+		"Text": "Call Centre Representative (Female)"
+	},
+	{
+		"ID": "754",
+		"Text": "Game Developer (Unity3D)"
+	},
+	{
+		"ID": "755",
+		"Text": "Application and Game Designer"
+	},
+	{
+		"ID": "756",
+		"Text": "Graphic Design Teacher"
+	},
+	{
+		"ID": "761",
+		"Text": "Sales Representetive"
+	},
+	{
+		"ID": "762",
+		"Text": "Sr Network Engineer/ DDos/ Arbor Networks"
+	},
+	{
+		"ID": "766",
+		"Text": "Sales Reprensentative"
+	},
+	{
+		"ID": "767",
+		"Text": "Operation Manager/Executive"
+	},
+	{
+		"ID": "768",
+		"Text": "Salesman"
+	},
+	{
+		"ID": "776",
+		"Text": "Front Desk officer / Information officer"
+	},
+	{
+		"ID": "778",
+		"Text": "Graphic Designer"
+	},
+	{
+		"ID": "779",
+		"Text": "Sales Consultants/Financial Advisors"
+	},
+	{
+		"ID": "780",
+		"Text": "Office Assistant"
+	},
+	{
+		"ID": "781",
+		"Text": "Junior Executive Finance"
+	},
+	{
+		"ID": "782",
+		"Text": "Receptionist cum Office Assistant"
+	},
+	{
+		"ID": "783",
+		"Text": "Software Engineer/ Senior Software Engineer"
+	},
+	{
+		"ID": "784",
+		"Text": "Business Development / Marketing Officer"
+	},
+	{
+		"ID": "785",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "787",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "789",
+		"Text": "Internee Graphics Designers"
+	},
+	{
+		"ID": "792",
+		"Text": "creative designer"
+	},
+	{
+		"ID": "793",
+		"Text": "Computer operator / Typist"
+	},
+	{
+		"ID": "794",
+		"Text": "Concept Artist / Story Board Artist"
+	},
+	{
+		"ID": "796",
+		"Text": "Sales Promotion Officer"
+	},
+	{
+		"ID": "798",
+		"Text": "Accounts Officer/Senior Officer"
+	},
+	{
+		"ID": "799",
+		"Text": "Customer Sales Representative"
+	},
+	{
+		"ID": "800",
+		"Text": "Professional UK Expert Accountant Required"
+	},
+	{
+		"ID": "801",
+		"Text": "Secondary Teacher"
+	},
+	{
+		"ID": "805",
+		"Text": "Senior Quality Assurance Engineer (SQAE)"
+	},
+	{
+		"ID": "806",
+		"Text": "Professional Writer /Technical Analyst"
+	},
+	{
+		"ID": "807",
+		"Text": "JavaScript UI Developer"
+	},
+	{
+		"ID": "808",
+		"Text": "UI Developer (Angular JS)"
+	},
+	{
+		"ID": "811",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "813",
+		"Text": "SEO Executive"
+	},
+	{
+		"ID": "816",
+		"Text": "Admin Assistant"
+	},
+	{
+		"ID": "817",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "818",
+		"Text": "Purchase Agent"
+	},
+	{
+		"ID": "819",
+		"Text": "ACCOUNTS INTERNEE"
+	},
+	{
+		"ID": "822",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "827",
+		"Text": "Online Customer Care Representative"
+	},
+	{
+		"ID": "828",
+		"Text": "Customer Service Representative (Female)"
+	},
+	{
+		"ID": "829",
+		"Text": "Manager IT"
+	},
+	{
+		"ID": "830",
+		"Text": "Company Secretary / Manager Legal"
+	},
+	{
+		"ID": "831",
+		"Text": "Manager Research and Product Development (Female)"
+	},
+	{
+		"ID": "832",
+		"Text": "Community Manger- Exciting Role"
+	},
+	{
+		"ID": "833",
+		"Text": "Data Entry Operators"
+	},
+	{
+		"ID": "834",
+		"Text": "Call Center Agents"
+	},
+	{
+		"ID": "835",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "836",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "839",
+		"Text": "Data Entry Agent"
+	},
+	{
+		"ID": "840",
+		"Text": "Computer Operator / operation Manager / Assistant"
+	},
+	{
+		"ID": "841",
+		"Text": "Graphic Designer (Intern)"
+	},
+	{
+		"ID": "842",
+		"Text": "Accounts Assitant"
+	},
+	{
+		"ID": "844",
+		"Text": "Android Engineer"
+	},
+	{
+		"ID": "845",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "847",
+		"Text": "Sales officer"
+	},
+	{
+		"ID": "848",
+		"Text": "Data Entry Operator"
+	},
+	{
+		"ID": "849",
+		"Text": "CSR/TSR"
+	},
+	{
+		"ID": "850",
+		"Text": "IT sales"
+	},
+	{
+		"ID": "852",
+		"Text": "JavaScript/Angular JS Engineer"
+	},
+	{
+		"ID": "858",
+		"Text": "Call Center Representative"
+	},
+	{
+		"ID": "859",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "860",
+		"Text": "Professional UK Expert Accountant Required"
+	},
+	{
+		"ID": "861",
+		"Text": "Machine Operator Required Printing QMDI Four Color"
+	},
+	{
+		"ID": "862",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "864",
+		"Text": "Search Engine Marketing Specialist (SEO/SEM) and Content Writer"
+	},
+	{
+		"ID": "865",
+		"Text": "SALES MANAGER & SALES CONSULTANT"
+	},
+	{
+		"ID": "866",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "867",
+		"Text": "INVENTORY MANAGEMENT - STORE"
+	},
+	{
+		"ID": "868",
+		"Text": "People required in office for different positions"
+	},
+	{
+		"ID": "869",
+		"Text": "Mid Stage Developer"
+	},
+	{
+		"ID": "870",
+		"Text": "Marketing & Sales Professionals"
+	},
+	{
+		"ID": "872",
+		"Text": "Network/System Administrator"
+	},
+	{
+		"ID": "873",
+		"Text": "Receptionist / Personal Assistant"
+	},
+	{
+		"ID": "874",
+		"Text": "Non-formal Education Teacher - Primary Level"
+	},
+	{
+		"ID": "875",
+		"Text": "Sales officer"
+	},
+	{
+		"ID": "876",
+		"Text": "Operation Supervisor Warehouse/Production"
+	},
+	{
+		"ID": "878",
+		"Text": "Executive HR"
+	},
+	{
+		"ID": "879",
+		"Text": "HR Manager"
+	},
+	{
+		"ID": "881",
+		"Text": "Web developer"
+	},
+	{
+		"ID": "883",
+		"Text": "Manager Sales & Marketing"
+	},
+	{
+		"ID": "884",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "885",
+		"Text": "Student Counselor/Academic & International education"
+	},
+	{
+		"ID": "886",
+		"Text": "Content Writer"
+	},
+	{
+		"ID": "887",
+		"Text": "Business Development Officers"
+	},
+	{
+		"ID": "888",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "889",
+		"Text": "Sales & Marketing Internee"
+	},
+	{
+		"ID": "890",
+		"Text": "Shift Chemist"
+	},
+	{
+		"ID": "893",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "896",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "897",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "899",
+		"Text": "SQA Engineer"
+	},
+	{
+		"ID": "903",
+		"Text": "Software Engineer (iOS)"
+	},
+	{
+		"ID": "904",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "907",
+		"Text": "Web Designer & Developer"
+	},
+	{
+		"ID": "908",
+		"Text": "SEO/SEM Assistant manager"
+	},
+	{
+		"ID": "909",
+		"Text": "Social Media Marketer and Website Developer"
+	},
+	{
+		"ID": "910",
+		"Text": "Back-End Developer"
+	},
+	{
+		"ID": "911",
+		"Text": "Female Office Assistant part time job (evening)"
+	},
+	{
+		"ID": "916",
+		"Text": "Business Sales Executive (BSE)"
+	},
+	{
+		"ID": "921",
+		"Text": "Junior Sales & Marketing Officer"
+	},
+	{
+		"ID": "923",
+		"Text": "Female CSR (Night Shift)"
+	},
+	{
+		"ID": "924",
+		"Text": "Retail Outlet Manager"
+	},
+	{
+		"ID": "925",
+		"Text": "Marketing Agent"
+	},
+	{
+		"ID": "928",
+		"Text": "Computer Operator (Female)"
+	},
+	{
+		"ID": "929",
+		"Text": "CSE International"
+	},
+	{
+		"ID": "930",
+		"Text": "CSE Domestic"
+	},
+	{
+		"ID": "931",
+		"Text": "SEO Internee/ Link Builders"
+	},
+	{
+		"ID": "932",
+		"Text": "Outbound Sales Agents"
+	},
+	{
+		"ID": "933",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "935",
+		"Text": "Accounts Assitant"
+	},
+	{
+		"ID": "936",
+		"Text": "Upwork / Guru / Freelancer Bidder"
+	},
+	{
+		"ID": "937",
+		"Text": "Web Design & Developer php Teacher"
+	},
+	{
+		"ID": "939",
+		"Text": "Dot Net Web Developer"
+	},
+	{
+		"ID": "940",
+		"Text": "Web Designer & Developer"
+	},
+	{
+		"ID": "943",
+		"Text": "Data Executive"
+	},
+	{
+		"ID": "944",
+		"Text": "Accounts Receivable Executive"
+	},
+	{
+		"ID": "946",
+		"Text": "IOS Devleoper"
+	},
+	{
+		"ID": "947",
+		"Text": "Sales & Marketing Officer"
+	},
+	{
+		"ID": "948",
+		"Text": "Sales Agents"
+	},
+	{
+		"ID": "949",
+		"Text": "IT Assistant (INTERNSHIP)"
+	},
+	{
+		"ID": "950",
+		"Text": "Social Media Manager/Executive"
+	},
+	{
+		"ID": "951",
+		"Text": "Fresh Telemarketers"
+	},
+	{
+		"ID": "952",
+		"Text": "Customer support Specialist"
+	},
+	{
+		"ID": "953",
+		"Text": "IOS Devleoper"
+	},
+	{
+		"ID": "956",
+		"Text": "Social Media Marketer and Website Developer"
+	},
+	{
+		"ID": "958",
+		"Text": "Bio Medical Engineer"
+	},
+	{
+		"ID": "959",
+		"Text": "Project Presenters"
+	},
+	{
+		"ID": "960",
+		"Text": "Female Office Assistant"
+	},
+	{
+		"ID": "964",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "965",
+		"Text": "Electrical / Electronic Expert"
+	},
+	{
+		"ID": "966",
+		"Text": "Marketing Executive"
+	},
+	{
+		"ID": "968",
+		"Text": "Inbound Customer Support Executive"
+	},
+	{
+		"ID": "969",
+		"Text": "Home Tutors"
+	},
+	{
+		"ID": "970",
+		"Text": "Relationship manager"
+	},
+	{
+		"ID": "971",
+		"Text": "Data Entry Operators"
+	},
+	{
+		"ID": "975",
+		"Text": "Web & Graphics Designer"
+	},
+	{
+		"ID": "976",
+		"Text": "Software Engineer (.Net)"
+	},
+	{
+		"ID": "977",
+		"Text": "Mobile App Developer (iOS / Android)"
+	},
+	{
+		"ID": "978",
+		"Text": "SEO/Search Engine Optimization/Digital Marketing"
+	},
+	{
+		"ID": "980",
+		"Text": "Salesman"
+	},
+	{
+		"ID": "982",
+		"Text": "Marketing Assistant / SEO Operative"
+	},
+	{
+		"ID": "983",
+		"Text": "Customer Support Executive & Sales Officer"
+	},
+	{
+		"ID": "984",
+		"Text": "Network/System Administrator"
+	},
+	{
+		"ID": "986",
+		"Text": "Graphic Designer UI / UX"
+	},
+	{
+		"ID": "987",
+		"Text": "Mobile App Developer"
+	},
+	{
+		"ID": "988",
+		"Text": "Teacher (F.Sc Physics)"
+	},
+	{
+		"ID": "989",
+		"Text": "Social Media Expert"
+	},
+	{
+		"ID": "990",
+		"Text": "Search Engine Optimizer (SEO)"
+	},
+	{
+		"ID": "994",
+		"Text": "Procurement Internee"
+	},
+	{
+		"ID": "995",
+		"Text": "ACCOUNTS INTERNEE"
+	},
+	{
+		"ID": "996",
+		"Text": "Android Mobile App Developer"
+	},
+	{
+		"ID": "998",
+		"Text": "Administrator Required"
+	},
+	{
+		"ID": "999",
+		"Text": "Receptionist / Personal Assistant"
+	},
+	{
+		"ID": "1000",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1004",
+		"Text": "Internship Software Quality Assurance"
+	},
+	{
+		"ID": "1006",
+		"Text": "Customer Sales Executives"
+	},
+	{
+		"ID": "1007",
+		"Text": "Sales and Marketing Agent"
+	},
+	{
+		"ID": "1008",
+		"Text": "Production Helper"
+	},
+	{
+		"ID": "1011",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1012",
+		"Text": "Software Engineers / Senior Software Engineers"
+	},
+	{
+		"ID": "1015",
+		"Text": "Mobile App Developer"
+	},
+	{
+		"ID": "1016",
+		"Text": "Sales & Marketing Manager"
+	},
+	{
+		"ID": "1017",
+		"Text": "UI Designer ( Websites & Mobile Apps)"
+	},
+	{
+		"ID": "1018",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "1019",
+		"Text": "HTML Developer"
+	},
+	{
+		"ID": "1021",
+		"Text": "Call Center Executive"
+	},
+	{
+		"ID": "1023",
+		"Text": "Sales officer"
+	},
+	{
+		"ID": "1026",
+		"Text": "Teacher - 5th and 6th Grade"
+	},
+	{
+		"ID": "1027",
+		"Text": "Social Media and Email Marketing Manager"
+	},
+	{
+		"ID": "1028",
+		"Text": "internee/developer"
+	},
+	{
+		"ID": "1029",
+		"Text": "WordPress PHP Laravel Back end Developer"
+	},
+	{
+		"ID": "1030",
+		"Text": "Accounts Executive"
+	},
+	{
+		"ID": "1042",
+		"Text": "Game Graphic Designer"
+	},
+	{
+		"ID": "1043",
+		"Text": "Auto Cad Drafts Man"
+	},
+	{
+		"ID": "1048",
+		"Text": "Oracle Programmer / Analyst"
+	},
+	{
+		"ID": "1049",
+		"Text": "Data Entry"
+	},
+	{
+		"ID": "1050",
+		"Text": "CSO"
+	},
+	{
+		"ID": "1051",
+		"Text": "Supply Chain Manager"
+	},
+	{
+		"ID": "1052",
+		"Text": "Office Coordinator"
+	},
+	{
+		"ID": "1053",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "1054",
+		"Text": "Business Development Officer"
+	},
+	{
+		"ID": "1055",
+		"Text": "IOS Devleoper"
+	},
+	{
+		"ID": "1056",
+		"Text": "Ielts Teacher"
+	},
+	{
+		"ID": "1057",
+		"Text": "Customer Support Executive"
+	},
+	{
+		"ID": "1062",
+		"Text": "Call Center Agents"
+	},
+	{
+		"ID": "1063",
+		"Text": "Research and Product Development Agent (Female)"
+	},
+	{
+		"ID": "1064",
+		"Text": "PHP Developer"
+	},
+	{
+		"ID": "1065",
+		"Text": "Electrical Engineer"
+	},
+	{
+		"ID": "1067",
+		"Text": "Technical Content Writers Required (Tech Specialist)"
+	},
+	{
+		"ID": "1068",
+		"Text": "Assistant Manager Accounts and Taxation"
+	},
+	{
+		"ID": "1069",
+		"Text": "Sales Executives"
+	},
+	{
+		"ID": "1070",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1071",
+		"Text": "Tele Marketing/Sales Representative"
+	},
+	{
+		"ID": "1072",
+		"Text": "Sales Officers & Order Takers"
+	},
+	{
+		"ID": "1073",
+		"Text": "Online Sales Executive"
+	},
+	{
+		"ID": "1075",
+		"Text": "Telemarketing Sales Representative"
+	},
+	{
+		"ID": "1076",
+		"Text": "Senior Software Team Lead"
+	},
+	{
+		"ID": "1077",
+		"Text": "Careem Captin / Driver"
+	},
+	{
+		"ID": "1078",
+		"Text": "Relationship Manager / Business Development Officer"
+	},
+	{
+		"ID": "1079",
+		"Text": "Campus Coordinator"
+	},
+	{
+		"ID": "1080",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1081",
+		"Text": "Teacher Required for Islamiat"
+	},
+	{
+		"ID": "1082",
+		"Text": "Web Design & Developer"
+	},
+	{
+		"ID": "1083",
+		"Text": "Software Automation Testing Intern"
+	},
+	{
+		"ID": "1084",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1085",
+		"Text": "Project Presenters"
+	},
+	{
+		"ID": "1086",
+		"Text": "SEO assistant Manager"
+	},
+	{
+		"ID": "1087",
+		"Text": "Construction Project Manager"
+	},
+	{
+		"ID": "1090",
+		"Text": "Unity Game Developer"
+	},
+	{
+		"ID": "1091",
+		"Text": "Senior Game 3D Animator / 3D Modeler / CG Artists"
+	},
+	{
+		"ID": "1092",
+		"Text": "Junior CG Artists Required"
+	},
+	{
+		"ID": "1095",
+		"Text": "ERP & IT Administrator"
+	},
+	{
+		"ID": "1096",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "1097",
+		"Text": "PPC Manager"
+	},
+	{
+		"ID": "1099",
+		"Text": "Data Entry Operator & English Writer"
+	},
+	{
+		"ID": "1101",
+		"Text": "Drivers Required"
+	},
+	{
+		"ID": "1102",
+		"Text": "Software Developer (MEAN Stack)"
+	},
+	{
+		"ID": "1103",
+		"Text": "Accounts Assistant"
+	},
+	{
+		"ID": "1104",
+		"Text": "Bike Riders / Delivery Boys"
+	},
+	{
+		"ID": "1107",
+		"Text": "Front /back-end developer"
+	},
+	{
+		"ID": "1108",
+		"Text": "Jr. Pre-Press Graphics Designer"
+	},
+	{
+		"ID": "1109",
+		"Text": "Delivery Riders"
+	},
+	{
+		"ID": "1110",
+		"Text": "Office Boy"
+	},
+	{
+		"ID": "1112",
+		"Text": "Telemarketing Sales Representative"
+	},
+	{
+		"ID": "1113",
+		"Text": "Call Centre Agent - Female"
+	},
+	{
+		"ID": "1114",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1116",
+		"Text": "Client Coordination Trainee"
+	},
+	{
+		"ID": "1117",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1119",
+		"Text": "Dot Net Developer"
+	},
+	{
+		"ID": "1121",
+		"Text": "Front /back-end developer"
+	},
+	{
+		"ID": "1122",
+		"Text": "Mean Stack Architect"
+	},
+	{
+		"ID": "1124",
+		"Text": "Coordinator to CEO"
+	},
+	{
+		"ID": "1125",
+		"Text": "English Teacher - 9th and 10th Grade"
+	},
+	{
+		"ID": "1128",
+		"Text": "SEO / Social Media Marketing Expert"
+	},
+	{
+		"ID": "1129",
+		"Text": "Big Moe's Diner Waiter / Waitress"
+	},
+	{
+		"ID": "1130",
+		"Text": "Customer Service Representative – Female (Urgently required))"
+	},
+	{
+		"ID": "1131",
+		"Text": "Receptionist / Personal Assistant"
+	},
+	{
+		"ID": "1134",
+		"Text": "Delivery Riders"
+	},
+	{
+		"ID": "1135",
+		"Text": "TSO/ASO/SO"
+	},
+	{
+		"ID": "1136",
+		"Text": "Ecommerce Sales Executives"
+	},
+	{
+		"ID": "1137",
+		"Text": "Outdoor Salesman /Order Taker"
+	},
+	{
+		"ID": "1138",
+		"Text": "Outdoor Salesman /Order Taker"
+	},
+	{
+		"ID": "1139",
+		"Text": "Outdoor Salesman/Order Taker"
+	},
+	{
+		"ID": "1140",
+		"Text": "Salesman Required"
+	},
+	{
+		"ID": "1141",
+		"Text": "Salesman Required"
+	},
+	{
+		"ID": "1143",
+		"Text": "Sales & Marketing Officer"
+	},
+	{
+		"ID": "1144",
+		"Text": "Sales Officer/ Order Booker"
+	},
+	{
+		"ID": "1145",
+		"Text": "Sale Officer/Order Booker"
+	},
+	{
+		"ID": "1146",
+		"Text": "Sale Officer/Order Booker"
+	},
+	{
+		"ID": "1147",
+		"Text": "Sales Officer/ Order Booker"
+	},
+	{
+		"ID": "1148",
+		"Text": "Sales Officers & Order Takers"
+	},
+	{
+		"ID": "1149",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "1150",
+		"Text": "Web Design & Developer"
+	},
+	{
+		"ID": "1151",
+		"Text": "Telephone Operator and Marketing Agent"
+	},
+	{
+		"ID": "1153",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1155",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "1156",
+		"Text": "Telemarketer"
+	},
+	{
+		"ID": "1159",
+		"Text": "STAFF REQUIRED FOR SHOES SHOP"
+	},
+	{
+		"ID": "1160",
+		"Text": "Sales Staff Required"
+	},
+	{
+		"ID": "1163",
+		"Text": "Security Gaurd/ Watch Man"
+	},
+	{
+		"ID": "1165",
+		"Text": "Senior Chef"
+	},
+	{
+		"ID": "1166",
+		"Text": "Assistant Chef"
+	},
+	{
+		"ID": "1167",
+		"Text": "Senior Quality Assurance Engineers (SQAE)"
+	},
+	{
+		"ID": "1170",
+		"Text": "Cashiers"
+	},
+	{
+		"ID": "1171",
+		"Text": "Sales Staff- Cosmetics"
+	},
+	{
+		"ID": "1172",
+		"Text": "Sale Officer/Order Booker"
+	},
+	{
+		"ID": "1174",
+		"Text": "Social Media/Marketing Officer"
+	},
+	{
+		"ID": "1175",
+		"Text": "Lead Generation Specialist - Sales"
+	},
+	{
+		"ID": "1176",
+		"Text": "Professional Trainer"
+	},
+	{
+		"ID": "1178",
+		"Text": "Professional Mentor"
+	},
+	{
+		"ID": "1180",
+		"Text": "Support and Quality Assurance"
+	},
+	{
+		"ID": "1181",
+		"Text": "Web Design & Developer"
+	},
+	{
+		"ID": "1183",
+		"Text": "Sales officer Indenting"
+	},
+	{
+		"ID": "1184",
+		"Text": "Web Design & Developer"
+	},
+	{
+		"ID": "1185",
+		"Text": "Customer Services and Tele Sales job"
+	},
+	{
+		"ID": "1186",
+		"Text": "Helper Electrician"
+	},
+	{
+		"ID": "1188",
+		"Text": "Confectionery Order Booker Outdoor"
+	},
+	{
+		"ID": "1190",
+		"Text": "Area Sales Manager"
+	},
+	{
+		"ID": "1191",
+		"Text": "TSR"
+	},
+	{
+		"ID": "1193",
+		"Text": "Web/Graphics Designer"
+	},
+	{
+		"ID": "1194",
+		"Text": "CSE International Karachi"
+	},
+	{
+		"ID": "1196",
+		"Text": "Architect & 3D Visualizer"
+	},
+	{
+		"ID": "1197",
+		"Text": "Front Desk officer / Information officer"
+	},
+	{
+		"ID": "1198",
+		"Text": "Assistant Computer Operator"
+	},
+	{
+		"ID": "1199",
+		"Text": "Office Assistant Male/female"
+	},
+	{
+		"ID": "1200",
+		"Text": "PHP Developer/Wordpress"
+	},
+	{
+		"ID": "1202",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1203",
+		"Text": "Sales Promotor"
+	},
+	{
+		"ID": "1204",
+		"Text": "Fast Food Expert"
+	},
+	{
+		"ID": "1205",
+		"Text": "Sales Officer (Field)"
+	},
+	{
+		"ID": "1206",
+		"Text": "Android Developer Junior/Senior"
+	},
+	{
+		"ID": "1208",
+		"Text": "Manager Accounting & Finance"
+	},
+	{
+		"ID": "1209",
+		"Text": "Graphic Designer (Intern)"
+	},
+	{
+		"ID": "1211",
+		"Text": "Admin and Accounts Manager"
+	},
+	{
+		"ID": "1212",
+		"Text": "Data Operator/ Computer Operator"
+	},
+	{
+		"ID": "1213",
+		"Text": "QC Asst (DAE Electrical)"
+	},
+	{
+		"ID": "1214",
+		"Text": "SQA Engineer"
+	},
+	{
+		"ID": "1215",
+		"Text": "Front /back-end developer"
+	},
+	{
+		"ID": "1216",
+		"Text": "Search Engine Marketing Expert"
+	},
+	{
+		"ID": "1220",
+		"Text": "Lead Android/iOS Developer"
+	},
+	{
+		"ID": "1222",
+		"Text": "HR Internee (Intern to Permanent)"
+	},
+	{
+		"ID": "1223",
+		"Text": "Marketing and Sales Manager (Textile Chemical)"
+	},
+	{
+		"ID": "1225",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1226",
+		"Text": "Admin Assistant"
+	},
+	{
+		"ID": "1237",
+		"Text": "Ruby on Rails Developer"
+	},
+	{
+		"ID": "1240",
+		"Text": "Team Leader Internal Audit"
+	},
+	{
+		"ID": "1241",
+		"Text": "HR Agents"
+	},
+	{
+		"ID": "1242",
+		"Text": "Field Sale Agent"
+	},
+	{
+		"ID": "1243",
+		"Text": "Senior Software Project Manager"
+	},
+	{
+		"ID": "1244",
+		"Text": "SEO"
+	},
+	{
+		"ID": "1245",
+		"Text": "Graphic Design Teacher"
+	},
+	{
+		"ID": "1248",
+		"Text": "Education Promotion"
+	},
+	{
+		"ID": "1250",
+		"Text": "Telephone operator-cum-Receptionist"
+	},
+	{
+		"ID": "1251",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1252",
+		"Text": "Models Required"
+	},
+	{
+		"ID": "1253",
+		"Text": "Internee Graphics Designers"
+	},
+	{
+		"ID": "1255",
+		"Text": "Manager Marketing & Fund Raising"
+	},
+	{
+		"ID": "1256",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1257",
+		"Text": "Receptionist / Personal Assistant"
+	},
+	{
+		"ID": "1259",
+		"Text": "Office Assistant / Manager"
+	},
+	{
+		"ID": "1263",
+		"Text": "Sales & Marketing Executive"
+	},
+	{
+		"ID": "1264",
+		"Text": "Sales Executive / Senior Sales Executive"
+	},
+	{
+		"ID": "1271",
+		"Text": "Android Mobile Developer required"
+	},
+	{
+		"ID": "1272",
+		"Text": "Mobile App Developer (iOS / Android)"
+	},
+	{
+		"ID": "1274",
+		"Text": "TSO/ASO/SO"
+	},
+	{
+		"ID": "1275",
+		"Text": "ACCA Content Writer"
+	},
+	{
+		"ID": "1276",
+		"Text": "Outdoor salesman order taker"
+	},
+	{
+		"ID": "1280",
+		"Text": "Call Center Representative"
+	},
+	{
+		"ID": "1281",
+		"Text": "Magazine Designer"
+	},
+	{
+		"ID": "1282",
+		"Text": "Sales Staff"
+	},
+	{
+		"ID": "1290",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1292",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "1293",
+		"Text": "Team Leader (Civil Engineer)"
+	},
+	{
+		"ID": "1295",
+		"Text": "Site Inspector Required"
+	},
+	{
+		"ID": "1299",
+		"Text": "Officer Exports"
+	},
+	{
+		"ID": "1302",
+		"Text": "3D Modular Designer"
+	},
+	{
+		"ID": "1303",
+		"Text": "Computer Operator/ Assistant Required"
+	},
+	{
+		"ID": "1304",
+		"Text": "Business Analysts"
+	},
+	{
+		"ID": "1307",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1309",
+		"Text": "Waiters Required"
+	},
+	{
+		"ID": "1311",
+		"Text": "Call Agents Required for USA & UK Campaign"
+	},
+	{
+		"ID": "1313",
+		"Text": "Retail Outlet Manager"
+	},
+	{
+		"ID": "1314",
+		"Text": "Representative of Unicare"
+	},
+	{
+		"ID": "1320",
+		"Text": "Office Sales Supervisor"
+	},
+	{
+		"ID": "1321",
+		"Text": "CSR/TSR"
+	},
+	{
+		"ID": "1324",
+		"Text": "Senior backend Java Developer"
+	},
+	{
+		"ID": "1325",
+		"Text": "3D Modular Designer"
+	},
+	{
+		"ID": "1331",
+		"Text": "Node Js Developer"
+	},
+	{
+		"ID": "1335",
+		"Text": "Civil Engineer cum Quantity Surveyor"
+	},
+	{
+		"ID": "1337",
+		"Text": "Web Design & Developer"
+	},
+	{
+		"ID": "1338",
+		"Text": "Senior PHP/ Laravel Developer"
+	},
+	{
+		"ID": "1340",
+		"Text": "Call center agents required"
+	},
+	{
+		"ID": "1341",
+		"Text": "Software Tester and Quality Assurance - Fresh Resource"
+	},
+	{
+		"ID": "1342",
+		"Text": "Graphics Artist"
+	},
+	{
+		"ID": "1343",
+		"Text": "Marketing Representatives"
+	},
+	{
+		"ID": "1344",
+		"Text": "Assistant/ Salesman"
+	},
+	{
+		"ID": "1346",
+		"Text": "Mobile App Developer"
+	},
+	{
+		"ID": "1347",
+		"Text": "Zonal Manager Retail Development"
+	},
+	{
+		"ID": "1349",
+		"Text": "Clinic Assistant"
+	},
+	{
+		"ID": "1350",
+		"Text": "Homeopathic Doctor"
+	},
+	{
+		"ID": "1351",
+		"Text": "2D / 3D Artist"
+	},
+	{
+		"ID": "1352",
+		"Text": "B2B International Sales Executive"
+	},
+	{
+		"ID": "1353",
+		"Text": "International Sales Coordinator"
+	},
+	{
+		"ID": "1358",
+		"Text": "Receptionist / Personal Assistant"
+	},
+	{
+		"ID": "1361",
+		"Text": "Operation Executive"
+	},
+	{
+		"ID": "1363",
+		"Text": "Search Engine Optimizer (SEO) Specialist?"
+	},
+	{
+		"ID": "1365",
+		"Text": "Manager's Assistant"
+	},
+	{
+		"ID": "1366",
+		"Text": "Wordpress Developer/SEO Expert Required"
+	},
+	{
+		"ID": "1368",
+		"Text": "Technical Selling Representative"
+	},
+	{
+		"ID": "1371",
+		"Text": "Pharmacist - Female"
+	},
+	{
+		"ID": "1372",
+		"Text": "UI Developer/ Front End Developer JQuery"
+	},
+	{
+		"ID": "1373",
+		"Text": "Sample Manager"
+	},
+	{
+		"ID": "1375",
+		"Text": "Manager Accounting & Finance"
+	},
+	{
+		"ID": "1376",
+		"Text": "Accountant Required"
+	},
+	{
+		"ID": "1377",
+		"Text": "Marketing"
+	},
+	{
+		"ID": "1378",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1380",
+		"Text": "Account Assistant"
+	},
+	{
+		"ID": "1381",
+		"Text": "Female Teachers"
+	},
+	{
+		"ID": "1382",
+		"Text": "Sales & Marketing Officer"
+	},
+	{
+		"ID": "1384",
+		"Text": "CG Artist"
+	},
+	{
+		"ID": "1385",
+		"Text": "Experienced PHP Developer"
+	},
+	{
+		"ID": "1387",
+		"Text": "Computer operator/Typist"
+	},
+	{
+		"ID": "1391",
+		"Text": "Secretary to CEO"
+	},
+	{
+		"ID": "1392",
+		"Text": "Front Desk Officer (Female)"
+	},
+	{
+		"ID": "1394",
+		"Text": "Female Coordinator / Admission Officer"
+	},
+	{
+		"ID": "1395",
+		"Text": "Marketing Sales Representative"
+	},
+	{
+		"ID": "1397",
+		"Text": "SEO Specialist"
+	},
+	{
+		"ID": "1400",
+		"Text": "Embroidery Digitizers"
+	},
+	{
+		"ID": "1401",
+		"Text": "Product Design UI/UX"
+	},
+	{
+		"ID": "1403",
+		"Text": "Urdu Graphic Designer"
+	},
+	{
+		"ID": "1404",
+		"Text": "Sales & Marketing Manager"
+	},
+	{
+		"ID": "1405",
+		"Text": "Salesman of Construction Machines/Engineering"
+	},
+	{
+		"ID": "1407",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1409",
+		"Text": "Restaurant Staff Required"
+	},
+	{
+		"ID": "1410",
+		"Text": "Account Receivable Specialist"
+	},
+	{
+		"ID": "1411",
+		"Text": "CCTV Technician"
+	},
+	{
+		"ID": "1412",
+		"Text": "SEO Backlinker / Junior SEO Specialist / SEO Executive"
+	},
+	{
+		"ID": "1414",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "1415",
+		"Text": "Pharmacist Required"
+	},
+	{
+		"ID": "1418",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1422",
+		"Text": "Night Shift-Call Center"
+	},
+	{
+		"ID": "1423",
+		"Text": "Telemarketing Sales Representative"
+	},
+	{
+		"ID": "1425",
+		"Text": "Outbound Call Center-Night Shift"
+	},
+	{
+		"ID": "1427",
+		"Text": "Pharmacist Required"
+	},
+	{
+		"ID": "1428",
+		"Text": "Content Writer & Editor"
+	},
+	{
+		"ID": "1430",
+		"Text": "Distribution Executive"
+	},
+	{
+		"ID": "1431",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "1432",
+		"Text": "Social Media/Marketing Officer"
+	},
+	{
+		"ID": "1433",
+		"Text": "SEO / Social Media Marketing Expert"
+	},
+	{
+		"ID": "1434",
+		"Text": "Student Counsellor and Coordinator"
+	},
+	{
+		"ID": "1435",
+		"Text": "Sales officer"
+	},
+	{
+		"ID": "1440",
+		"Text": "Accounts Payable Officer"
+	},
+	{
+		"ID": "1442",
+		"Text": "Hr & Admin Officer"
+	},
+	{
+		"ID": "1443",
+		"Text": "Female Call Center Agents"
+	},
+	{
+		"ID": "1444",
+		"Text": "TeleSales and TeleMarketing Executives"
+	},
+	{
+		"ID": "1445",
+		"Text": "Saleman"
+	},
+	{
+		"ID": "1446",
+		"Text": "Inbound Customer Support Executive"
+	},
+	{
+		"ID": "1447",
+		"Text": "Tele Sales Representatives"
+	},
+	{
+		"ID": "1448",
+		"Text": "Senior Embedded Systems Engineer"
+	},
+	{
+		"ID": "1451",
+		"Text": "Regional Coordinator"
+	},
+	{
+		"ID": "1455",
+		"Text": "O/A Level Qualified Teachers"
+	},
+	{
+		"ID": "1458",
+		"Text": "Operation Executive"
+	},
+	{
+		"ID": "1459",
+		"Text": "Web Developer / Designer"
+	},
+	{
+		"ID": "1460",
+		"Text": "Hybrid Mobile Developer"
+	},
+	{
+		"ID": "1462",
+		"Text": "WordPress Developer Required"
+	},
+	{
+		"ID": "1464",
+		"Text": "Warehouse Manager"
+	},
+	{
+		"ID": "1465",
+		"Text": "School Principal Required"
+	},
+	{
+		"ID": "1467",
+		"Text": "Calling Agents (Night Shift)"
+	},
+	{
+		"ID": "1469",
+		"Text": "Order Booker/ Sales Man"
+	},
+	{
+		"ID": "1473",
+		"Text": "Mobile App Developer (iOS / Android)"
+	},
+	{
+		"ID": "1477",
+		"Text": "Corporate Pre-Sales/Systems Engineer"
+	},
+	{
+		"ID": "1478",
+		"Text": "Recruitment Researcher"
+	},
+	{
+		"ID": "1479",
+		"Text": "Senior .Net Developer"
+	},
+	{
+		"ID": "1480",
+		"Text": "Careem Captin / Driver"
+	},
+	{
+		"ID": "1481",
+		"Text": "Uber driver"
+	},
+	{
+		"ID": "1482",
+		"Text": "Sales Officers"
+	},
+	{
+		"ID": "1484",
+		"Text": "Experienced Order Taker / Order Booker"
+	},
+	{
+		"ID": "1485",
+		"Text": "Experienced Uber Driver Required"
+	},
+	{
+		"ID": "1487",
+		"Text": "Data Scientist/Data Analyst"
+	},
+	{
+		"ID": "1488",
+		"Text": "PHP Developer/Wordpress"
+	},
+	{
+		"ID": "1490",
+		"Text": "Education Promotion"
+	},
+	{
+		"ID": "1491",
+		"Text": "Outbound Call Center-Night Shift"
+	},
+	{
+		"ID": "1494",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1496",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1497",
+		"Text": "Manager Software Development"
+	},
+	{
+		"ID": "1498",
+		"Text": "Pharmacist"
+	},
+	{
+		"ID": "1499",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "1500",
+		"Text": "MTO"
+	},
+	{
+		"ID": "1501",
+		"Text": "Warehouse/Parts Executive"
+	},
+	{
+		"ID": "1502",
+		"Text": "SEO Executive"
+	},
+	{
+		"ID": "1503",
+		"Text": "Call Center Agents (Night)"
+	},
+	{
+		"ID": "1504",
+		"Text": "Online Sales Internee"
+	},
+	{
+		"ID": "1505",
+		"Text": "Business Development Executive"
+	},
+	{
+		"ID": "1507",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1508",
+		"Text": "Client Services & Customer Support Executive"
+	},
+	{
+		"ID": "1509",
+		"Text": "Customer Support Specialist"
+	},
+	{
+		"ID": "1511",
+		"Text": "Office Assistant female"
+	},
+	{
+		"ID": "1513",
+		"Text": "Web / Graphic Designer"
+	},
+	{
+		"ID": "1514",
+		"Text": "Manager Sales & Marketing"
+	},
+	{
+		"ID": "1515",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1518",
+		"Text": "Sales & Marketing Executive"
+	},
+	{
+		"ID": "1519",
+		"Text": "Marketing Executives"
+	},
+	{
+		"ID": "1520",
+		"Text": "Female Computer Operator"
+	},
+	{
+		"ID": "1524",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1525",
+		"Text": "Personal Assistant job"
+	},
+	{
+		"ID": "1526",
+		"Text": "Admin & Accounts Officers"
+	},
+	{
+		"ID": "1529",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1530",
+		"Text": "Admin Officer"
+	},
+	{
+		"ID": "1531",
+		"Text": "Accounts Manager"
+	},
+	{
+		"ID": "1533",
+		"Text": "Accountant / Sales Officers"
+	},
+	{
+		"ID": "1536",
+		"Text": "Php Web Developer and Angular JS"
+	},
+	{
+		"ID": "1537",
+		"Text": "Assistant Manager REM"
+	},
+	{
+		"ID": "1538",
+		"Text": "Web/Mobile Developer"
+	},
+	{
+		"ID": "1540",
+		"Text": "Web Developer (Ruby on Rails)"
+	},
+	{
+		"ID": "1543",
+		"Text": "Web Developer(ASP.NET) Internee"
+	},
+	{
+		"ID": "1544",
+		"Text": "3D Artist for Mobile Game Designing"
+	},
+	{
+		"ID": "1545",
+		"Text": "Female Office Assistant"
+	},
+	{
+		"ID": "1546",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1547",
+		"Text": "Senoir PHP Developer Team Lead"
+	},
+	{
+		"ID": "1548",
+		"Text": "CG Artist"
+	},
+	{
+		"ID": "1549",
+		"Text": "Trainee Manager"
+	},
+	{
+		"ID": "1550",
+		"Text": "Copy/Content Writer And Creative Writer - Executive"
+	},
+	{
+		"ID": "1551",
+		"Text": "PHP Developer/Wordpress"
+	},
+	{
+		"ID": "1554",
+		"Text": "PPC Manager"
+	},
+	{
+		"ID": "1555",
+		"Text": "HR Representative (Young & Energetic Person)"
+	},
+	{
+		"ID": "1556",
+		"Text": "Female Staff Required for Social Media Promotion"
+	},
+	{
+		"ID": "1557",
+		"Text": "Marketing Team For Business Services"
+	},
+	{
+		"ID": "1559",
+		"Text": "Receptionist - Female"
+	},
+	{
+		"ID": "1560",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "1561",
+		"Text": "FINANCIAL SALES MANAGER & FINANCIAL CONSULTANT"
+	},
+	{
+		"ID": "1562",
+		"Text": "CALL CENTER JOBS TSR / CSR JOBS"
+	},
+	{
+		"ID": "1563",
+		"Text": "Business Development"
+	},
+	{
+		"ID": "1564",
+		"Text": "International Calling Agent"
+	},
+	{
+		"ID": "1565",
+		"Text": "Management Officer Required"
+	},
+	{
+		"ID": "1566",
+		"Text": "Marketing Executive"
+	},
+	{
+		"ID": "1567",
+		"Text": "Full Stack Web Developer"
+	},
+	{
+		"ID": "1568",
+		"Text": "Outbound Call Center-Night Shift"
+	},
+	{
+		"ID": "1569",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "1570",
+		"Text": "TSR / CSR Required"
+	},
+	{
+		"ID": "1571",
+		"Text": "SALES MAN"
+	},
+	{
+		"ID": "1572",
+		"Text": "Dot .Net Developer"
+	},
+	{
+		"ID": "1573",
+		"Text": "Accountant Required"
+	},
+	{
+		"ID": "1574",
+		"Text": "Home Tutor/Teacher"
+	},
+	{
+		"ID": "1575",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1576",
+		"Text": "Social Media Expert"
+	},
+	{
+		"ID": "1579",
+		"Text": "Delivery Riders"
+	},
+	{
+		"ID": "1583",
+		"Text": "Operations executive"
+	},
+	{
+		"ID": "1586",
+		"Text": "After Sales executive"
+	},
+	{
+		"ID": "1590",
+		"Text": "Marketing Associate cum Office Manager"
+	},
+	{
+		"ID": "1592",
+		"Text": "ASO/Mobile App Marketing Expert"
+	},
+	{
+		"ID": "1595",
+		"Text": "HR Internee"
+	},
+	{
+		"ID": "1596",
+		"Text": "CCTV Hardware Engineer"
+	},
+	{
+		"ID": "1597",
+		"Text": "Female Staff for Teaching"
+	},
+	{
+		"ID": "1598",
+		"Text": "Internee NOC"
+	},
+	{
+		"ID": "1599",
+		"Text": "Fresh Technician"
+	},
+	{
+		"ID": "1600",
+		"Text": "Sales Staff in different Positions"
+	},
+	{
+		"ID": "1602",
+		"Text": "Office boy"
+	},
+	{
+		"ID": "1603",
+		"Text": "Female Customer Service Representative"
+	},
+	{
+		"ID": "1608",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "1609",
+		"Text": "Sales Executive Night Shift"
+	},
+	{
+		"ID": "1610",
+		"Text": "Female Computer Operator"
+	},
+	{
+		"ID": "1611",
+		"Text": "Sales and Marketing Executive"
+	},
+	{
+		"ID": "1613",
+		"Text": "Markeeting Coordinator"
+	},
+	{
+		"ID": "1614",
+		"Text": "Computer Operator / Typist"
+	},
+	{
+		"ID": "1615",
+		"Text": "Field Sales and Recovery Personnel"
+	},
+	{
+		"ID": "1616",
+		"Text": "Receptionist"
+	},
+	{
+		"ID": "1617",
+		"Text": "PHP/Python Developer"
+	},
+	{
+		"ID": "1618",
+		"Text": "ERP & IT Administrator"
+	},
+	{
+		"ID": "1619",
+		"Text": "Field Sales and Recovery Personnel"
+	},
+	{
+		"ID": "1623",
+		"Text": "Office Assistant / Manager"
+	},
+	{
+		"ID": "1624",
+		"Text": "Web Developer PHP and Angular JS"
+	},
+	{
+		"ID": "1626",
+		"Text": "Office manager/ Secretary"
+	},
+	{
+		"ID": "1627",
+		"Text": "Female Telesales Representatives"
+	},
+	{
+		"ID": "1629",
+		"Text": "Php Web Developer"
+	},
+	{
+		"ID": "1630",
+		"Text": "Telesales Representatives"
+	},
+	{
+		"ID": "1631",
+		"Text": "Call Center Agents"
+	},
+	{
+		"ID": "1632",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "1634",
+		"Text": "IT MANAGER"
+	},
+	{
+		"ID": "1635",
+		"Text": "Web/Mobile Developer"
+	},
+	{
+		"ID": "1642",
+		"Text": "Female Interior Designer"
+	},
+	{
+		"ID": "1643",
+		"Text": "Front End Developer"
+	},
+	{
+		"ID": "1644",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1645",
+		"Text": "Customer Support Officer"
+	},
+	{
+		"ID": "1646",
+		"Text": "Home Tutors"
+	},
+	{
+		"ID": "1647",
+		"Text": "Performance Coordinator"
+	},
+	{
+		"ID": "1648",
+		"Text": "Accounts and Operations Officer"
+	},
+	{
+		"ID": "1649",
+		"Text": "Client support specialist Islamabad"
+	},
+	{
+		"ID": "1650",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1651",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1653",
+		"Text": "Office Assistant Female"
+	},
+	{
+		"ID": "1655",
+		"Text": "IR & A Executive"
+	},
+	{
+		"ID": "1658",
+		"Text": "Branch Manager Sales (Hyderabad)"
+	},
+	{
+		"ID": "1661",
+		"Text": "Front End Developer"
+	},
+	{
+		"ID": "1663",
+		"Text": "Technical Sales Engineer"
+	},
+	{
+		"ID": "1664",
+		"Text": "HR Consultant"
+	},
+	{
+		"ID": "1665",
+		"Text": "Business Development Manager"
+	},
+	{
+		"ID": "1666",
+		"Text": "Account Officer"
+	},
+	{
+		"ID": "1667",
+		"Text": "Operation Officer"
+	},
+	{
+		"ID": "1669",
+		"Text": "International Call Center Executive"
+	},
+	{
+		"ID": "1670",
+		"Text": "Computer Operator/Typist"
+	},
+	{
+		"ID": "1671",
+		"Text": "Call Center Agents"
+	},
+	{
+		"ID": "1672",
+		"Text": "Unity 3D Developer / Game Developer"
+	},
+	{
+		"ID": "1673",
+		"Text": "3D Modeler / CG Artists"
+	},
+	{
+		"ID": "1674",
+		"Text": "GRAPHIC DESIGN INTERN"
+	},
+	{
+		"ID": "1675",
+		"Text": "Web / Graphic Designer"
+	},
+	{
+		"ID": "1676",
+		"Text": "Pre-Press Graphics Designer"
+	},
+	{
+		"ID": "1679",
+		"Text": "Home Tutor needed for FSc Math Phy"
+	},
+	{
+		"ID": "1680",
+		"Text": "Mechanical Engineer"
+	},
+	{
+		"ID": "1681",
+		"Text": "Finance Manager Male-Female"
+	},
+	{
+		"ID": "1682",
+		"Text": "Client Support Executive Islamabad"
+	},
+	{
+		"ID": "1683",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1685",
+		"Text": "Full Stack Web Developer"
+	},
+	{
+		"ID": "1686",
+		"Text": "Illustrator and 2D Animator"
+	},
+	{
+		"ID": "1687",
+		"Text": "Construction Manger / Structure Engineer / Planning Engineer"
+	},
+	{
+		"ID": "1691",
+		"Text": "School Principal Required"
+	},
+	{
+		"ID": "1697",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1698",
+		"Text": "CTP Operator for Big Printing Press (Urgent)"
+	},
+	{
+		"ID": "1699",
+		"Text": "Content Writer & Editor"
+	},
+	{
+		"ID": "1703",
+		"Text": "Marketing / Sales Officer"
+	},
+	{
+		"ID": "1705",
+		"Text": "Senior App Developer"
+	},
+	{
+		"ID": "1709",
+		"Text": "Nurses and Nursing Assistant"
+	},
+	{
+		"ID": "1710",
+		"Text": "Sales Lady"
+	},
+	{
+		"ID": "1712",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "1713",
+		"Text": "Client Support Specialist"
+	},
+	{
+		"ID": "1714",
+		"Text": "ASST. ACCOUNTANT"
+	},
+	{
+		"ID": "1715",
+		"Text": "Business Analyst"
+	},
+	{
+		"ID": "1716",
+		"Text": "UI/UX designer"
+	},
+	{
+		"ID": "1717",
+		"Text": "Tel Sales Lady"
+	},
+	{
+		"ID": "1719",
+		"Text": "SEO/SEM Executive"
+	},
+	{
+		"ID": "1720",
+		"Text": "Google Ads"
+	},
+	{
+		"ID": "1721",
+		"Text": "Female Research & Data Entry Operators Required"
+	},
+	{
+		"ID": "1722",
+		"Text": "Sales & Marketing Executives"
+	},
+	{
+		"ID": "1723",
+		"Text": "Ecommerce - Website Administrator"
+	},
+	{
+		"ID": "1724",
+		"Text": "SALES MANAGER & SALES CONSULTANT"
+	},
+	{
+		"ID": "1725",
+		"Text": "Office Assistant / Manager"
+	},
+	{
+		"ID": "1726",
+		"Text": "Computer Operator / Operation Manager / Assistant"
+	},
+	{
+		"ID": "1727",
+		"Text": "Front Desk Officer / Information Officer"
+	},
+	{
+		"ID": "1728",
+		"Text": "Assistant"
+	},
+	{
+		"ID": "1729",
+		"Text": "Receptionist / Personal Assistant"
+	},
+	{
+		"ID": "1730",
+		"Text": "HR Executive"
+	},
+	{
+		"ID": "1734",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "1735",
+		"Text": "Web Developer (Asp.NET)"
+	},
+	{
+		"ID": "1736",
+		"Text": "ASP.Net Developer"
+	},
+	{
+		"ID": "1737",
+		"Text": "Computer Operator / operation Manager / Assistant"
+	},
+	{
+		"ID": "1738",
+		"Text": "Sale executive"
+	},
+	{
+		"ID": "1741",
+		"Text": "Management Trainee Officer"
+	},
+	{
+		"ID": "1743",
+		"Text": "Internee Developer"
+	},
+	{
+		"ID": "1744",
+		"Text": "ios developer"
+	},
+	{
+		"ID": "1745",
+		"Text": "Unity 2D Developer"
+	},
+	{
+		"ID": "1746",
+		"Text": "????? ??????????? ???????? ????????"
+	},
+	{
+		"ID": "1748",
+		"Text": "Sales & Customer Services Officer"
+	},
+	{
+		"ID": "1749",
+		"Text": "Software QA Engineer"
+	},
+	{
+		"ID": "1750",
+		"Text": "Call Center Internee"
+	},
+	{
+		"ID": "1751",
+		"Text": "Sales Staff"
+	},
+	{
+		"ID": "1752",
+		"Text": "Marketing & Sales Executive"
+	},
+	{
+		"ID": "1753",
+		"Text": "Audio Editor"
+	},
+	{
+		"ID": "1754",
+		"Text": "Clerical Job"
+	},
+	{
+		"ID": "1756",
+		"Text": "Telemarketing Executives"
+	},
+	{
+		"ID": "1757",
+		"Text": "Web Developer Internee"
+	},
+	{
+		"ID": "1758",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "1764",
+		"Text": "Brand Promotor"
+	},
+	{
+		"ID": "1766",
+		"Text": "Accounts executive"
+	},
+	{
+		"ID": "1770",
+		"Text": "SEO Specialist"
+	},
+	{
+		"ID": "1771",
+		"Text": "Electrical Manager"
+	},
+	{
+		"ID": "1772",
+		"Text": "2D / 3D Artist"
+	},
+	{
+		"ID": "1773",
+		"Text": "Php Web Developer"
+	},
+	{
+		"ID": "1774",
+		"Text": "Customer Service Represntative"
+	},
+	{
+		"ID": "1775",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "1776",
+		"Text": "Content Writer & Editor"
+	},
+	{
+		"ID": "1777",
+		"Text": "HR Manager"
+	},
+	{
+		"ID": "1779",
+		"Text": "Mechanical Engineering Project"
+	},
+	{
+		"ID": "1780",
+		"Text": "Quality Assurance Officer"
+	},
+	{
+		"ID": "1781",
+		"Text": "Electrician"
+	},
+	{
+		"ID": "1782",
+		"Text": "Welder"
+	},
+	{
+		"ID": "1783",
+		"Text": "Doctor Specialist"
+	},
+	{
+		"ID": "1784",
+		"Text": "Stenographer Required"
+	},
+	{
+		"ID": "1786",
+		"Text": "Merchandiser"
+	},
+	{
+		"ID": "1787",
+		"Text": "Ecommerce - Website Administrator"
+	},
+	{
+		"ID": "1788",
+		"Text": "CEO REQUIRED"
+	},
+	{
+		"ID": "1793",
+		"Text": "WordPress PHP Back end Developer"
+	},
+	{
+		"ID": "1798",
+		"Text": "Receptionist female"
+	},
+	{
+		"ID": "1800",
+		"Text": "law Intern"
+	},
+	{
+		"ID": "1801",
+		"Text": "Editor for English Newspaper"
+	},
+	{
+		"ID": "1804",
+		"Text": "Business Development Executive"
+	},
+	{
+		"ID": "1805",
+		"Text": "Office boy / Peon"
+	},
+	{
+		"ID": "1807",
+		"Text": "Sales and Marketing"
+	},
+	{
+		"ID": "1811",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1812",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1813",
+		"Text": "Telesales Representatives"
+	},
+	{
+		"ID": "1816",
+		"Text": "Restaurant Staff Required"
+	},
+	{
+		"ID": "1817",
+		"Text": "Bike Riders / Delivery Boys"
+	},
+	{
+		"ID": "1819",
+		"Text": "Lady Doctor Required for Dispensary"
+	},
+	{
+		"ID": "1820",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1821",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1822",
+		"Text": "Cashiers"
+	},
+	{
+		"ID": "1823",
+		"Text": "Sales Staff-Grocery"
+	},
+	{
+		"ID": "1824",
+		"Text": "Fabric & Accessory Store Manger"
+	},
+	{
+		"ID": "1828",
+		"Text": "Site Supervisor"
+	},
+	{
+		"ID": "1829",
+		"Text": "Front End Developer"
+	},
+	{
+		"ID": "1830",
+		"Text": "Data Entry Operators"
+	},
+	{
+		"ID": "1831",
+		"Text": "UI / UX Designer"
+	},
+	{
+		"ID": "1832",
+		"Text": "IT Assistant ( Internee unpaid)"
+	},
+	{
+		"ID": "1835",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1837",
+		"Text": "Content Writer & Editor"
+	},
+	{
+		"ID": "1838",
+		"Text": "Medical Representative"
+	},
+	{
+		"ID": "1839",
+		"Text": "Recruitment Researcher"
+	},
+	{
+		"ID": "1844",
+		"Text": "HR Executive"
+	},
+	{
+		"ID": "1845",
+		"Text": "Electronics Engineer"
+	},
+	{
+		"ID": "1846",
+		"Text": "JavaScript/Angular JS Engineer"
+	},
+	{
+		"ID": "1848",
+		"Text": "Marketing Manager"
+	},
+	{
+		"ID": "1849",
+		"Text": "Marketing Executives"
+	},
+	{
+		"ID": "1851",
+		"Text": "English Content Writers are Required Urgently"
+	},
+	{
+		"ID": "1852",
+		"Text": "TSR"
+	},
+	{
+		"ID": "1853",
+		"Text": ".Net / MVC Developer"
+	},
+	{
+		"ID": "1855",
+		"Text": "International Call Center Executive (Night)"
+	},
+	{
+		"ID": "1856",
+		"Text": "Male Medical Officer"
+	},
+	{
+		"ID": "1857",
+		"Text": "Sales & Marketing Officer"
+	},
+	{
+		"ID": "1858",
+		"Text": "Trainee Reporter"
+	},
+	{
+		"ID": "1859",
+		"Text": "Business Development Manager"
+	},
+	{
+		"ID": "1860",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1862",
+		"Text": "Software Developer (Full-Time/Part-Time/Freelance)"
+	},
+	{
+		"ID": "1864",
+		"Text": "Manager HR & Admin"
+	},
+	{
+		"ID": "1867",
+		"Text": "Business Development Manager"
+	},
+	{
+		"ID": "1868",
+		"Text": "Senior Software Engineer"
+	},
+	{
+		"ID": "1870",
+		"Text": "Marketing Communication Executive"
+	},
+	{
+		"ID": "1871",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1872",
+		"Text": "Customer Support Executive"
+	},
+	{
+		"ID": "1873",
+		"Text": "Customer Support Specilist"
+	},
+	{
+		"ID": "1875",
+		"Text": "International Calling Agent (Night Shift)"
+	},
+	{
+		"ID": "1876",
+		"Text": "Telemarketing Sales Representative"
+	},
+	{
+		"ID": "1877",
+		"Text": "CSR"
+	},
+	{
+		"ID": "1884",
+		"Text": "Trainee Manager"
+	},
+	{
+		"ID": "1886",
+		"Text": "SO"
+	},
+	{
+		"ID": "1887",
+		"Text": "Health & Safety Officer"
+	},
+	{
+		"ID": "1891",
+		"Text": "SEO Executive"
+	},
+	{
+		"ID": "1894",
+		"Text": "Graphic Designer (Intern)"
+	},
+	{
+		"ID": "1897",
+		"Text": "Pedicure / Manicure Facial Specialist"
+	},
+	{
+		"ID": "1898",
+		"Text": "Unity 3D Developer / Game Developer"
+	},
+	{
+		"ID": "1899",
+		"Text": "Sales & Marketing Officer"
+	},
+	{
+		"ID": "1901",
+		"Text": "Admin Officer"
+	},
+	{
+		"ID": "1903",
+		"Text": "SEO Expert"
+	},
+	{
+		"ID": "1904",
+		"Text": "Office Assistant / Manager"
+	},
+	{
+		"ID": "1905",
+		"Text": "Computer Operator / Operation Manager / Assistant"
+	},
+	{
+		"ID": "1908",
+		"Text": "Graphics Designer"
+	},
+	{
+		"ID": "1909",
+		"Text": "Ecommerce Development Specialist - Magento"
+	},
+	{
+		"ID": "1910",
+		"Text": "E-commerce business manager"
+	},
+	{
+		"ID": "1911",
+		"Text": "Assistant Human Resource Manager"
+	},
+	{
+		"ID": "1913",
+		"Text": "Laravel and AngularJS Developer"
+	},
+	{
+		"ID": "1915",
+		"Text": "Sales Consultants/Financial Advisors"
+	},
+	{
+		"ID": "1919",
+		"Text": "CSR/TSR"
+	},
+	{
+		"ID": "1923",
+		"Text": "SEO/Search Engine Optimization/Digital Marketing"
+	},
+	{
+		"ID": "1924",
+		"Text": "Senior .Net Developer"
+	},
+	{
+		"ID": "1927",
+		"Text": "Pedicure / Manicure Facial Specialist"
+	},
+	{
+		"ID": "1928",
+		"Text": "Education Promotion (Intern)"
+	},
+	{
+		"ID": "1929",
+		"Text": "Accountant "
+	},
+	{
+		"ID": "1941",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1942",
+		"Text": "Junior HTML Developer - Intern"
+	},
+	{
+		"ID": "1945",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1946",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "1951",
+		"Text": "ASP.Net Developer"
+	},
+	{
+		"ID": "1952",
+		"Text": "HR Officer"
+	},
+	{
+		"ID": "1953",
+		"Text": "Content Writing"
+	},
+	{
+		"ID": "1954",
+		"Text": "Machine Operators (DAE)"
+	},
+	{
+		"ID": "1955",
+		"Text": "Social Media Expert"
+	},
+	{
+		"ID": "1958",
+		"Text": "CRO"
+	},
+	{
+		"ID": "1962",
+		"Text": "Team Lead App Development (iOS/Android)"
+	},
+	{
+		"ID": "1963",
+		"Text": "Senior App Developer (iOS/Android)"
+	},
+	{
+		"ID": "1964",
+		"Text": "Customer Support Representative"
+	},
+	{
+		"ID": "1965",
+		"Text": "TSR / CSR"
+	},
+	{
+		"ID": "1966",
+		"Text": "TSR"
+	},
+	{
+		"ID": "1971",
+		"Text": "Bike Riders / Delivery Boys"
+	},
+	{
+		"ID": "1972",
+		"Text": "Assistant Accounts officer"
+	},
+	{
+		"ID": "1973",
+		"Text": "SEO Expert"
+	},
+	{
+		"ID": "1974",
+		"Text": "Graphic designer / Data Entry"
+	},
+	{
+		"ID": "1982",
+		"Text": "HR Manager"
+	},
+	{
+		"ID": "1983",
+		"Text": "Deployment Supervisor Operation"
+	},
+	{
+		"ID": "1987",
+		"Text": "HR Manager"
+	},
+	{
+		"ID": "1988",
+		"Text": "Social Media Marketing Expert"
+	},
+	{
+		"ID": "1989",
+		"Text": "Restaurant Staff Required"
+	},
+	{
+		"ID": "1990",
+		"Text": "HR Executive"
+	},
+	{
+		"ID": "1991",
+		"Text": "SENIOR CHEF"
+	},
+	{
+		"ID": "1992",
+		"Text": "Sales and Marketing Officer"
+	},
+	{
+		"ID": "1993",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "1999",
+		"Text": "Senior Quality Assurance"
+	},
+	{
+		"ID": "2000",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "2004",
+		"Text": "Production Supervisor"
+	},
+	{
+		"ID": "2006",
+		"Text": "Hospital Administrator"
+	},
+	{
+		"ID": "2007",
+		"Text": "SQA Engineer"
+	},
+	{
+		"ID": "2008",
+		"Text": "SEO/Search Engine Optimization/Digital Marketing"
+	},
+	{
+		"ID": "2010",
+		"Text": "Senior Java Developer"
+	},
+	{
+		"ID": "2012",
+		"Text": "CAKE BAKER"
+	},
+	{
+		"ID": "2022",
+		"Text": "Call Center Representative/ TSR"
+	},
+	{
+		"ID": "2023",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "2025",
+		"Text": "Social Media Marketer and Website Developer"
+	},
+	{
+		"ID": "2026",
+		"Text": "Admin & HR Executive"
+	},
+	{
+		"ID": "2032",
+		"Text": "Unity 2-D Game Developer"
+	},
+	{
+		"ID": "2033",
+		"Text": "Doctor Specialist"
+	},
+	{
+		"ID": "2034",
+		"Text": "Production Helper"
+	},
+	{
+		"ID": "2037",
+		"Text": "Student Counselor and Coordinator"
+	},
+	{
+		"ID": "2038",
+		"Text": "QC Officer"
+	},
+	{
+		"ID": "2040",
+		"Text": "Customer Services Executive"
+	},
+	{
+		"ID": "2041",
+		"Text": "Civil Engineer cum Quantity Surveyor"
+	},
+	{
+		"ID": "2042",
+		"Text": "Wordpress Developer"
+	},
+	{
+		"ID": "2043",
+		"Text": "Call Center Agents/TSR"
+	},
+	{
+		"ID": "2045",
+		"Text": ".Net Developer"
+	},
+	{
+		"ID": "2050",
+		"Text": "Structure Draftsman"
+	},
+	{
+		"ID": "2054",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "2057",
+		"Text": "Hostel Manager"
+	},
+	{
+		"ID": "2063",
+		"Text": "Software Quality Assurance"
+	},
+	{
+		"ID": "2064",
+		"Text": "Embedded Systems Engineer (Intern)"
+	},
+	{
+		"ID": "2068",
+		"Text": "Assistant Merchandizer"
+	},
+	{
+		"ID": "2070",
+		"Text": "Store / Warehouse Helper"
+	},
+	{
+		"ID": "2073",
+		"Text": "HR Executive"
+	},
+	{
+		"ID": "2074",
+		"Text": "Graphic Designer / 3d Modeler"
+	},
+	{
+		"ID": "2077",
+		"Text": "ASST. ACCOUNTANT"
+	},
+	{
+		"ID": "2079",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "2080",
+		"Text": "Administrator"
+	},
+	{
+		"ID": "2090",
+		"Text": "Finance Officer"
+	},
+	{
+		"ID": "2091",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "2092",
+		"Text": "New Opportunity Staff Required for Lahore 2017"
+	},
+	{
+		"ID": "2095",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "2096",
+		"Text": "Company Secretary / Manager Legal"
+	},
+	{
+		"ID": "2097",
+		"Text": "Business Development & Sales Executive"
+	},
+	{
+		"ID": "2098",
+		"Text": "Graphic Designer"
+	},
+	{
+		"ID": "2099",
+		"Text": "Student Volunteer"
+	},
+	{
+		"ID": "2100",
+		"Text": "Software Quality Assurance"
+	},
+	{
+		"ID": "2105",
+		"Text": "Data Entry Operators"
+	},
+	{
+		"ID": "2106",
+		"Text": "Customer Sales Representative"
+	},
+	{
+		"ID": "2107",
+		"Text": "Sales and Marketing Executives"
+	},
+	{
+		"ID": "2108",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "2109",
+		"Text": "Sales Executive"
+	},
+	{
+		"ID": "2110",
+		"Text": "Chemical Engineers required"
+	},
+	{
+		"ID": "2112",
+		"Text": "SEO Executive"
+	},
+	{
+		"ID": "2113",
+		"Text": "ASP.Net Developer"
+	},
+	{
+		"ID": "2118",
+		"Text": "HR Internee"
+	},
+	{
+		"ID": "2121",
+		"Text": "Customer Service Representative"
+	},
+	{
+		"ID": "2123",
+		"Text": "2D Artist Intern"
+	},
+	{
+		"ID": "2127",
+		"Text": "Tele Marketing / Sales Representative"
+	},
+	{
+		"ID": "2129",
+		"Text": "Data Operator/ Computer Operator"
+	},
+	{
+		"ID": "2130",
+		"Text": "Civil Supervisor"
+	},
+	{
+		"ID": "2131",
+		"Text": "Content Writer"
+	},
+	{
+		"ID": "2132",
+		"Text": "Network Technician / Installer"
+	},
+	{
+		"ID": "2134",
+		"Text": "Customer Service Representative / TSR"
+	},
+	{
+		"ID": "2136",
+		"Text": "Manager Accounts"
+	},
+	{
+		"ID": "2137",
+		"Text": "Outbound Sales Agents"
+	},
+	{
+		"ID": "2138",
+		"Text": "Principal + Senior.NET Developer"
+	},
+	{
+		"ID": "2139",
+		"Text": "SEO Executive"
+	},
+	{
+		"ID": "2140",
+		"Text": "Assistant Sales Manager"
+	}
+]

@@ -1,0 +1,42 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Non-Matriculation"
+	},
+	{
+		"ID": "2",
+		"Text": "Matriculation/O-Level"
+	},
+	{
+		"ID": "3",
+		"Text": "Intermediate/A-Level"
+	},
+	{
+		"ID": "4",
+		"Text": "Bachelors"
+	},
+	{
+		"ID": "5",
+		"Text": "Masters"
+	},
+	{
+		"ID": "6",
+		"Text": "MPhil/MS"
+	},
+	{
+		"ID": "7",
+		"Text": "PHD/Doctorate"
+	},
+	{
+		"ID": "8",
+		"Text": "Certification"
+	},
+	{
+		"ID": "9",
+		"Text": "Diploma"
+	},
+	{
+		"ID": "10",
+		"Text": "Short Course"
+	}
+]

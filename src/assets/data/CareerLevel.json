@@ -1,0 +1,22 @@
+﻿[
+	{
+		"ID": "1",
+		"Text": "Entry Level"
+	},
+	{
+		"ID": "2",
+		"Text": "Intermediate"
+	},
+	{
+		"ID": "3",
+		"Text": "Experienced Professional"
+	},
+	{
+		"ID": "4",
+		"Text": "Department Head"
+	},
+	{
+		"ID": "5",
+		"Text": "GM / CEO / Country Head / President"
+	}
+]
